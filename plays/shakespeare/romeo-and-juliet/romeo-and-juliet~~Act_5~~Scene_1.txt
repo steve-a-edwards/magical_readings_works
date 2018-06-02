@@ -1,0 +1,115 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          Romeo And Juliet : Act 5 : Scene 1
+
+SCENE I. Mantua. A street.
+  Direction: Enter ROMEO
+    ROMEO
+        1  If I may trust the flattering truth of sleep,
+        2  My dreams presage some joyful news at hand:
+        3  My bosom's lord sits lightly in his throne;
+        4  And all this day an unaccustom'd spirit
+        5  Lifts me above the ground with cheerful thoughts.
+        6  I dreamt my lady came and found me dead--
+        7  Strange dream, that gives a dead man leave
+        8  to think!--
+        9  And breathed such life with kisses in my lips,
+       10  That I revived, and was an emperor.
+       11  Ah me! how sweet is love itself possess'd,
+       12  When but love's shadows are so rich in joy!
+  Direction: Enter BALTHASAR, booted
+       13  News from Verona!--How now, Balthasar!
+       14  Dost thou not bring me letters from the friar?
+       15  How doth my lady? Is my father well?
+       16  How fares my Juliet? that I ask again;
+       17  For nothing can be ill, if she be well.
+    BALTHASAR
+       18  Then she is well, and nothing can be ill:
+       19  Her body sleeps in Capel's monument,
+       20  And her immortal part with angels lives.
+       21  I saw her laid low in her kindred's vault,
+       22  And presently took post to tell it you:
+       23  O, pardon me for bringing these ill news,
+       24  Since you did leave it for my office, sir.
+    ROMEO
+       25  Is it even so? then I defy you, stars!
+       26  Thou know'st my lodging: get me ink and paper,
+       27  And hire post-horses; I will hence to-night.
+    BALTHASAR
+       28  I do beseech you, sir, have patience:
+       29  Your looks are pale and wild, and do import
+       30  Some misadventure.
+    ROMEO
+       31  Tush, thou art deceived:
+       32  Leave me, and do the thing I bid thee do.
+       33  Hast thou no letters to me from the friar?
+    BALTHASAR
+       34  No, my good lord.
+    ROMEO
+       35  No matter: get thee gone,
+       36  And hire those horses; I'll be with thee straight.
+  Direction: Exit BALTHASAR
+       37  Well, Juliet, I will lie with thee to-night.
+       38  Let's see for means: O mischief, thou art swift
+       39  To enter in the thoughts of desperate men!
+       40  I do remember an apothecary,--
+       41  And hereabouts he dwells,--which late I noted
+       42  In tatter'd weeds, with overwhelming brows,
+       43  Culling of simples; meagre were his looks,
+       44  Sharp misery had worn him to the bones:
+       45  And in his needy shop a tortoise hung,
+       46  An alligator stuff'd, and other skins
+       47  Of ill-shaped fishes; and about his shelves
+       48  A beggarly account of empty boxes,
+       49  Green earthen pots, bladders and musty seeds,
+       50  Remnants of packthread and old cakes of roses,
+       51  Were thinly scatter'd, to make up a show.
+       52  Noting this penury, to myself I said
+       53  'An if a man did need a poison now,
+       54  Whose sale is present death in Mantua,
+       55  Here lives a caitiff wretch would sell it him.'
+       56  O, this same thought did but forerun my need;
+       57  And this same needy man must sell it me.
+       58  As I remember, this should be the house.
+       59  Being holiday, the beggar's shop is shut.
+       60  What, ho! apothecary!
+  Direction: Enter Apothecary
+    Apothecary
+       61  Who calls so loud?
+    ROMEO
+       62  Come hither, man. I see that thou art poor:
+       63  Hold, there is forty ducats: let me have
+       64  A dram of poison, such soon-speeding gear
+       65  As will disperse itself through all the veins
+       66  That the life-weary taker may fall dead
+       67  And that the trunk may be discharged of breath
+       68  As violently as hasty powder fired
+       69  Doth hurry from the fatal cannon's womb.
+    Apothecary
+       70  Such mortal drugs I have; but Mantua's law
+       71  Is death to any he that utters them.
+    ROMEO
+       72  Art thou so bare and full of wretchedness,
+       73  And fear'st to die? famine is in thy cheeks,
+       74  Need and oppression starveth in thine eyes,
+       75  Contempt and beggary hangs upon thy back;
+       76  The world is not thy friend nor the world's law;
+       77  The world affords no law to make thee rich;
+       78  Then be not poor, but break it, and take this.
+    Apothecary
+       79  My poverty, but not my will, consents.
+    ROMEO
+       80  I pay thy poverty, and not thy will.
+    Apothecary
+       81  Put this in any liquid thing you will,
+       82  And drink it off; and, if you had the strength
+       83  Of twenty men, it would dispatch you straight.
+    ROMEO
+       84  There is thy gold, worse poison to men's souls,
+       85  Doing more murders in this loathsome world,
+       86  Than these poor compounds that thou mayst not sell.
+       87  I sell thee poison; thou hast sold me none.
+       88  Farewell: buy food, and get thyself in flesh.
+       89  Come, cordial and not poison, go with me
+       90  To Juliet's grave; for there must I use thee.
+  Direction: Exeunt
