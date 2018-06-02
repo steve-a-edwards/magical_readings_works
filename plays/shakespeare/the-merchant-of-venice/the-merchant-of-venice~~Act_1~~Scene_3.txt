@@ -1,0 +1,239 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          The Merchant Of Venice : Act 1 : Scene 3
+
+SCENE III. Venice. A public place.
+  Direction: Enter BASSANIO and SHYLOCK
+    SHYLOCK
+        1  Three thousand ducats; well.
+    BASSANIO
+        2  Ay, sir, for three months.
+    SHYLOCK
+        3  For three months; well.
+    BASSANIO
+        4  For the which, as I told you, Antonio shall be bound.
+    SHYLOCK
+        5  Antonio shall become bound; well.
+    BASSANIO
+        6  May you stead me? will you pleasure me? shall I
+        7  know your answer?
+    SHYLOCK
+        8  Three thousand ducats for three months and Antonio bound.
+    BASSANIO
+        9  Your answer to that.
+    SHYLOCK
+       10  Antonio is a good man.
+    BASSANIO
+       11  Have you heard any imputation to the contrary?
+    SHYLOCK
+       12  Oh, no, no, no, no: my meaning in saying he is a
+       13  good man is to have you understand me that he is
+       14  sufficient. Yet his means are in supposition: he
+       15  hath an argosy bound to Tripolis, another to the
+       16  Indies; I understand moreover, upon the Rialto, he
+       17  hath a third at Mexico, a fourth for England, and
+       18  other ventures he hath, squandered abroad. But ships
+       19  are but boards, sailors but men: there be land-rats
+       20  and water-rats, water-thieves and land-thieves, I
+       21  mean pirates, and then there is the peril of waters,
+       22  winds and rocks. The man is, notwithstanding,
+       23  sufficient. Three thousand ducats; I think I may
+       24  take his bond.
+    BASSANIO
+       25  Be assured you may.
+    SHYLOCK
+       26  I will be assured I may; and, that I may be assured,
+       27  I will bethink me. May I speak with Antonio?
+    BASSANIO
+       28  If it please you to dine with us.
+    SHYLOCK
+       29  Yes, to smell pork; to eat of the habitation which
+       30  your prophet the Nazarite conjured the devil into. I
+       31  will buy with you, sell with you, talk with you,
+       32  walk with you, and so following, but I will not eat
+       33  with you, drink with you, nor pray with you. What
+       34  news on the Rialto? Who is he comes here?
+  Direction: Enter ANTONIO
+    BASSANIO
+       35  This is Signior Antonio.
+    SHYLOCK
+       36  [Aside] How like a fawning publican he looks!
+       37  I hate him for he is a Christian,
+       38  But more for that in low simplicity
+       39  He lends out money gratis and brings down
+       40  The rate of usance here with us in Venice.
+       41  If I can catch him once upon the hip,
+       42  I will feed fat the ancient grudge I bear him.
+       43  He hates our sacred nation, and he rails,
+       44  Even there where merchants most do congregate,
+       45  On me, my bargains and my well-won thrift,
+       46  Which he calls interest. Cursed be my tribe,
+       47  If I forgive him!
+    BASSANIO
+       48  Shylock, do you hear?
+    SHYLOCK
+       49  I am debating of my present store,
+       50  And, by the near guess of my memory,
+       51  I cannot instantly raise up the gross
+       52  Of full three thousand ducats. What of that?
+       53  Tubal, a wealthy Hebrew of my tribe,
+       54  Will furnish me. But soft! how many months
+       55  Do you desire?
+  Direction: To ANTONIO
+       56  Rest you fair, good signior;
+       57  Your worship was the last man in our mouths.
+    ANTONIO
+       58  Shylock, although I neither lend nor borrow
+       59  By taking nor by giving of excess,
+       60  Yet, to supply the ripe wants of my friend,
+       61  I'll break a custom. Is he yet possess'd
+       62  How much ye would?
+    SHYLOCK
+       63  Ay, ay, three thousand ducats.
+    ANTONIO
+       64  And for three months.
+    SHYLOCK
+       65  I had forgot; three months; you told me so.
+       66  Well then, your bond; and let me see; but hear you;
+       67  Methought you said you neither lend nor borrow
+       68  Upon advantage.
+    ANTONIO
+       69  I do never use it.
+    SHYLOCK
+       70  When Jacob grazed his uncle Laban's sheep--
+       71  This Jacob from our holy Abram was,
+       72  As his wise mother wrought in his behalf,
+       73  The third possessor; ay, he was the third--
+    ANTONIO
+       74  And what of him? did he take interest?
+    SHYLOCK
+       75  No, not take interest, not, as you would say,
+       76  Directly interest: mark what Jacob did.
+       77  When Laban and himself were compromised
+       78  That all the eanlings which were streak'd and pied
+       79  Should fall as Jacob's hire, the ewes, being rank,
+       80  In the end of autumn turned to the rams,
+       81  And, when the work of generation was
+       82  Between these woolly breeders in the act,
+       83  The skilful shepherd peel'd me certain wands,
+       84  And, in the doing of the deed of kind,
+       85  He stuck them up before the fulsome ewes,
+       86  Who then conceiving did in eaning time
+       87  Fall parti-colour'd lambs, and those were Jacob's.
+       88  This was a way to thrive, and he was blest:
+       89  And thrift is blessing, if men steal it not.
+    ANTONIO
+       90  This was a venture, sir, that Jacob served for;
+       91  A thing not in his power to bring to pass,
+       92  But sway'd and fashion'd by the hand of heaven.
+       93  Was this inserted to make interest good?
+       94  Or is your gold and silver ewes and rams?
+    SHYLOCK
+       95  I cannot tell; I make it breed as fast:
+       96  But note me, signior.
+    ANTONIO
+       97  Mark you this, Bassanio,
+       98  The devil can cite Scripture for his purpose.
+       99  An evil soul producing holy witness
+      100  Is like a villain with a smiling cheek,
+      101  A goodly apple rotten at the heart:
+      102  O, what a goodly outside falsehood hath!
+    SHYLOCK
+      103  Three thousand ducats; 'tis a good round sum.
+      104  Three months from twelve; then, let me see; the rate--
+    ANTONIO
+      105  Well, Shylock, shall we be beholding to you?
+    SHYLOCK
+      106  Signior Antonio, many a time and oft
+      107  In the Rialto you have rated me
+      108  About my moneys and my usances:
+      109  Still have I borne it with a patient shrug,
+      110  For sufferance is the badge of all our tribe.
+      111  You call me misbeliever, cut-throat dog,
+      112  And spit upon my Jewish gaberdine,
+      113  And all for use of that which is mine own.
+      114  Well then, it now appears you need my help:
+      115  Go to, then; you come to me, and you say
+      116  'Shylock, we would have moneys:' you say so;
+      117  You, that did void your rheum upon my beard
+      118  And foot me as you spurn a stranger cur
+      119  Over your threshold: moneys is your suit
+      120  What should I say to you? Should I not say
+      121  'Hath a dog money? is it possible
+      122  A cur can lend three thousand ducats?' Or
+      123  Shall I bend low and in a bondman's key,
+      124  With bated breath and whispering humbleness, Say this;
+      125  'Fair sir, you spit on me on Wednesday last;
+      126  You spurn'd me such a day; another time
+      127  You call'd me dog; and for these courtesies
+      128  I'll lend you thus much moneys'?
+    ANTONIO
+      129  I am as like to call thee so again,
+      130  To spit on thee again, to spurn thee too.
+      131  If thou wilt lend this money, lend it not
+      132  As to thy friends; for when did friendship take
+      133  A breed for barren metal of his friend?
+      134  But lend it rather to thine enemy,
+      135  Who, if he break, thou mayst with better face
+      136  Exact the penalty.
+    SHYLOCK
+      137  Why, look you, how you storm!
+      138  I would be friends with you and have your love,
+      139  Forget the shames that you have stain'd me with,
+      140  Supply your present wants and take no doit
+      141  Of usance for my moneys, and you'll not hear me:
+      142  This is kind I offer.
+    BASSANIO
+      143  This were kindness.
+    SHYLOCK
+      144  This kindness will I show.
+      145  Go with me to a notary, seal me there
+      146  Your single bond; and, in a merry sport,
+      147  If you repay me not on such a day,
+      148  In such a place, such sum or sums as are
+      149  Express'd in the condition, let the forfeit
+      150  Be nominated for an equal pound
+      151  Of your fair flesh, to be cut off and taken
+      152  In what part of your body pleaseth me.
+    ANTONIO
+      153  Content, i' faith: I'll seal to such a bond
+      154  And say there is much kindness in the Jew.
+    BASSANIO
+      155  You shall not seal to such a bond for me:
+      156  I'll rather dwell in my necessity.
+    ANTONIO
+      157  Why, fear not, man; I will not forfeit it:
+      158  Within these two months, that's a month before
+      159  This bond expires, I do expect return
+      160  Of thrice three times the value of this bond.
+    SHYLOCK
+      161  O father Abram, what these Christians are,
+      162  Whose own hard dealings teaches them suspect
+      163  The thoughts of others! Pray you, tell me this;
+      164  If he should break his day, what should I gain
+      165  By the exaction of the forfeiture?
+      166  A pound of man's flesh taken from a man
+      167  Is not so estimable, profitable neither,
+      168  As flesh of muttons, beefs, or goats. I say,
+      169  To buy his favour, I extend this friendship:
+      170  If he will take it, so; if not, adieu;
+      171  And, for my love, I pray you wrong me not.
+    ANTONIO
+      172  Yes Shylock, I will seal unto this bond.
+    SHYLOCK
+      173  Then meet me forthwith at the notary's;
+      174  Give him direction for this merry bond,
+      175  And I will go and purse the ducats straight,
+      176  See to my house, left in the fearful guard
+      177  Of an unthrifty knave, and presently
+      178  I will be with you.
+    ANTONIO
+      179  Hie thee, gentle Jew.
+  Direction: Exit Shylock
+      180  The Hebrew will turn Christian: he grows kind.
+    BASSANIO
+      181  I like not fair terms and a villain's mind.
+    ANTONIO
+      182  Come on: in this there can be no dismay;
+      183  My ships come home a month before the day.
+  Direction: Exeunt

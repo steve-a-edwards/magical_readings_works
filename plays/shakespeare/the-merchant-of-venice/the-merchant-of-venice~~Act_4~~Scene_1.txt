@@ -1,0 +1,626 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          The Merchant Of Venice : Act 4 : Scene 1
+
+SCENE I. Venice. A court of justice.
+  Direction: Enter the DUKE, the Magnificoes, ANTONIO, BASSANIO, GRATIANO, SALERIO, and others
+    DUKE
+        1  What, is Antonio here?
+    ANTONIO
+        2  Ready, so please your grace.
+    DUKE
+        3  I am sorry for thee: thou art come to answer
+        4  A stony adversary, an inhuman wretch
+        5  uncapable of pity, void and empty
+        6  From any dram of mercy.
+    ANTONIO
+        7  I have heard
+        8  Your grace hath ta'en great pains to qualify
+        9  His rigorous course; but since he stands obdurate
+       10  And that no lawful means can carry me
+       11  Out of his envy's reach, I do oppose
+       12  My patience to his fury, and am arm'd
+       13  To suffer, with a quietness of spirit,
+       14  The very tyranny and rage of his.
+    DUKE
+       15  Go one, and call the Jew into the court.
+    SALERIO
+       16  He is ready at the door: he comes, my lord.
+  Direction: Enter SHYLOCK
+    DUKE
+       17  Make room, and let him stand before our face.
+       18  Shylock, the world thinks, and I think so too,
+       19  That thou but lead'st this fashion of thy malice
+       20  To the last hour of act; and then 'tis thought
+       21  Thou'lt show thy mercy and remorse more strange
+       22  Than is thy strange apparent cruelty;
+       23  And where thou now exact'st the penalty,
+       24  Which is a pound of this poor merchant's flesh,
+       25  Thou wilt not only loose the forfeiture,
+       26  But, touch'd with human gentleness and love,
+       27  Forgive a moiety of the principal;
+       28  Glancing an eye of pity on his losses,
+       29  That have of late so huddled on his back,
+       30  Enow to press a royal merchant down
+       31  And pluck commiseration of his state
+       32  From brassy bosoms and rough hearts of flint,
+       33  From stubborn Turks and Tartars, never train'd
+       34  To offices of tender courtesy.
+       35  We all expect a gentle answer, Jew.
+    SHYLOCK
+       36  I have possess'd your grace of what I purpose;
+       37  And by our holy Sabbath have I sworn
+       38  To have the due and forfeit of my bond:
+       39  If you deny it, let the danger light
+       40  Upon your charter and your city's freedom.
+       41  You'll ask me, why I rather choose to have
+       42  A weight of carrion flesh than to receive
+       43  Three thousand ducats: I'll not answer that:
+       44  But, say, it is my humour: is it answer'd?
+       45  What if my house be troubled with a rat
+       46  And I be pleased to give ten thousand ducats
+       47  To have it baned? What, are you answer'd yet?
+       48  Some men there are love not a gaping pig;
+       49  Some, that are mad if they behold a cat;
+       50  And others, when the bagpipe sings i' the nose,
+       51  Cannot contain their urine: for affection,
+       52  Mistress of passion, sways it to the mood
+       53  Of what it likes or loathes. Now, for your answer:
+       54  As there is no firm reason to be render'd,
+       55  Why he cannot abide a gaping pig;
+       56  Why he, a harmless necessary cat;
+       57  Why he, a woollen bagpipe; but of force
+       58  Must yield to such inevitable shame
+       59  As to offend, himself being offended;
+       60  So can I give no reason, nor I will not,
+       61  More than a lodged hate and a certain loathing
+       62  I bear Antonio, that I follow thus
+       63  A losing suit against him. Are you answer'd?
+    BASSANIO
+       64  This is no answer, thou unfeeling man,
+       65  To excuse the current of thy cruelty.
+    SHYLOCK
+       66  I am not bound to please thee with my answers.
+    BASSANIO
+       67  Do all men kill the things they do not love?
+    SHYLOCK
+       68  Hates any man the thing he would not kill?
+    BASSANIO
+       69  Every offence is not a hate at first.
+    SHYLOCK
+       70  What, wouldst thou have a serpent sting thee twice?
+    ANTONIO
+       71  I pray you, think you question with the Jew:
+       72  You may as well go stand upon the beach
+       73  And bid the main flood bate his usual height;
+       74  You may as well use question with the wolf
+       75  Why he hath made the ewe bleat for the lamb;
+       76  You may as well forbid the mountain pines
+       77  To wag their high tops and to make no noise,
+       78  When they are fretten with the gusts of heaven;
+       79  You may as well do anything most hard,
+       80  As seek to soften that--than which what's harder?--
+       81  His Jewish heart: therefore, I do beseech you,
+       82  Make no more offers, use no farther means,
+       83  But with all brief and plain conveniency
+       84  Let me have judgment and the Jew his will.
+    BASSANIO
+       85  For thy three thousand ducats here is six.
+    SHYLOCK
+       86  What judgment shall I dread, doing
+       87  Were in six parts and every part a ducat,
+       88  I would not draw them; I would have my bond.
+    DUKE
+       89  How shalt thou hope for mercy, rendering none?
+    SHYLOCK
+       90  What judgment shall I dread, doing no wrong?
+       91  You have among you many a purchased slave,
+       92  Which, like your asses and your dogs and mules,
+       93  You use in abject and in slavish parts,
+       94  Because you bought them: shall I say to you,
+       95  Let them be free, marry them to your heirs?
+       96  Why sweat they under burthens? let their beds
+       97  Be made as soft as yours and let their palates
+       98  Be season'd with such viands? You will answer
+       99  'The slaves are ours:' so do I answer you:
+      100  The pound of flesh, which I demand of him,
+      101  Is dearly bought; 'tis mine and I will have it.
+      102  If you deny me, fie upon your law!
+      103  There is no force in the decrees of Venice.
+      104  I stand for judgment: answer; shall I have it?
+    DUKE
+      105  Upon my power I may dismiss this court,
+      106  Unless Bellario, a learned doctor,
+      107  Whom I have sent for to determine this,
+      108  Come here to-day.
+    SALERIO
+      109  My lord, here stays without
+      110  A messenger with letters from the doctor,
+      111  New come from Padua.
+    DUKE
+      112  Bring us the letter; call the messenger.
+    BASSANIO
+      113  Good cheer, Antonio! What, man, courage yet!
+      114  The Jew shall have my flesh, blood, bones and all,
+      115  Ere thou shalt lose for me one drop of blood.
+    ANTONIO
+      116  I am a tainted wether of the flock,
+      117  Meetest for death: the weakest kind of fruit
+      118  Drops earliest to the ground; and so let me
+      119  You cannot better be employ'd, Bassanio,
+      120  Than to live still and write mine epitaph.
+  Direction: Enter NERISSA, dressed like a lawyer's clerk
+    DUKE
+      121  Came you from Padua, from Bellario?
+    NERISSA
+      122  From both, my lord. Bellario greets your grace.
+  Direction: Presenting a letter
+    BASSANIO
+      123  Why dost thou whet thy knife so earnestly?
+    SHYLOCK
+      124  To cut the forfeiture from that bankrupt there.
+    GRATIANO
+      125  Not on thy sole, but on thy soul, harsh Jew,
+      126  Thou makest thy knife keen; but no metal can,
+      127  No, not the hangman's axe, bear half the keenness
+      128  Of thy sharp envy. Can no prayers pierce thee?
+    SHYLOCK
+      129  No, none that thou hast wit enough to make.
+    GRATIANO
+      130  O, be thou damn'd, inexecrable dog!
+      131  And for thy life let justice be accused.
+      132  Thou almost makest me waver in my faith
+      133  To hold opinion with Pythagoras,
+      134  That souls of animals infuse themselves
+      135  Into the trunks of men: thy currish spirit
+      136  Govern'd a wolf, who, hang'd for human slaughter,
+      137  Even from the gallows did his fell soul fleet,
+      138  And, whilst thou lay'st in thy unhallow'd dam,
+      139  Infused itself in thee; for thy desires
+      140  Are wolvish, bloody, starved and ravenous.
+    SHYLOCK
+      141  Till thou canst rail the seal from off my bond,
+      142  Thou but offend'st thy lungs to speak so loud:
+      143  Repair thy wit, good youth, or it will fall
+      144  To cureless ruin. I stand here for law.
+    DUKE
+      145  This letter from Bellario doth commend
+      146  A young and learned doctor to our court.
+      147  Where is he?
+    NERISSA
+      148  He attendeth here hard by,
+      149  To know your answer, whether you'll admit him.
+    DUKE
+      150  With all my heart. Some three or four of you
+      151  Go give him courteous conduct to this place.
+      152  Meantime the court shall hear Bellario's letter.
+    Clerk
+      153  [Reads]
+      154  Your grace shall understand that at the receipt of
+      155  your letter I am very sick: but in the instant that
+      156  your messenger came, in loving visitation was with
+      157  me a young doctor of Rome; his name is Balthasar. I
+      158  acquainted him with the cause in controversy between
+      159  the Jew and Antonio the merchant: we turned o'er
+      160  many books together: he is furnished with my
+      161  opinion; which, bettered with his own learning, the
+      162  greatness whereof I cannot enough commend, comes
+      163  with him, at my importunity, to fill up your grace's
+      164  request in my stead. I beseech you, let his lack of
+      165  years be no impediment to let him lack a reverend
+      166  estimation; for I never knew so young a body with so
+      167  old a head. I leave him to your gracious
+      168  acceptance, whose trial shall better publish his
+      169  commendation.
+    DUKE
+      170  You hear the learn'd Bellario, what he writes:
+      171  And here, I take it, is the doctor come.
+  Direction: Enter PORTIA, dressed like a doctor of laws
+      172  Give me your hand. Come you from old Bellario?
+    PORTIA
+      173  I did, my lord.
+    DUKE
+      174  You are welcome: take your place.
+      175  Are you acquainted with the difference
+      176  That holds this present question in the court?
+    PORTIA
+      177  I am informed thoroughly of the cause.
+      178  Which is the merchant here, and which the Jew?
+    DUKE
+      179  Antonio and old Shylock, both stand forth.
+    PORTIA
+      180  Is your name Shylock?
+    SHYLOCK
+      181  Shylock is my name.
+    PORTIA
+      182  Of a strange nature is the suit you follow;
+      183  Yet in such rule that the Venetian law
+      184  Cannot impugn you as you do proceed.
+      185  You stand within his danger, do you not?
+    ANTONIO
+      186  Ay, so he says.
+    PORTIA
+      187  Do you confess the bond?
+    ANTONIO
+      188  I do.
+    PORTIA
+      189  Then must the Jew be merciful.
+    SHYLOCK
+      190  On what compulsion must I? tell me that.
+    PORTIA
+      191  The quality of mercy is not strain'd,
+      192  It droppeth as the gentle rain from heaven
+      193  Upon the place beneath: it is twice blest;
+      194  It blesseth him that gives and him that takes:
+      195  'Tis mightiest in the mightiest: it becomes
+      196  The throned monarch better than his crown;
+      197  His sceptre shows the force of temporal power,
+      198  The attribute to awe and majesty,
+      199  Wherein doth sit the dread and fear of kings;
+      200  But mercy is above this sceptred sway;
+      201  It is enthroned in the hearts of kings,
+      202  It is an attribute to God himself;
+      203  And earthly power doth then show likest God's
+      204  When mercy seasons justice. Therefore, Jew,
+      205  Though justice be thy plea, consider this,
+      206  That, in the course of justice, none of us
+      207  Should see salvation: we do pray for mercy;
+      208  And that same prayer doth teach us all to render
+      209  The deeds of mercy. I have spoke thus much
+      210  To mitigate the justice of thy plea;
+      211  Which if thou follow, this strict court of Venice
+      212  Must needs give sentence 'gainst the merchant there.
+    SHYLOCK
+      213  My deeds upon my head! I crave the law,
+      214  The penalty and forfeit of my bond.
+    PORTIA
+      215  Is he not able to discharge the money?
+    BASSANIO
+      216  Yes, here I tender it for him in the court;
+      217  Yea, twice the sum: if that will not suffice,
+      218  I will be bound to pay it ten times o'er,
+      219  On forfeit of my hands, my head, my heart:
+      220  If this will not suffice, it must appear
+      221  That malice bears down truth. And I beseech you,
+      222  Wrest once the law to your authority:
+      223  To do a great right, do a little wrong,
+      224  And curb this cruel devil of his will.
+    PORTIA
+      225  It must not be; there is no power in Venice
+      226  Can alter a decree established:
+      227  'Twill be recorded for a precedent,
+      228  And many an error by the same example
+      229  Will rush into the state: it cannot be.
+    SHYLOCK
+      230  A Daniel come to judgment! yea, a Daniel!
+      231  O wise young judge, how I do honour thee!
+    PORTIA
+      232  I pray you, let me look upon the bond.
+    SHYLOCK
+      233  Here 'tis, most reverend doctor, here it is.
+    PORTIA
+      234  Shylock, there's thrice thy money offer'd thee.
+    SHYLOCK
+      235  An oath, an oath, I have an oath in heaven:
+      236  Shall I lay perjury upon my soul?
+      237  No, not for Venice.
+    PORTIA
+      238  Why, this bond is forfeit;
+      239  And lawfully by this the Jew may claim
+      240  A pound of flesh, to be by him cut off
+      241  Nearest the merchant's heart. Be merciful:
+      242  Take thrice thy money; bid me tear the bond.
+    SHYLOCK
+      243  When it is paid according to the tenor.
+      244  It doth appear you are a worthy judge;
+      245  You know the law, your exposition
+      246  Hath been most sound: I charge you by the law,
+      247  Whereof you are a well-deserving pillar,
+      248  Proceed to judgment: by my soul I swear
+      249  There is no power in the tongue of man
+      250  To alter me: I stay here on my bond.
+    ANTONIO
+      251  Most heartily I do beseech the court
+      252  To give the judgment.
+    PORTIA
+      253  Why then, thus it is:
+      254  You must prepare your bosom for his knife.
+    SHYLOCK
+      255  O noble judge! O excellent young man!
+    PORTIA
+      256  For the intent and purpose of the law
+      257  Hath full relation to the penalty,
+      258  Which here appeareth due upon the bond.
+    SHYLOCK
+      259  'Tis very true: O wise and upright judge!
+      260  How much more elder art thou than thy looks!
+    PORTIA
+      261  Therefore lay bare your bosom.
+    SHYLOCK
+      262  Ay, his breast:
+      263  So says the bond: doth it not, noble judge?
+      264  'Nearest his heart:' those are the very words.
+    PORTIA
+      265  It is so. Are there balance here to weigh
+      266  The flesh?
+    SHYLOCK
+      267  I have them ready.
+    PORTIA
+      268  Have by some surgeon, Shylock, on your charge,
+      269  To stop his wounds, lest he do bleed to death.
+    SHYLOCK
+      270  Is it so nominated in the bond?
+    PORTIA
+      271  It is not so express'd: but what of that?
+      272  'Twere good you do so much for charity.
+    SHYLOCK
+      273  I cannot find it; 'tis not in the bond.
+    PORTIA
+      274  You, merchant, have you any thing to say?
+    ANTONIO
+      275  But little: I am arm'd and well prepared.
+      276  Give me your hand, Bassanio: fare you well!
+      277  Grieve not that I am fallen to this for you;
+      278  For herein Fortune shows herself more kind
+      279  Than is her custom: it is still her use
+      280  To let the wretched man outlive his wealth,
+      281  To view with hollow eye and wrinkled brow
+      282  An age of poverty; from which lingering penance
+      283  Of such misery doth she cut me off.
+      284  Commend me to your honourable wife:
+      285  Tell her the process of Antonio's end;
+      286  Say how I loved you, speak me fair in death;
+      287  And, when the tale is told, bid her be judge
+      288  Whether Bassanio had not once a love.
+      289  Repent but you that you shall lose your friend,
+      290  And he repents not that he pays your debt;
+      291  For if the Jew do cut but deep enough,
+      292  I'll pay it presently with all my heart.
+    BASSANIO
+      293  Antonio, I am married to a wife
+      294  Which is as dear to me as life itself;
+      295  But life itself, my wife, and all the world,
+      296  Are not with me esteem'd above thy life:
+      297  I would lose all, ay, sacrifice them all
+      298  Here to this devil, to deliver you.
+    PORTIA
+      299  Your wife would give you little thanks for that,
+      300  If she were by, to hear you make the offer.
+    GRATIANO
+      301  I have a wife, whom, I protest, I love:
+      302  I would she were in heaven, so she could
+      303  Entreat some power to change this currish Jew.
+    NERISSA
+      304  'Tis well you offer it behind her back;
+      305  The wish would make else an unquiet house.
+    SHYLOCK
+      306  These be the Christian husbands. I have a daughter;
+      307  Would any of the stock of Barrabas
+      308  Had been her husband rather than a Christian!
+  Direction: Aside
+      309  We trifle time: I pray thee, pursue sentence.
+    PORTIA
+      310  A pound of that same merchant's flesh is thine:
+      311  The court awards it, and the law doth give it.
+    SHYLOCK
+      312  Most rightful judge!
+    PORTIA
+      313  And you must cut this flesh from off his breast:
+      314  The law allows it, and the court awards it.
+    SHYLOCK
+      315  Most learned judge! A sentence! Come, prepare!
+    PORTIA
+      316  Tarry a little; there is something else.
+      317  This bond doth give thee here no jot of blood;
+      318  The words expressly are 'a pound of flesh:'
+      319  Take then thy bond, take thou thy pound of flesh;
+      320  But, in the cutting it, if thou dost shed
+      321  One drop of Christian blood, thy lands and goods
+      322  Are, by the laws of Venice, confiscate
+      323  Unto the state of Venice.
+    GRATIANO
+      324  O upright judge! Mark, Jew: O learned judge!
+    SHYLOCK
+      325  Is that the law?
+    PORTIA
+      326  Thyself shalt see the act:
+      327  For, as thou urgest justice, be assured
+      328  Thou shalt have justice, more than thou desirest.
+    GRATIANO
+      329  O learned judge! Mark, Jew: a learned judge!
+    SHYLOCK
+      330  I take this offer, then; pay the bond thrice
+      331  And let the Christian go.
+    BASSANIO
+      332  Here is the money.
+    PORTIA
+      333  Soft!
+      334  The Jew shall have all justice; soft! no haste:
+      335  He shall have nothing but the penalty.
+    GRATIANO
+      336  O Jew! an upright judge, a learned judge!
+    PORTIA
+      337  Therefore prepare thee to cut off the flesh.
+      338  Shed thou no blood, nor cut thou less nor more
+      339  But just a pound of flesh: if thou cut'st more
+      340  Or less than a just pound, be it but so much
+      341  As makes it light or heavy in the substance,
+      342  Or the division of the twentieth part
+      343  Of one poor scruple, nay, if the scale do turn
+      344  But in the estimation of a hair,
+      345  Thou diest and all thy goods are confiscate.
+    GRATIANO
+      346  A second Daniel, a Daniel, Jew!
+      347  Now, infidel, I have you on the hip.
+    PORTIA
+      348  Why doth the Jew pause? take thy forfeiture.
+    SHYLOCK
+      349  Give me my principal, and let me go.
+    BASSANIO
+      350  I have it ready for thee; here it is.
+    PORTIA
+      351  He hath refused it in the open court:
+      352  He shall have merely justice and his bond.
+    GRATIANO
+      353  A Daniel, still say I, a second Daniel!
+      354  I thank thee, Jew, for teaching me that word.
+    SHYLOCK
+      355  Shall I not have barely my principal?
+    PORTIA
+      356  Thou shalt have nothing but the forfeiture,
+      357  To be so taken at thy peril, Jew.
+    SHYLOCK
+      358  Why, then the devil give him good of it!
+      359  I'll stay no longer question.
+    PORTIA
+      360  Tarry, Jew:
+      361  The law hath yet another hold on you.
+      362  It is enacted in the laws of Venice,
+      363  If it be proved against an alien
+      364  That by direct or indirect attempts
+      365  He seek the life of any citizen,
+      366  The party 'gainst the which he doth contrive
+      367  Shall seize one half his goods; the other half
+      368  Comes to the privy coffer of the state;
+      369  And the offender's life lies in the mercy
+      370  Of the duke only, 'gainst all other voice.
+      371  In which predicament, I say, thou stand'st;
+      372  For it appears, by manifest proceeding,
+      373  That indirectly and directly too
+      374  Thou hast contrived against the very life
+      375  Of the defendant; and thou hast incurr'd
+      376  The danger formerly by me rehearsed.
+      377  Down therefore and beg mercy of the duke.
+    GRATIANO
+      378  Beg that thou mayst have leave to hang thyself:
+      379  And yet, thy wealth being forfeit to the state,
+      380  Thou hast not left the value of a cord;
+      381  Therefore thou must be hang'd at the state's charge.
+    DUKE
+      382  That thou shalt see the difference of our spirits,
+      383  I pardon thee thy life before thou ask it:
+      384  For half thy wealth, it is Antonio's;
+      385  The other half comes to the general state,
+      386  Which humbleness may drive unto a fine.
+    PORTIA
+      387  Ay, for the state, not for Antonio.
+    SHYLOCK
+      388  Nay, take my life and all; pardon not that:
+      389  You take my house when you do take the prop
+      390  That doth sustain my house; you take my life
+      391  When you do take the means whereby I live.
+    PORTIA
+      392  What mercy can you render him, Antonio?
+    GRATIANO
+      393  A halter gratis; nothing else, for God's sake.
+    ANTONIO
+      394  So please my lord the duke and all the court
+      395  To quit the fine for one half of his goods,
+      396  I am content; so he will let me have
+      397  The other half in use, to render it,
+      398  Upon his death, unto the gentleman
+      399  That lately stole his daughter:
+      400  Two things provided more, that, for this favour,
+      401  He presently become a Christian;
+      402  The other, that he do record a gift,
+      403  Here in the court, of all he dies possess'd,
+      404  Unto his son Lorenzo and his daughter.
+    DUKE
+      405  He shall do this, or else I do recant
+      406  The pardon that I late pronounced here.
+    PORTIA
+      407  Art thou contented, Jew? what dost thou say?
+    SHYLOCK
+      408  I am content.
+    PORTIA
+      409  Clerk, draw a deed of gift.
+    SHYLOCK
+      410  I pray you, give me leave to go from hence;
+      411  I am not well: send the deed after me,
+      412  And I will sign it.
+    DUKE
+      413  Get thee gone, but do it.
+    GRATIANO
+      414  In christening shalt thou have two god-fathers:
+      415  Had I been judge, thou shouldst have had ten more,
+      416  To bring thee to the gallows, not the font.
+  Direction: Exit SHYLOCK
+    DUKE
+      417  Sir, I entreat you home with me to dinner.
+    PORTIA
+      418  I humbly do desire your grace of pardon:
+      419  I must away this night toward Padua,
+      420  And it is meet I presently set forth.
+    DUKE
+      421  I am sorry that your leisure serves you not.
+      422  Antonio, gratify this gentleman,
+      423  For, in my mind, you are much bound to him.
+  Direction: Exeunt Duke and his train
+    BASSANIO
+      424  Most worthy gentleman, I and my friend
+      425  Have by your wisdom been this day acquitted
+      426  Of grievous penalties; in lieu whereof,
+      427  Three thousand ducats, due unto the Jew,
+      428  We freely cope your courteous pains withal.
+    ANTONIO
+      429  And stand indebted, over and above,
+      430  In love and service to you evermore.
+    PORTIA
+      431  He is well paid that is well satisfied;
+      432  And I, delivering you, am satisfied
+      433  And therein do account myself well paid:
+      434  My mind was never yet more mercenary.
+      435  I pray you, know me when we meet again:
+      436  I wish you well, and so I take my leave.
+    BASSANIO
+      437  Dear sir, of force I must attempt you further:
+      438  Take some remembrance of us, as a tribute,
+      439  Not as a fee: grant me two things, I pray you,
+      440  Not to deny me, and to pardon me.
+    PORTIA
+      441  You press me far, and therefore I will yield.
+  Direction: To ANTONIO
+      442  Give me your gloves, I'll wear them for your sake;
+  Direction: To BASSANIO
+      443  And, for your love, I'll take this ring from you:
+      444  Do not draw back your hand; I'll take no more;
+      445  And you in love shall not deny me this.
+    BASSANIO
+      446  This ring, good sir, alas, it is a trifle!
+      447  I will not shame myself to give you this.
+    PORTIA
+      448  I will have nothing else but only this;
+      449  And now methinks I have a mind to it.
+    BASSANIO
+      450  There's more depends on this than on the value.
+      451  The dearest ring in Venice will I give you,
+      452  And find it out by proclamation:
+      453  Only for this, I pray you, pardon me.
+    PORTIA
+      454  I see, sir, you are liberal in offers
+      455  You taught me first to beg; and now methinks
+      456  You teach me how a beggar should be answer'd.
+    BASSANIO
+      457  Good sir, this ring was given me by my wife;
+      458  And when she put it on, she made me vow
+      459  That I should neither sell nor give nor lose it.
+    PORTIA
+      460  That 'scuse serves many men to save their gifts.
+      461  An if your wife be not a mad-woman,
+      462  And know how well I have deserved the ring,
+      463  She would not hold out enemy for ever,
+      464  For giving it to me. Well, peace be with you!
+  Direction: Exeunt Portia and Nerissa
+    ANTONIO
+      465  My Lord Bassanio, let him have the ring:
+      466  Let his deservings and my love withal
+      467  Be valued against your wife's commandment.
+    BASSANIO
+      468  Go, Gratiano, run and overtake him;
+      469  Give him the ring, and bring him, if thou canst,
+      470  Unto Antonio's house: away! make haste.
+  Direction: Exit Gratiano
+      471  Come, you and I will thither presently;
+      472  And in the morning early will we both
+      473  Fly toward Belmont: come, Antonio.
+  Direction: Exeunt
