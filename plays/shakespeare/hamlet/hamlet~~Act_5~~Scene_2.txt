@@ -1,0 +1,600 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          Hamlet : Act 5 : Scene 2
+
+SCENE II. A hall in the castle.
+  Direction: Enter HAMLET and HORATIO
+    HAMLET
+        1  So much for this, sir: now shall you see the other;
+        2  You do remember all the circumstance?
+    HORATIO
+        3  Remember it, my lord?
+    HAMLET
+        4  Sir, in my heart there was a kind of fighting,
+        5  That would not let me sleep: methought I lay
+        6  Worse than the mutines in the bilboes. Rashly,
+        7  And praised be rashness for it, let us know,
+        8  Our indiscretion sometimes serves us well,
+        9  When our deep plots do pall: and that should teach us
+       10  There's a divinity that shapes our ends,
+       11  Rough-hew them how we will,--
+    HORATIO
+       12  That is most certain.
+    HAMLET
+       13  Up from my cabin,
+       14  My sea-gown scarf'd about me, in the dark
+       15  Groped I to find out them; had my desire.
+       16  Finger'd their packet, and in fine withdrew
+       17  To mine own room again; making so bold,
+       18  My fears forgetting manners, to unseal
+       19  Their grand commission; where I found, Horatio,--
+       20  O royal knavery!--an exact command,
+       21  Larded with many several sorts of reasons
+       22  Importing Denmark's health and England's too,
+       23  With, ho! such bugs and goblins in my life,
+       24  That, on the supervise, no leisure bated,
+       25  No, not to stay the grinding of the axe,
+       26  My head should be struck off.
+    HORATIO
+       27  Is't possible?
+    HAMLET
+       28  Here's the commission: read it at more leisure.
+       29  But wilt thou hear me how I did proceed?
+    HORATIO
+       30  I beseech you.
+    HAMLET
+       31  Being thus be-netted round with villanies,--
+       32  Ere I could make a prologue to my brains,
+       33  They had begun the play--I sat me down,
+       34  Devised a new commission, wrote it fair:
+       35  I once did hold it, as our statists do,
+       36  A baseness to write fair and labour'd much
+       37  How to forget that learning, but, sir, now
+       38  It did me yeoman's service: wilt thou know
+       39  The effect of what I wrote?
+    HORATIO
+       40  Ay, good my lord.
+    HAMLET
+       41  An earnest conjuration from the king,
+       42  As England was his faithful tributary,
+       43  As love between them like the palm might flourish,
+       44  As peace should stiff her wheaten garland wear
+       45  And stand a comma 'tween their amities,
+       46  And many such-like 'As'es of great charge,
+       47  That, on the view and knowing of these contents,
+       48  Without debatement further, more or less,
+       49  He should the bearers put to sudden death,
+       50  Not shriving-time allow'd.
+    HORATIO
+       51  How was this seal'd?
+    HAMLET
+       52  Why, even in that was heaven ordinant.
+       53  I had my father's signet in my purse,
+       54  Which was the model of that Danish seal;
+       55  Folded the writ up in form of the other,
+       56  Subscribed it, gave't the impression, placed it safely,
+       57  The changeling never known. Now, the next day
+       58  Was our sea-fight; and what to this was sequent
+       59  Thou know'st already.
+    HORATIO
+       60  So Guildenstern and Rosencrantz go to't.
+    HAMLET
+       61  Why, man, they did make love to this employment;
+       62  They are not near my conscience; their defeat
+       63  Does by their own insinuation grow:
+       64  'Tis dangerous when the baser nature comes
+       65  Between the pass and fell incensed points
+       66  Of mighty opposites.
+    HORATIO
+       67  Why, what a king is this!
+    HAMLET
+       68  Does it not, think'st thee, stand me now upon--
+       69  He that hath kill'd my king and whored my mother,
+       70  Popp'd in between the election and my hopes,
+       71  Thrown out his angle for my proper life,
+       72  And with such cozenage--is't not perfect conscience,
+       73  To quit him with this arm? and is't not to be damn'd,
+       74  To let this canker of our nature come
+       75  In further evil?
+    HORATIO
+       76  It must be shortly known to him from England
+       77  What is the issue of the business there.
+    HAMLET
+       78  It will be short: the interim is mine;
+       79  And a man's life's no more than to say 'One.'
+       80  But I am very sorry, good Horatio,
+       81  That to Laertes I forgot myself;
+       82  For, by the image of my cause, I see
+       83  The portraiture of his: I'll court his favours.
+       84  But, sure, the bravery of his grief did put me
+       85  Into a towering passion.
+    HORATIO
+       86  Peace! who comes here?
+  Direction: Enter OSRIC
+    OSRIC
+       87  Your lordship is right welcome back to Denmark.
+    HAMLET
+       88  I humbly thank you, sir. Dost know this water-fly?
+    HORATIO
+       89  No, my good lord.
+    HAMLET
+       90  Thy state is the more gracious; for 'tis a vice to
+       91  know him. He hath much land, and fertile: let a
+       92  beast be lord of beasts, and his crib shall stand at
+       93  the king's mess: 'tis a chough; but, as I say,
+       94  spacious in the possession of dirt.
+    OSRIC
+       95  Sweet lord, if your lordship were at leisure, I
+       96  should impart a thing to you from his majesty.
+    HAMLET
+       97  I will receive it, sir, with all diligence of
+       98  spirit. Put your bonnet to his right use; 'tis for the head.
+    OSRIC
+       99  I thank your lordship, it is very hot.
+    HAMLET
+      100  No, believe me, 'tis very cold; the wind is
+      101  northerly.
+    OSRIC
+      102  It is indifferent cold, my lord, indeed.
+    HAMLET
+      103  But yet methinks it is very sultry and hot for my
+      104  complexion.
+    OSRIC
+      105  Exceedingly, my lord; it is very sultry,--as
+      106  'twere,--I cannot tell how. But, my lord, his
+      107  majesty bade me signify to you that he has laid a
+      108  great wager on your head: sir, this is the matter,--
+    HAMLET
+      109  I beseech you, remember--
+  Direction: HAMLET moves him to put on his hat
+    OSRIC
+      110  Nay, good my lord; for mine ease, in good faith.
+      111  Sir, here is newly come to court Laertes; believe
+      112  me, an absolute gentleman, full of most excellent
+      113  differences, of very soft society and great showing:
+      114  indeed, to speak feelingly of him, he is the card or
+      115  calendar of gentry, for you shall find in him the
+      116  continent of what part a gentleman would see.
+    HAMLET
+      117  Sir, his definement suffers no perdition in you;
+      118  though, I know, to divide him inventorially would
+      119  dizzy the arithmetic of memory, and yet but yaw
+      120  neither, in respect of his quick sail. But, in the
+      121  verity of extolment, I take him to be a soul of
+      122  great article; and his infusion of such dearth and
+      123  rareness, as, to make true diction of him, his
+      124  semblable is his mirror; and who else would trace
+      125  him, his umbrage, nothing more.
+    OSRIC
+      126  Your lordship speaks most infallibly of him.
+    HAMLET
+      127  The concernancy, sir? why do we wrap the gentleman
+      128  in our more rawer breath?
+    OSRIC
+      129  Sir?
+    HORATIO
+      130  Is't not possible to understand in another tongue?
+      131  You will do't, sir, really.
+    HAMLET
+      132  What imports the nomination of this gentleman?
+    OSRIC
+      133  Of Laertes?
+    HORATIO
+      134  His purse is empty already; all's golden words are spent.
+    HAMLET
+      135  Of him, sir.
+    OSRIC
+      136  I know you are not ignorant--
+    HAMLET
+      137  I would you did, sir; yet, in faith, if you did,
+      138  it would not much approve me. Well, sir?
+    OSRIC
+      139  You are not ignorant of what excellence Laertes is--
+    HAMLET
+      140  I dare not confess that, lest I should compare with
+      141  him in excellence; but, to know a man well, were to
+      142  know himself.
+    OSRIC
+      143  I mean, sir, for his weapon; but in the imputation
+      144  laid on him by them, in his meed he's unfellowed.
+    HAMLET
+      145  What's his weapon?
+    OSRIC
+      146  Rapier and dagger.
+    HAMLET
+      147  That's two of his weapons: but, well.
+    OSRIC
+      148  The king, sir, hath wagered with him six Barbary
+      149  horses: against the which he has imponed, as I take
+      150  it, six French rapiers and poniards, with their
+      151  assigns, as girdle, hangers, and so: three of the
+      152  carriages, in faith, are very dear to fancy, very
+      153  responsive to the hilts, most delicate carriages,
+      154  and of very liberal conceit.
+    HAMLET
+      155  What call you the carriages?
+    HORATIO
+      156  I knew you must be edified by the margent ere you had done.
+    OSRIC
+      157  The carriages, sir, are the hangers.
+    HAMLET
+      158  The phrase would be more german to the matter, if we
+      159  could carry cannon by our sides: I would it might
+      160  be hangers till then. But, on: six Barbary horses
+      161  against six French swords, their assigns, and three
+      162  liberal-conceited carriages; that's the French bet
+      163  against the Danish. Why is this 'imponed,' as you call it?
+    OSRIC
+      164  The king, sir, hath laid, that in a dozen passes
+      165  between yourself and him, he shall not exceed you
+      166  three hits: he hath laid on twelve for nine; and it
+      167  would come to immediate trial, if your lordship
+      168  would vouchsafe the answer.
+    HAMLET
+      169  How if I answer 'no'?
+    OSRIC
+      170  I mean, my lord, the opposition of your person in trial.
+    HAMLET
+      171  Sir, I will walk here in the hall: if it please his
+      172  majesty, 'tis the breathing time of day with me; let
+      173  the foils be brought, the gentleman willing, and the
+      174  king hold his purpose, I will win for him an I can;
+      175  if not, I will gain nothing but my shame and the odd hits.
+    OSRIC
+      176  Shall I re-deliver you e'en so?
+    HAMLET
+      177  To this effect, sir; after what flourish your nature will.
+    OSRIC
+      178  I commend my duty to your lordship.
+    HAMLET
+      179  Yours, yours.
+  Direction: Exit OSRIC
+      180  He does well to commend it himself; there are no
+      181  tongues else for's turn.
+    HORATIO
+      182  This lapwing runs away with the shell on his head.
+    HAMLET
+      183  He did comply with his dug, before he sucked it.
+      184  Thus has he--and many more of the same bevy that I
+      185  know the dressy age dotes on--only got the tune of
+      186  the time and outward habit of encounter; a kind of
+      187  yesty collection, which carries them through and
+      188  through the most fond and winnowed opinions; and do
+      189  but blow them to their trial, the bubbles are out.
+  Direction: Enter a Lord
+    Lord
+      190  My lord, his majesty commended him to you by young
+      191  Osric, who brings back to him that you attend him in
+      192  the hall: he sends to know if your pleasure hold to
+      193  play with Laertes, or that you will take longer time.
+    HAMLET
+      194  I am constant to my purpose; they follow the king's
+      195  pleasure: if his fitness speaks, mine is ready; now
+      196  or whensoever, provided I be so able as now.
+    Lord
+      197  The king and queen and all are coming down.
+    HAMLET
+      198  In happy time.
+    Lord
+      199  The queen desires you to use some gentle
+      200  entertainment to Laertes before you fall to play.
+    HAMLET
+      201  She well instructs me.
+  Direction: Exit Lord
+    HORATIO
+      202  You will lose this wager, my lord.
+    HAMLET
+      203  I do not think so: since he went into France, I
+      204  have been in continual practise: I shall win at the
+      205  odds. But thou wouldst not think how ill all's here
+      206  about my heart: but it is no matter.
+    HORATIO
+      207  Nay, good my lord,--
+    HAMLET
+      208  It is but foolery; but it is such a kind of
+      209  gain-giving, as would perhaps trouble a woman.
+    HORATIO
+      210  If your mind dislike any thing, obey it: I will
+      211  forestall their repair hither, and say you are not
+      212  fit.
+    HAMLET
+      213  Not a whit, we defy augury: there's a special
+      214  providence in the fall of a sparrow. If it be now,
+      215  'tis not to come; if it be not to come, it will be
+      216  now; if it be not now, yet it will come: the
+      217  readiness is all: since no man has aught of what he
+      218  leaves, what is't to leave betimes?
+  Direction: Enter KING CLAUDIUS, QUEEN GERTRUDE, LAERTES, Lords, OSRIC, and Attendants with foils, and c
+    KING CLAUDIUS
+      219  Come, Hamlet, come, and take this hand from me.
+  Direction: KING CLAUDIUS puts LAERTES' hand into HAMLET's
+    HAMLET
+      220  Give me your pardon, sir: I've done you wrong;
+      221  But pardon't, as you are a gentleman.
+      222  This presence knows,
+      223  And you must needs have heard, how I am punish'd
+      224  With sore distraction. What I have done,
+      225  That might your nature, honour and exception
+      226  Roughly awake, I here proclaim was madness.
+      227  Was't Hamlet wrong'd Laertes? Never Hamlet:
+      228  If Hamlet from himself be ta'en away,
+      229  And when he's not himself does wrong Laertes,
+      230  Then Hamlet does it not, Hamlet denies it.
+      231  Who does it, then? His madness: if't be so,
+      232  Hamlet is of the faction that is wrong'd;
+      233  His madness is poor Hamlet's enemy.
+      234  Sir, in this audience,
+      235  Let my disclaiming from a purposed evil
+      236  Free me so far in your most generous thoughts,
+      237  That I have shot mine arrow o'er the house,
+      238  And hurt my brother.
+    LAERTES
+      239  I am satisfied in nature,
+      240  Whose motive, in this case, should stir me most
+      241  To my revenge: but in my terms of honour
+      242  I stand aloof; and will no reconcilement,
+      243  Till by some elder masters, of known honour,
+      244  I have a voice and precedent of peace,
+      245  To keep my name ungored. But till that time,
+      246  I do receive your offer'd love like love,
+      247  And will not wrong it.
+    HAMLET
+      248  I embrace it freely;
+      249  And will this brother's wager frankly play.
+      250  Give us the foils. Come on.
+    LAERTES
+      251  Come, one for me.
+    HAMLET
+      252  I'll be your foil, Laertes: in mine ignorance
+      253  Your skill shall, like a star i' the darkest night,
+      254  Stick fiery off indeed.
+    LAERTES
+      255  You mock me, sir.
+    HAMLET
+      256  No, by this hand.
+    KING CLAUDIUS
+      257  Give them the foils, young Osric. Cousin Hamlet,
+      258  You know the wager?
+    HAMLET
+      259  Very well, my lord
+      260  Your grace hath laid the odds o' the weaker side.
+    KING CLAUDIUS
+      261  I do not fear it; I have seen you both:
+      262  But since he is better'd, we have therefore odds.
+    LAERTES
+      263  This is too heavy, let me see another.
+    HAMLET
+      264  This likes me well. These foils have all a length?
+  Direction: They prepare to play
+    OSRIC
+      265  Ay, my good lord.
+    KING CLAUDIUS
+      266  Set me the stoops of wine upon that table.
+      267  If Hamlet give the first or second hit,
+      268  Or quit in answer of the third exchange,
+      269  Let all the battlements their ordnance fire:
+      270  The king shall drink to Hamlet's better breath;
+      271  And in the cup an union shall he throw,
+      272  Richer than that which four successive kings
+      273  In Denmark's crown have worn. Give me the cups;
+      274  And let the kettle to the trumpet speak,
+      275  The trumpet to the cannoneer without,
+      276  The cannons to the heavens, the heavens to earth,
+      277  'Now the king dunks to Hamlet.' Come, begin:
+      278  And you, the judges, bear a wary eye.
+    HAMLET
+      279  Come on, sir.
+    LAERTES
+      280  Come, my lord.
+  Direction: They play
+    HAMLET
+      281  One.
+    LAERTES
+      282  No.
+    HAMLET
+      283  Judgment.
+    OSRIC
+      284  A hit, a very palpable hit.
+    LAERTES
+      285  Well; again.
+    KING CLAUDIUS
+      286  Stay; give me drink. Hamlet, this pearl is thine;
+      287  Here's to thy health.
+  Direction: Trumpets sound, and cannon shot off within
+      288  Give him the cup.
+    HAMLET
+      289  I'll play this bout first; set it by awhile. Come.
+  Direction: They play
+      290  Another hit; what say you?
+    LAERTES
+      291  A touch, a touch, I do confess.
+    KING CLAUDIUS
+      292  Our son shall win.
+    QUEEN GERTRUDE
+      293  He's fat, and scant of breath.
+      294  Here, Hamlet, take my napkin, rub thy brows;
+      295  The queen carouses to thy fortune, Hamlet.
+    HAMLET
+      296  Good madam!
+    KING CLAUDIUS
+      297  Gertrude, do not drink.
+    QUEEN GERTRUDE
+      298  I will, my lord; I pray you, pardon me.
+    KING CLAUDIUS
+      299  [Aside] It is the poison'd cup: it is too late.
+    HAMLET
+      300  I dare not drink yet, madam; by and by.
+    QUEEN GERTRUDE
+      301  Come, let me wipe thy face.
+    LAERTES
+      302  My lord, I'll hit him now.
+    KING CLAUDIUS
+      303  I do not think't.
+    LAERTES
+      304  [Aside] And yet 'tis almost 'gainst my conscience.
+    HAMLET
+      305  Come, for the third, Laertes: you but dally;
+      306  I pray you, pass with your best violence;
+      307  I am afeard you make a wanton of me.
+    LAERTES
+      308  Say you so? come on.
+  Direction: They play
+    OSRIC
+      309  Nothing, neither way.
+    LAERTES
+      310  Have at you now!
+  Direction: LAERTES wounds HAMLET; then in scuffling, they change rapiers, and HAMLET wounds LAERTES
+    KING CLAUDIUS
+      311  Part them; they are incensed.
+    HAMLET
+      312  Nay, come, again.
+  Direction: QUEEN GERTRUDE falls
+    OSRIC
+      313  Look to the queen there, ho!
+    HORATIO
+      314  They bleed on both sides. How is it, my lord?
+    OSRIC
+      315  How is't, Laertes?
+    LAERTES
+      316  Why, as a woodcock to mine own springe, Osric;
+      317  I am justly kill'd with mine own treachery.
+    HAMLET
+      318  How does the queen?
+    KING CLAUDIUS
+      319  She swounds to see them bleed.
+    QUEEN GERTRUDE
+      320  No, no, the drink, the drink,--O my dear Hamlet,--
+      321  The drink, the drink! I am poison'd.
+  Direction: Dies
+    HAMLET
+      322  O villany! Ho! let the door be lock'd:
+      323  Treachery! Seek it out.
+    LAERTES
+      324  It is here, Hamlet: Hamlet, thou art slain;
+      325  No medicine in the world can do thee good;
+      326  In thee there is not half an hour of life;
+      327  The treacherous instrument is in thy hand,
+      328  Unbated and envenom'd: the foul practise
+      329  Hath turn'd itself on me lo, here I lie,
+      330  Never to rise again: thy mother's poison'd:
+      331  I can no more: the king, the king's to blame.
+    HAMLET
+      332  The point!--envenom'd too!
+      333  Then, venom, to thy work.
+  Direction: Stabs KING CLAUDIUS
+    All
+      334  Treason! treason!
+    KING CLAUDIUS
+      335  O, yet defend me, friends; I am but hurt.
+    HAMLET
+      336  Here, thou incestuous, murderous, damned Dane,
+      337  Drink off this potion. Is thy union here?
+      338  Follow my mother.
+  Direction: KING CLAUDIUS dies
+    LAERTES
+      339  He is justly served;
+      340  It is a poison temper'd by himself.
+      341  Exchange forgiveness with me, noble Hamlet:
+      342  Mine and my father's death come not upon thee,
+      343  Nor thine on me.
+  Direction: Dies
+    HAMLET
+      344  Heaven make thee free of it! I follow thee.
+      345  I am dead, Horatio. Wretched queen, adieu!
+      346  You that look pale and tremble at this chance,
+      347  That are but mutes or audience to this act,
+      348  Had I but time--as this fell sergeant, death,
+      349  Is strict in his arrest--O, I could tell you--
+      350  But let it be. Horatio, I am dead;
+      351  Thou livest; report me and my cause aright
+      352  To the unsatisfied.
+    HORATIO
+      353  Never believe it:
+      354  I am more an antique Roman than a Dane:
+      355  Here's yet some liquor left.
+    HAMLET
+      356  As thou'rt a man,
+      357  Give me the cup: let go; by heaven, I'll have't.
+      358  O good Horatio, what a wounded name,
+      359  Things standing thus unknown, shall live behind me!
+      360  If thou didst ever hold me in thy heart
+      361  Absent thee from felicity awhile,
+      362  And in this harsh world draw thy breath in pain,
+      363  To tell my story.
+  Direction: March afar off, and shot within
+      364  What warlike noise is this?
+    OSRIC
+      365  Young Fortinbras, with conquest come from Poland,
+      366  To the ambassadors of England gives
+      367  This warlike volley.
+    HAMLET
+      368  O, I die, Horatio;
+      369  The potent poison quite o'er-crows my spirit:
+      370  I cannot live to hear the news from England;
+      371  But I do prophesy the election lights
+      372  On Fortinbras: he has my dying voice;
+      373  So tell him, with the occurrents, more and less,
+      374  Which have solicited. The rest is silence.
+  Direction: Dies
+    HORATIO
+      375  Now cracks a noble heart. Good night sweet prince:
+      376  And flights of angels sing thee to thy rest!
+      377  Why does the drum come hither?
+  Direction: March within
+  Direction: Enter FORTINBRAS, the English Ambassadors, and others
+    PRINCE FORTINBRAS
+      378  Where is this sight?
+    HORATIO
+      379  What is it ye would see?
+      380  If aught of woe or wonder, cease your search.
+    PRINCE FORTINBRAS
+      381  This quarry cries on havoc. O proud death,
+      382  What feast is toward in thine eternal cell,
+      383  That thou so many princes at a shot
+      384  So bloodily hast struck?
+    First Ambassador
+      385  The sight is dismal;
+      386  And our affairs from England come too late:
+      387  The ears are senseless that should give us hearing,
+      388  To tell him his commandment is fulfill'd,
+      389  That Rosencrantz and Guildenstern are dead:
+      390  Where should we have our thanks?
+    HORATIO
+      391  Not from his mouth,
+      392  Had it the ability of life to thank you:
+      393  He never gave commandment for their death.
+      394  But since, so jump upon this bloody question,
+      395  You from the Polack wars, and you from England,
+      396  Are here arrived give order that these bodies
+      397  High on a stage be placed to the view;
+      398  And let me speak to the yet unknowing world
+      399  How these things came about: so shall you hear
+      400  Of carnal, bloody, and unnatural acts,
+      401  Of accidental judgments, casual slaughters,
+      402  Of deaths put on by cunning and forced cause,
+      403  And, in this upshot, purposes mistook
+      404  Fall'n on the inventors' reads: all this can I
+      405  Truly deliver.
+    PRINCE FORTINBRAS
+      406  Let us haste to hear it,
+      407  And call the noblest to the audience.
+      408  For me, with sorrow I embrace my fortune:
+      409  I have some rights of memory in this kingdom,
+      410  Which now to claim my vantage doth invite me.
+    HORATIO
+      411  Of that I shall have also cause to speak,
+      412  And from his mouth whose voice will draw on more;
+      413  But let this same be presently perform'd,
+      414  Even while men's minds are wild; lest more mischance
+      415  On plots and errors, happen.
+    PRINCE FORTINBRAS
+      416  Let four captains
+      417  Bear Hamlet, like a soldier, to the stage;
+      418  For he was likely, had he been put on,
+      419  To have proved most royally: and, for his passage,
+      420  The soldiers' music and the rites of war
+      421  Speak loudly for him.
+      422  Take up the bodies: such a sight as this
+      423  Becomes the field, but here shows much amiss.
+      424  Go, bid the soldiers shoot.
+  Direction: A dead march. Exeunt, bearing off the dead bodies; after which a peal of ordnance is shot off

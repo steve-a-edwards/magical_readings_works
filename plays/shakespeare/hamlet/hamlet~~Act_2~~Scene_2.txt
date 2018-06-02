@@ -1,0 +1,808 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          Hamlet : Act 2 : Scene 2
+
+SCENE II. A room in the castle.
+  Direction: Enter KING CLAUDIUS, QUEEN GERTRUDE, ROSENCRANTZ, GUILDENSTERN, and Attendants
+    KING CLAUDIUS
+        1  Welcome, dear Rosencrantz and Guildenstern!
+        2  Moreover that we much did long to see you,
+        3  The need we have to use you did provoke
+        4  Our hasty sending. Something have you heard
+        5  Of Hamlet's transformation; so call it,
+        6  Sith nor the exterior nor the inward man
+        7  Resembles that it was. What it should be,
+        8  More than his father's death, that thus hath put him
+        9  So much from the understanding of himself,
+       10  I cannot dream of: I entreat you both,
+       11  That, being of so young days brought up with him,
+       12  And sith so neighbour'd to his youth and havior,
+       13  That you vouchsafe your rest here in our court
+       14  Some little time: so by your companies
+       15  To draw him on to pleasures, and to gather,
+       16  So much as from occasion you may glean,
+       17  Whether aught, to us unknown, afflicts him thus,
+       18  That, open'd, lies within our remedy.
+    QUEEN GERTRUDE
+       19  Good gentlemen, he hath much talk'd of you;
+       20  And sure I am two men there are not living
+       21  To whom he more adheres. If it will please you
+       22  To show us so much gentry and good will
+       23  As to expend your time with us awhile,
+       24  For the supply and profit of our hope,
+       25  Your visitation shall receive such thanks
+       26  As fits a king's remembrance.
+    ROSENCRANTZ
+       27  Both your majesties
+       28  Might, by the sovereign power you have of us,
+       29  Put your dread pleasures more into command
+       30  Than to entreaty.
+    GUILDENSTERN
+       31  But we both obey,
+       32  And here give up ourselves, in the full bent
+       33  To lay our service freely at your feet,
+       34  To be commanded.
+    KING CLAUDIUS
+       35  Thanks, Rosencrantz and gentle Guildenstern.
+    QUEEN GERTRUDE
+       36  Thanks, Guildenstern and gentle Rosencrantz:
+       37  And I beseech you instantly to visit
+       38  My too much changed son. Go, some of you,
+       39  And bring these gentlemen where Hamlet is.
+    GUILDENSTERN
+       40  Heavens make our presence and our practises
+       41  Pleasant and helpful to him!
+    QUEEN GERTRUDE
+       42  Ay, amen!
+  Direction: Exeunt ROSENCRANTZ, GUILDENSTERN, and some Attendants
+  Direction: Enter POLONIUS
+    LORD POLONIUS
+       43  The ambassadors from Norway, my good lord,
+       44  Are joyfully return'd.
+    KING CLAUDIUS
+       45  Thou still hast been the father of good news.
+    LORD POLONIUS
+       46  Have I, my lord? I assure my good liege,
+       47  I hold my duty, as I hold my soul,
+       48  Both to my God and to my gracious king:
+       49  And I do think, or else this brain of mine
+       50  Hunts not the trail of policy so sure
+       51  As it hath used to do, that I have found
+       52  The very cause of Hamlet's lunacy.
+    KING CLAUDIUS
+       53  O, speak of that; that do I long to hear.
+    LORD POLONIUS
+       54  Give first admittance to the ambassadors;
+       55  My news shall be the fruit to that great feast.
+    KING CLAUDIUS
+       56  Thyself do grace to them, and bring them in.
+  Direction: Exit POLONIUS
+       57  He tells me, my dear Gertrude, he hath found
+       58  The head and source of all your son's distemper.
+    QUEEN GERTRUDE
+       59  I doubt it is no other but the main;
+       60  His father's death, and our o'erhasty marriage.
+    KING CLAUDIUS
+       61  Well, we shall sift him.
+  Direction: Re-enter POLONIUS, with VOLTIMAND and CORNELIUS
+       62  Welcome, my good friends!
+       63  Say, Voltimand, what from our brother Norway?
+    VOLTIMAND
+       64  Most fair return of greetings and desires.
+       65  Upon our first, he sent out to suppress
+       66  His nephew's levies; which to him appear'd
+       67  To be a preparation 'gainst the Polack;
+       68  But, better look'd into, he truly found
+       69  It was against your highness: whereat grieved,
+       70  That so his sickness, age and impotence
+       71  Was falsely borne in hand, sends out arrests
+       72  On Fortinbras; which he, in brief, obeys;
+       73  Receives rebuke from Norway, and in fine
+       74  Makes vow before his uncle never more
+       75  To give the assay of arms against your majesty.
+       76  Whereon old Norway, overcome with joy,
+       77  Gives him three thousand crowns in annual fee,
+       78  And his commission to employ those soldiers,
+       79  So levied as before, against the Polack:
+       80  With an entreaty, herein further shown,
+  Direction: Giving a paper
+       81  That it might please you to give quiet pass
+       82  Through your dominions for this enterprise,
+       83  On such regards of safety and allowance
+       84  As therein are set down.
+    KING CLAUDIUS
+       85  It likes us well;
+       86  And at our more consider'd time well read,
+       87  Answer, and think upon this business.
+       88  Meantime we thank you for your well-took labour:
+       89  Go to your rest; at night we'll feast together:
+       90  Most welcome home!
+  Direction: Exeunt VOLTIMAND and CORNELIUS
+    LORD POLONIUS
+       91  This business is well ended.
+       92  My liege, and madam, to expostulate
+       93  What majesty should be, what duty is,
+       94  Why day is day, night night, and time is time,
+       95  Were nothing but to waste night, day and time.
+       96  Therefore, since brevity is the soul of wit,
+       97  And tediousness the limbs and outward flourishes,
+       98  I will be brief: your noble son is mad:
+       99  Mad call I it; for, to define true madness,
+      100  What is't but to be nothing else but mad?
+      101  But let that go.
+    QUEEN GERTRUDE
+      102  More matter, with less art.
+    LORD POLONIUS
+      103  Madam, I swear I use no art at all.
+      104  That he is mad, 'tis true: 'tis true 'tis pity;
+      105  And pity 'tis 'tis true: a foolish figure;
+      106  But farewell it, for I will use no art.
+      107  Mad let us grant him, then: and now remains
+      108  That we find out the cause of this effect,
+      109  Or rather say, the cause of this defect,
+      110  For this effect defective comes by cause:
+      111  Thus it remains, and the remainder thus. Perpend.
+      112  I have a daughter--have while she is mine--
+      113  Who, in her duty and obedience, mark,
+      114  Hath given me this: now gather, and surmise.
+  Direction: Reads
+      115  'To the celestial and my soul's idol, the most
+      116  beautified Ophelia,'--
+      117  That's an ill phrase, a vile phrase; 'beautified' is
+      118  a vile phrase: but you shall hear. Thus:
+  Direction: Reads
+      119  'In her excellent white bosom, these, and c.'
+    QUEEN GERTRUDE
+      120  Came this from Hamlet to her?
+    LORD POLONIUS
+      121  Good madam, stay awhile; I will be faithful.
+  Direction: Reads
+      122  'Doubt thou the stars are fire;
+      123  Doubt that the sun doth move;
+      124  Doubt truth to be a liar;
+      125  But never doubt I love.
+      126  'O dear Ophelia, I am ill at these numbers;
+      127  I have not art to reckon my groans: but that
+      128  I love thee best, O most best, believe it. Adieu.
+      129  'Thine evermore most dear lady, whilst
+      130  this machine is to him, HAMLET.'
+      131  This, in obedience, hath my daughter shown me,
+      132  And more above, hath his solicitings,
+      133  As they fell out by time, by means and place,
+      134  All given to mine ear.
+    KING CLAUDIUS
+      135  But how hath she
+      136  Received his love?
+    LORD POLONIUS
+      137  What do you think of me?
+    KING CLAUDIUS
+      138  As of a man faithful and honourable.
+    LORD POLONIUS
+      139  I would fain prove so. But what might you think,
+      140  When I had seen this hot love on the wing--
+      141  As I perceived it, I must tell you that,
+      142  Before my daughter told me--what might you,
+      143  Or my dear majesty your queen here, think,
+      144  If I had play'd the desk or table-book,
+      145  Or given my heart a winking, mute and dumb,
+      146  Or look'd upon this love with idle sight;
+      147  What might you think? No, I went round to work,
+      148  And my young mistress thus I did bespeak:
+      149  'Lord Hamlet is a prince, out of thy star;
+      150  This must not be:' and then I precepts gave her,
+      151  That she should lock herself from his resort,
+      152  Admit no messengers, receive no tokens.
+      153  Which done, she took the fruits of my advice;
+      154  And he, repulsed--a short tale to make--
+      155  Fell into a sadness, then into a fast,
+      156  Thence to a watch, thence into a weakness,
+      157  Thence to a lightness, and, by this declension,
+      158  Into the madness wherein now he raves,
+      159  And all we mourn for.
+    KING CLAUDIUS
+      160  Do you think 'tis this?
+    QUEEN GERTRUDE
+      161  It may be, very likely.
+    LORD POLONIUS
+      162  Hath there been such a time--I'd fain know that--
+      163  That I have positively said 'Tis so,'
+      164  When it proved otherwise?
+    KING CLAUDIUS
+      165  Not that I know.
+    LORD POLONIUS
+      166  [Pointing to his head and shoulder]
+      167  Take this from this, if this be otherwise:
+      168  If circumstances lead me, I will find
+      169  Where truth is hid, though it were hid indeed
+      170  Within the centre.
+    KING CLAUDIUS
+      171  How may we try it further?
+    LORD POLONIUS
+      172  You know, sometimes he walks four hours together
+      173  Here in the lobby.
+    QUEEN GERTRUDE
+      174  So he does indeed.
+    LORD POLONIUS
+      175  At such a time I'll loose my daughter to him:
+      176  Be you and I behind an arras then;
+      177  Mark the encounter: if he love her not
+      178  And be not from his reason fall'n thereon,
+      179  Let me be no assistant for a state,
+      180  But keep a farm and carters.
+    KING CLAUDIUS
+      181  We will try it.
+    QUEEN GERTRUDE
+      182  But, look, where sadly the poor wretch comes reading.
+    LORD POLONIUS
+      183  Away, I do beseech you, both away:
+      184  I'll board him presently.
+  Direction: Exeunt KING CLAUDIUS, QUEEN GERTRUDE, and Attendants
+  Direction: Enter HAMLET, reading
+      185  O, give me leave:
+      186  How does my good Lord Hamlet?
+    HAMLET
+      187  Well, God-a-mercy.
+    LORD POLONIUS
+      188  Do you know me, my lord?
+    HAMLET
+      189  Excellent well; you are a fishmonger.
+    LORD POLONIUS
+      190  Not I, my lord.
+    HAMLET
+      191  Then I would you were so honest a man.
+    LORD POLONIUS
+      192  Honest, my lord!
+    HAMLET
+      193  Ay, sir; to be honest, as this world goes, is to be
+      194  one man picked out of ten thousand.
+    LORD POLONIUS
+      195  That's very true, my lord.
+    HAMLET
+      196  For if the sun breed maggots in a dead dog, being a
+      197  god kissing carrion,--Have you a daughter?
+    LORD POLONIUS
+      198  I have, my lord.
+    HAMLET
+      199  Let her not walk i' the sun: conception is a
+      200  blessing: but not as your daughter may conceive.
+      201  Friend, look to 't.
+    LORD POLONIUS
+      202  [Aside] How say you by that? Still harping on my
+      203  daughter: yet he knew me not at first; he said I
+      204  was a fishmonger: he is far gone, far gone: and
+      205  truly in my youth I suffered much extremity for
+      206  love; very near this. I'll speak to him again.
+      207  What do you read, my lord?
+    HAMLET
+      208  Words, words, words.
+    LORD POLONIUS
+      209  What is the matter, my lord?
+    HAMLET
+      210  Between who?
+    LORD POLONIUS
+      211  I mean, the matter that you read, my lord.
+    HAMLET
+      212  Slanders, sir: for the satirical rogue says here
+      213  that old men have grey beards, that their faces are
+      214  wrinkled, their eyes purging thick amber and
+      215  plum-tree gum and that they have a plentiful lack of
+      216  wit, together with most weak hams: all which, sir,
+      217  though I most powerfully and potently believe, yet
+      218  I hold it not honesty to have it thus set down, for
+      219  yourself, sir, should be old as I am, if like a crab
+      220  you could go backward.
+    LORD POLONIUS
+      221  [Aside] Though this be madness, yet there is method
+      222  in 't. Will you walk out of the air, my lord?
+    HAMLET
+      223  Into my grave.
+    LORD POLONIUS
+      224  Indeed, that is out o' the air.
+  Direction: Aside
+      225  How pregnant sometimes his replies are! a happiness
+      226  that often madness hits on, which reason and sanity
+      227  could not so prosperously be delivered of. I will
+      228  leave him, and suddenly contrive the means of
+      229  meeting between him and my daughter.--My honourable
+      230  lord, I will most humbly take my leave of you.
+    HAMLET
+      231  You cannot, sir, take from me any thing that I will
+      232  more willingly part withal: except my life, except
+      233  my life, except my life.
+    LORD POLONIUS
+      234  Fare you well, my lord.
+    HAMLET
+      235  These tedious old fools!
+  Direction: Enter ROSENCRANTZ and GUILDENSTERN
+    LORD POLONIUS
+      236  You go to seek the Lord Hamlet; there he is.
+    ROSENCRANTZ
+      237  [To POLONIUS] God save you, sir!
+  Direction: Exit POLONIUS
+    GUILDENSTERN
+      238  My honoured lord!
+    ROSENCRANTZ
+      239  My most dear lord!
+    HAMLET
+      240  My excellent good friends! How dost thou,
+      241  Guildenstern? Ah, Rosencrantz! Good lads, how do ye both?
+    ROSENCRANTZ
+      242  As the indifferent children of the earth.
+    GUILDENSTERN
+      243  Happy, in that we are not over-happy;
+      244  On fortune's cap we are not the very button.
+    HAMLET
+      245  Nor the soles of her shoe?
+    ROSENCRANTZ
+      246  Neither, my lord.
+    HAMLET
+      247  Then you live about her waist, or in the middle of
+      248  her favours?
+    GUILDENSTERN
+      249  'Faith, her privates we.
+    HAMLET
+      250  In the secret parts of fortune? O, most true; she
+      251  is a strumpet. What's the news?
+    ROSENCRANTZ
+      252  None, my lord, but that the world's grown honest.
+    HAMLET
+      253  Then is doomsday near: but your news is not true.
+      254  Let me question more in particular: what have you,
+      255  my good friends, deserved at the hands of fortune,
+      256  that she sends you to prison hither?
+    GUILDENSTERN
+      257  Prison, my lord!
+    HAMLET
+      258  Denmark's a prison.
+    ROSENCRANTZ
+      259  Then is the world one.
+    HAMLET
+      260  A goodly one; in which there are many confines,
+      261  wards and dungeons, Denmark being one o' the worst.
+    ROSENCRANTZ
+      262  We think not so, my lord.
+    HAMLET
+      263  Why, then, 'tis none to you; for there is nothing
+      264  either good or bad, but thinking makes it so: to me
+      265  it is a prison.
+    ROSENCRANTZ
+      266  Why then, your ambition makes it one; 'tis too
+      267  narrow for your mind.
+    HAMLET
+      268  O God, I could be bounded in a nut shell and count
+      269  myself a king of infinite space, were it not that I
+      270  have bad dreams.
+    GUILDENSTERN
+      271  Which dreams indeed are ambition, for the very
+      272  substance of the ambitious is merely the shadow of a dream.
+    HAMLET
+      273  A dream itself is but a shadow.
+    ROSENCRANTZ
+      274  Truly, and I hold ambition of so airy and light a
+      275  quality that it is but a shadow's shadow.
+    HAMLET
+      276  Then are our beggars bodies, and our monarchs and
+      277  outstretched heroes the beggars' shadows. Shall we
+      278  to the court? for, by my fay, I cannot reason.
+    ROSENCRANTZ
+    GUILDENSTERN
+      279  We'll wait upon you.
+    HAMLET
+      280  No such matter: I will not sort you with the rest
+      281  of my servants, for, to speak to you like an honest
+      282  man, I am most dreadfully attended. But, in the
+      283  beaten way of friendship, what make you at Elsinore?
+    ROSENCRANTZ
+      284  To visit you, my lord; no other occasion.
+    HAMLET
+      285  Beggar that I am, I am even poor in thanks; but I
+      286  thank you: and sure, dear friends, my thanks are
+      287  too dear a halfpenny. Were you not sent for? Is it
+      288  your own inclining? Is it a free visitation? Come,
+      289  deal justly with me: come, come; nay, speak.
+    GUILDENSTERN
+      290  What should we say, my lord?
+    HAMLET
+      291  Why, any thing, but to the purpose. You were sent
+      292  for; and there is a kind of confession in your looks
+      293  which your modesties have not craft enough to colour:
+      294  I know the good king and queen have sent for you.
+    ROSENCRANTZ
+      295  To what end, my lord?
+    HAMLET
+      296  That you must teach me. But let me conjure you, by
+      297  the rights of our fellowship, by the consonancy of
+      298  our youth, by the obligation of our ever-preserved
+      299  love, and by what more dear a better proposer could
+      300  charge you withal, be even and direct with me,
+      301  whether you were sent for, or no?
+    ROSENCRANTZ
+      302  [Aside to GUILDENSTERN] What say you?
+    HAMLET
+      303  [Aside] Nay, then, I have an eye of you.--If you
+      304  love me, hold not off.
+    GUILDENSTERN
+      305  My lord, we were sent for.
+    HAMLET
+      306  I will tell you why; so shall my anticipation
+      307  prevent your discovery, and your secrecy to the king
+      308  and queen moult no feather. I have of late--but
+      309  wherefore I know not--lost all my mirth, forgone all
+      310  custom of exercises; and indeed it goes so heavily
+      311  with my disposition that this goodly frame, the
+      312  earth, seems to me a sterile promontory, this most
+      313  excellent canopy, the air, look you, this brave
+      314  o'erhanging firmament, this majestical roof fretted
+      315  with golden fire, why, it appears no other thing to
+      316  me than a foul and pestilent congregation of vapours.
+      317  What a piece of work is a man! how noble in reason!
+      318  how infinite in faculty! in form and moving how
+      319  express and admirable! in action how like an angel!
+      320  in apprehension how like a god! the beauty of the
+      321  world! the paragon of animals! And yet, to me,
+      322  what is this quintessence of dust? man delights not
+      323  me: no, nor woman neither, though by your smiling
+      324  you seem to say so.
+    ROSENCRANTZ
+      325  My lord, there was no such stuff in my thoughts.
+    HAMLET
+      326  Why did you laugh then, when I said 'man delights not me'?
+    ROSENCRANTZ
+      327  To think, my lord, if you delight not in man, what
+      328  lenten entertainment the players shall receive from
+      329  you: we coted them on the way; and hither are they
+      330  coming, to offer you service.
+    HAMLET
+      331  He that plays the king shall be welcome; his majesty
+      332  shall have tribute of me; the adventurous knight
+      333  shall use his foil and target; the lover shall not
+      334  sigh gratis; the humourous man shall end his part
+      335  in peace; the clown shall make those laugh whose
+      336  lungs are tickled o' the sere; and the lady shall
+      337  say her mind freely, or the blank verse shall halt
+      338  for't. What players are they?
+    ROSENCRANTZ
+      339  Even those you were wont to take delight in, the
+      340  tragedians of the city.
+    HAMLET
+      341  How chances it they travel? their residence, both
+      342  in reputation and profit, was better both ways.
+    ROSENCRANTZ
+      343  I think their inhibition comes by the means of the
+      344  late innovation.
+    HAMLET
+      345  Do they hold the same estimation they did when I was
+      346  in the city? are they so followed?
+    ROSENCRANTZ
+      347  No, indeed, are they not.
+    HAMLET
+      348  How comes it? do they grow rusty?
+    ROSENCRANTZ
+      349  Nay, their endeavour keeps in the wonted pace: but
+      350  there is, sir, an aery of children, little eyases,
+      351  that cry out on the top of question, and are most
+      352  tyrannically clapped for't: these are now the
+      353  fashion, and so berattle the common stages--so they
+      354  call them--that many wearing rapiers are afraid of
+      355  goose-quills and dare scarce come thither.
+    HAMLET
+      356  What, are they children? who maintains 'em? how are
+      357  they escoted? Will they pursue the quality no
+      358  longer than they can sing? will they not say
+      359  afterwards, if they should grow themselves to common
+      360  players--as it is most like, if their means are no
+      361  better--their writers do them wrong, to make them
+      362  exclaim against their own succession?
+    ROSENCRANTZ
+      363  'Faith, there has been much to do on both sides; and
+      364  the nation holds it no sin to tarre them to
+      365  controversy: there was, for a while, no money bid
+      366  for argument, unless the poet and the player went to
+      367  cuffs in the question.
+    HAMLET
+      368  Is't possible?
+    GUILDENSTERN
+      369  O, there has been much throwing about of brains.
+    HAMLET
+      370  Do the boys carry it away?
+    ROSENCRANTZ
+      371  Ay, that they do, my lord; Hercules and his load too.
+    HAMLET
+      372  It is not very strange; for mine uncle is king of
+      373  Denmark, and those that would make mows at him while
+      374  my father lived, give twenty, forty, fifty, an
+      375  hundred ducats a-piece for his picture in little.
+      376  'Sblood, there is something in this more than
+      377  natural, if philosophy could find it out.
+  Direction: Flourish of trumpets within
+    GUILDENSTERN
+      378  There are the players.
+    HAMLET
+      379  Gentlemen, you are welcome to Elsinore. Your hands,
+      380  come then: the appurtenance of welcome is fashion
+      381  and ceremony: let me comply with you in this garb,
+      382  lest my extent to the players, which, I tell you,
+      383  must show fairly outward, should more appear like
+      384  entertainment than yours. You are welcome: but my
+      385  uncle-father and aunt-mother are deceived.
+    GUILDENSTERN
+      386  In what, my dear lord?
+    HAMLET
+      387  I am but mad north-north-west: when the wind is
+      388  southerly I know a hawk from a handsaw.
+  Direction: Enter POLONIUS
+    LORD POLONIUS
+      389  Well be with you, gentlemen!
+    HAMLET
+      390  Hark you, Guildenstern; and you too: at each ear a
+      391  hearer: that great baby you see there is not yet
+      392  out of his swaddling-clouts.
+    ROSENCRANTZ
+      393  Happily he's the second time come to them; for they
+      394  say an old man is twice a child.
+    HAMLET
+      395  I will prophesy he comes to tell me of the players;
+      396  mark it. You say right, sir: o' Monday morning;
+      397  'twas so indeed.
+    LORD POLONIUS
+      398  My lord, I have news to tell you.
+    HAMLET
+      399  My lord, I have news to tell you.
+      400  When Roscius was an actor in Rome,--
+    LORD POLONIUS
+      401  The actors are come hither, my lord.
+    HAMLET
+      402  Buz, buz!
+    LORD POLONIUS
+      403  Upon mine honour,--
+    HAMLET
+      404  Then came each actor on his ass,--
+    LORD POLONIUS
+      405  The best actors in the world, either for tragedy,
+      406  comedy, history, pastoral, pastoral-comical,
+      407  historical-pastoral, tragical-historical, tragical-
+      408  comical-historical-pastoral, scene individable, or
+      409  poem unlimited: Seneca cannot be too heavy, nor
+      410  Plautus too light. For the law of writ and the
+      411  liberty, these are the only men.
+    HAMLET
+      412  O Jephthah, judge of Israel, what a treasure hadst thou!
+    LORD POLONIUS
+      413  What a treasure had he, my lord?
+    HAMLET
+      414  Why,
+      415  'One fair daughter and no more,
+      416  The which he loved passing well.'
+    LORD POLONIUS
+      417  [Aside] Still on my daughter.
+    HAMLET
+      418  Am I not i' the right, old Jephthah?
+    LORD POLONIUS
+      419  If you call me Jephthah, my lord, I have a daughter
+      420  that I love passing well.
+    HAMLET
+      421  Nay, that follows not.
+    LORD POLONIUS
+      422  What follows, then, my lord?
+    HAMLET
+      423  Why,
+      424  'As by lot, God wot,'
+      425  and then, you know,
+      426  'It came to pass, as most like it was,'--
+      427  the first row of the pious chanson will show you
+      428  more; for look, where my abridgement comes.
+  Direction: Enter four or five Players
+      429  You are welcome, masters; welcome, all. I am glad
+      430  to see thee well. Welcome, good friends. O, my old
+      431  friend! thy face is valenced since I saw thee last:
+      432  comest thou to beard me in Denmark? What, my young
+      433  lady and mistress! By'r lady, your ladyship is
+      434  nearer to heaven than when I saw you last, by the
+      435  altitude of a chopine. Pray God, your voice, like
+      436  apiece of uncurrent gold, be not cracked within the
+      437  ring. Masters, you are all welcome. We'll e'en
+      438  to't like French falconers, fly at any thing we see:
+      439  we'll have a speech straight: come, give us a taste
+      440  of your quality; come, a passionate speech.
+    First Player
+      441  What speech, my lord?
+    HAMLET
+      442  I heard thee speak me a speech once, but it was
+      443  never acted; or, if it was, not above once; for the
+      444  play, I remember, pleased not the million; 'twas
+      445  caviare to the general: but it was--as I received
+      446  it, and others, whose judgments in such matters
+      447  cried in the top of mine--an excellent play, well
+      448  digested in the scenes, set down with as much
+      449  modesty as cunning. I remember, one said there
+      450  were no sallets in the lines to make the matter
+      451  savoury, nor no matter in the phrase that might
+      452  indict the author of affectation; but called it an
+      453  honest method, as wholesome as sweet, and by very
+      454  much more handsome than fine. One speech in it I
+      455  chiefly loved: 'twas Aeneas' tale to Dido; and
+      456  thereabout of it especially, where he speaks of
+      457  Priam's slaughter: if it live in your memory, begin
+      458  at this line: let me see, let me see--
+      459  'The rugged Pyrrhus, like the Hyrcanian beast,'--
+      460  it is not so:--it begins with Pyrrhus:--
+      461  'The rugged Pyrrhus, he whose sable arms,
+      462  Black as his purpose, did the night resemble
+      463  When he lay couched in the ominous horse,
+      464  Hath now this dread and black complexion smear'd
+      465  With heraldry more dismal; head to foot
+      466  Now is he total gules; horridly trick'd
+      467  With blood of fathers, mothers, daughters, sons,
+      468  Baked and impasted with the parching streets,
+      469  That lend a tyrannous and damned light
+      470  To their lord's murder: roasted in wrath and fire,
+      471  And thus o'er-sized with coagulate gore,
+      472  With eyes like carbuncles, the hellish Pyrrhus
+      473  Old grandsire Priam seeks.'
+      474  So, proceed you.
+    LORD POLONIUS
+      475  'Fore God, my lord, well spoken, with good accent and
+      476  good discretion.
+    First Player
+      477  'Anon he finds him
+      478  Striking too short at Greeks; his antique sword,
+      479  Rebellious to his arm, lies where it falls,
+      480  Repugnant to command: unequal match'd,
+      481  Pyrrhus at Priam drives; in rage strikes wide;
+      482  But with the whiff and wind of his fell sword
+      483  The unnerved father falls. Then senseless Ilium,
+      484  Seeming to feel this blow, with flaming top
+      485  Stoops to his base, and with a hideous crash
+      486  Takes prisoner Pyrrhus' ear: for, lo! his sword,
+      487  Which was declining on the milky head
+      488  Of reverend Priam, seem'd i' the air to stick:
+      489  So, as a painted tyrant, Pyrrhus stood,
+      490  And like a neutral to his will and matter,
+      491  Did nothing.
+      492  But, as we often see, against some storm,
+      493  A silence in the heavens, the rack stand still,
+      494  The bold winds speechless and the orb below
+      495  As hush as death, anon the dreadful thunder
+      496  Doth rend the region, so, after Pyrrhus' pause,
+      497  Aroused vengeance sets him new a-work;
+      498  And never did the Cyclops' hammers fall
+      499  On Mars's armour forged for proof eterne
+      500  With less remorse than Pyrrhus' bleeding sword
+      501  Now falls on Priam.
+      502  Out, out, thou strumpet, Fortune! All you gods,
+      503  In general synod 'take away her power;
+      504  Break all the spokes and fellies from her wheel,
+      505  And bowl the round nave down the hill of heaven,
+      506  As low as to the fiends!'
+    LORD POLONIUS
+      507  This is too long.
+    HAMLET
+      508  It shall to the barber's, with your beard. Prithee,
+      509  say on: he's for a jig or a tale of bawdry, or he
+      510  sleeps: say on: come to Hecuba.
+    First Player
+      511  'But who, O, who had seen the mobled queen--'
+    HAMLET
+      512  'The mobled queen?'
+    LORD POLONIUS
+      513  That's good; 'mobled queen' is good.
+    First Player
+      514  'Run barefoot up and down, threatening the flames
+      515  With bisson rheum; a clout upon that head
+      516  Where late the diadem stood, and for a robe,
+      517  About her lank and all o'er-teemed loins,
+      518  A blanket, in the alarm of fear caught up;
+      519  Who this had seen, with tongue in venom steep'd,
+      520  'Gainst Fortune's state would treason have
+      521  pronounced:
+      522  But if the gods themselves did see her then
+      523  When she saw Pyrrhus make malicious sport
+      524  In mincing with his sword her husband's limbs,
+      525  The instant burst of clamour that she made,
+      526  Unless things mortal move them not at all,
+      527  Would have made milch the burning eyes of heaven,
+      528  And passion in the gods.'
+    LORD POLONIUS
+      529  Look, whether he has not turned his colour and has
+      530  tears in's eyes. Pray you, no more.
+    HAMLET
+      531  'Tis well: I'll have thee speak out the rest soon.
+      532  Good my lord, will you see the players well
+      533  bestowed? Do you hear, let them be well used; for
+      534  they are the abstract and brief chronicles of the
+      535  time: after your death you were better have a bad
+      536  epitaph than their ill report while you live.
+    LORD POLONIUS
+      537  My lord, I will use them according to their desert.
+    HAMLET
+      538  God's bodykins, man, much better: use every man
+      539  after his desert, and who should 'scape whipping?
+      540  Use them after your own honour and dignity: the less
+      541  they deserve, the more merit is in your bounty.
+      542  Take them in.
+    LORD POLONIUS
+      543  Come, sirs.
+    HAMLET
+      544  Follow him, friends: we'll hear a play to-morrow.
+  Direction: Exit POLONIUS with all the Players but the First
+      545  Dost thou hear me, old friend; can you play the
+      546  Murder of Gonzago?
+    First Player
+      547  Ay, my lord.
+    HAMLET
+      548  We'll ha't to-morrow night. You could, for a need,
+      549  study a speech of some dozen or sixteen lines, which
+      550  I would set down and insert in't, could you not?
+    First Player
+      551  Ay, my lord.
+    HAMLET
+      552  Very well. Follow that lord; and look you mock him
+      553  not.
+  Direction: Exit First Player
+      554  My good friends, I'll leave you till night: you are
+      555  welcome to Elsinore.
+    ROSENCRANTZ
+      556  Good my lord!
+    HAMLET
+      557  Ay, so, God be wi' ye;
+  Direction: Exeunt ROSENCRANTZ and GUILDENSTERN
+      558  Now I am alone.
+      559  O, what a rogue and peasant slave am I!
+      560  Is it not monstrous that this player here,
+      561  But in a fiction, in a dream of passion,
+      562  Could force his soul so to his own conceit
+      563  That from her working all his visage wann'd,
+      564  Tears in his eyes, distraction in's aspect,
+      565  A broken voice, and his whole function suiting
+      566  With forms to his conceit? and all for nothing!
+      567  For Hecuba!
+      568  What's Hecuba to him, or he to Hecuba,
+      569  That he should weep for her? What would he do,
+      570  Had he the motive and the cue for passion
+      571  That I have? He would drown the stage with tears
+      572  And cleave the general ear with horrid speech,
+      573  Make mad the guilty and appal the free,
+      574  Confound the ignorant, and amaze indeed
+      575  The very faculties of eyes and ears. Yet I,
+      576  A dull and muddy-mettled rascal, peak,
+      577  Like John-a-dreams, unpregnant of my cause,
+      578  And can say nothing; no, not for a king,
+      579  Upon whose property and most dear life
+      580  A damn'd defeat was made. Am I a coward?
+      581  Who calls me villain? breaks my pate across?
+      582  Plucks off my beard, and blows it in my face?
+      583  Tweaks me by the nose? gives me the lie i' the throat,
+      584  As deep as to the lungs? who does me this?
+      585  Ha!
+      586  'Swounds, I should take it: for it cannot be
+      587  But I am pigeon-liver'd and lack gall
+      588  To make oppression bitter, or ere this
+      589  I should have fatted all the region kites
+      590  With this slave's offal: bloody, bawdy villain!
+      591  Remorseless, treacherous, lecherous, kindless villain!
+      592  O, vengeance!
+      593  Why, what an ass am I! This is most brave,
+      594  That I, the son of a dear father murder'd,
+      595  Prompted to my revenge by heaven and hell,
+      596  Must, like a whore, unpack my heart with words,
+      597  And fall a-cursing, like a very drab,
+      598  A scullion!
+      599  Fie upon't! foh! About, my brain! I have heard
+      600  That guilty creatures sitting at a play
+      601  Have by the very cunning of the scene
+      602  Been struck so to the soul that presently
+      603  They have proclaim'd their malefactions;
+      604  For murder, though it have no tongue, will speak
+      605  With most miraculous organ. I'll have these players
+      606  Play something like the murder of my father
+      607  Before mine uncle: I'll observe his looks;
+      608  I'll tent him to the quick: if he but blench,
+      609  I know my course. The spirit that I have seen
+      610  May be the devil: and the devil hath power
+      611  To assume a pleasing shape; yea, and perhaps
+      612  Out of my weakness and my melancholy,
+      613  As he is very potent with such spirits,
+      614  Abuses me to damn me: I'll have grounds
+      615  More relative than this: the play 's the thing
+      616  Wherein I'll catch the conscience of the king.
+  Direction: Exit

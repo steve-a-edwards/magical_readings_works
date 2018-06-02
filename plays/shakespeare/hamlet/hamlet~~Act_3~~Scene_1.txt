@@ -1,0 +1,261 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          Hamlet : Act 3 : Scene 1
+
+SCENE I. A room in the castle.
+  Direction: Enter KING CLAUDIUS, QUEEN GERTRUDE, POLONIUS, OPHELIA, ROSENCRANTZ, and GUILDENSTERN
+    KING CLAUDIUS
+        1  And can you, by no drift of circumstance,
+        2  Get from him why he puts on this confusion,
+        3  Grating so harshly all his days of quiet
+        4  With turbulent and dangerous lunacy?
+    ROSENCRANTZ
+        5  He does confess he feels himself distracted;
+        6  But from what cause he will by no means speak.
+    GUILDENSTERN
+        7  Nor do we find him forward to be sounded,
+        8  But, with a crafty madness, keeps aloof,
+        9  When we would bring him on to some confession
+       10  Of his true state.
+    QUEEN GERTRUDE
+       11  Did he receive you well?
+    ROSENCRANTZ
+       12  Most like a gentleman.
+    GUILDENSTERN
+       13  But with much forcing of his disposition.
+    ROSENCRANTZ
+       14  Niggard of question; but, of our demands,
+       15  Most free in his reply.
+    QUEEN GERTRUDE
+       16  Did you assay him?
+       17  To any pastime?
+    ROSENCRANTZ
+       18  Madam, it so fell out, that certain players
+       19  We o'er-raught on the way: of these we told him;
+       20  And there did seem in him a kind of joy
+       21  To hear of it: they are about the court,
+       22  And, as I think, they have already order
+       23  This night to play before him.
+    LORD POLONIUS
+       24  'Tis most true:
+       25  And he beseech'd me to entreat your majesties
+       26  To hear and see the matter.
+    KING CLAUDIUS
+       27  With all my heart; and it doth much content me
+       28  To hear him so inclined.
+       29  Good gentlemen, give him a further edge,
+       30  And drive his purpose on to these delights.
+    ROSENCRANTZ
+       31  We shall, my lord.
+  Direction: Exeunt ROSENCRANTZ and GUILDENSTERN
+    KING CLAUDIUS
+       32  Sweet Gertrude, leave us too;
+       33  For we have closely sent for Hamlet hither,
+       34  That he, as 'twere by accident, may here
+       35  Affront Ophelia:
+       36  Her father and myself, lawful espials,
+       37  Will so bestow ourselves that, seeing, unseen,
+       38  We may of their encounter frankly judge,
+       39  And gather by him, as he is behaved,
+       40  If 't be the affliction of his love or no
+       41  That thus he suffers for.
+    QUEEN GERTRUDE
+       42  I shall obey you.
+       43  And for your part, Ophelia, I do wish
+       44  That your good beauties be the happy cause
+       45  Of Hamlet's wildness: so shall I hope your virtues
+       46  Will bring him to his wonted way again,
+       47  To both your honours.
+    OPHELIA
+       48  Madam, I wish it may.
+  Direction: Exit QUEEN GERTRUDE
+    LORD POLONIUS
+       49  Ophelia, walk you here. Gracious, so please you,
+       50  We will bestow ourselves.
+  Direction: To OPHELIA
+       51  Read on this book;
+       52  That show of such an exercise may colour
+       53  Your loneliness. We are oft to blame in this,--
+       54  'Tis too much proved--that with devotion's visage
+       55  And pious action we do sugar o'er
+       56  The devil himself.
+    KING CLAUDIUS
+       57  [Aside] O, 'tis too true!
+       58  How smart a lash that speech doth give my conscience!
+       59  The harlot's cheek, beautied with plastering art,
+       60  Is not more ugly to the thing that helps it
+       61  Than is my deed to my most painted word:
+       62  O heavy burthen!
+    LORD POLONIUS
+       63  I hear him coming: let's withdraw, my lord.
+  Direction: Exeunt KING CLAUDIUS and POLONIUS
+  Direction: Enter HAMLET
+    HAMLET
+       64  To be, or not to be: that is the question:
+       65  Whether 'tis nobler in the mind to suffer
+       66  The slings and arrows of outrageous fortune,
+       67  Or to take arms against a sea of troubles,
+       68  And by opposing end them? To die: to sleep;
+       69  No more; and by a sleep to say we end
+       70  The heart-ache and the thousand natural shocks
+       71  That flesh is heir to, 'tis a consummation
+       72  Devoutly to be wish'd. To die, to sleep;
+       73  To sleep: perchance to dream: ay, there's the rub;
+       74  For in that sleep of death what dreams may come
+       75  When we have shuffled off this mortal coil,
+       76  Must give us pause: there's the respect
+       77  That makes calamity of so long life;
+       78  For who would bear the whips and scorns of time,
+       79  The oppressor's wrong, the proud man's contumely,
+       80  The pangs of despised love, the law's delay,
+       81  The insolence of office and the spurns
+       82  That patient merit of the unworthy takes,
+       83  When he himself might his quietus make
+       84  With a bare bodkin? who would fardels bear,
+       85  To grunt and sweat under a weary life,
+       86  But that the dread of something after death,
+       87  The undiscover'd country from whose bourn
+       88  No traveller returns, puzzles the will
+       89  And makes us rather bear those ills we have
+       90  Than fly to others that we know not of?
+       91  Thus conscience does make cowards of us all;
+       92  And thus the native hue of resolution
+       93  Is sicklied o'er with the pale cast of thought,
+       94  And enterprises of great pith and moment
+       95  With this regard their currents turn awry,
+       96  And lose the name of action.--Soft you now!
+       97  The fair Ophelia! Nymph, in thy orisons
+       98  Be all my sins remember'd.
+    OPHELIA
+       99  Good my lord,
+      100  How does your honour for this many a day?
+    HAMLET
+      101  I humbly thank you; well, well, well.
+    OPHELIA
+      102  My lord, I have remembrances of yours,
+      103  That I have longed long to re-deliver;
+      104  I pray you, now receive them.
+    HAMLET
+      105  No, not I;
+      106  I never gave you aught.
+    OPHELIA
+      107  My honour'd lord, you know right well you did;
+      108  And, with them, words of so sweet breath composed
+      109  As made the things more rich: their perfume lost,
+      110  Take these again; for to the noble mind
+      111  Rich gifts wax poor when givers prove unkind.
+      112  There, my lord.
+    HAMLET
+      113  Ha, ha! are you honest?
+    OPHELIA
+      114  My lord?
+    HAMLET
+      115  Are you fair?
+    OPHELIA
+      116  What means your lordship?
+    HAMLET
+      117  That if you be honest and fair, your honesty should
+      118  admit no discourse to your beauty.
+    OPHELIA
+      119  Could beauty, my lord, have better commerce than
+      120  with honesty?
+    HAMLET
+      121  Ay, truly; for the power of beauty will sooner
+      122  transform honesty from what it is to a bawd than the
+      123  force of honesty can translate beauty into his
+      124  likeness: this was sometime a paradox, but now the
+      125  time gives it proof. I did love you once.
+    OPHELIA
+      126  Indeed, my lord, you made me believe so.
+    HAMLET
+      127  You should not have believed me; for virtue cannot
+      128  so inoculate our old stock but we shall relish of
+      129  it: I loved you not.
+    OPHELIA
+      130  I was the more deceived.
+    HAMLET
+      131  Get thee to a nunnery: why wouldst thou be a
+      132  breeder of sinners? I am myself indifferent honest;
+      133  but yet I could accuse me of such things that it
+      134  were better my mother had not borne me: I am very
+      135  proud, revengeful, ambitious, with more offences at
+      136  my beck than I have thoughts to put them in,
+      137  imagination to give them shape, or time to act them
+      138  in. What should such fellows as I do crawling
+      139  between earth and heaven? We are arrant knaves,
+      140  all; believe none of us. Go thy ways to a nunnery.
+      141  Where's your father?
+    OPHELIA
+      142  At home, my lord.
+    HAMLET
+      143  Let the doors be shut upon him, that he may play the
+      144  fool no where but in's own house. Farewell.
+    OPHELIA
+      145  O, help him, you sweet heavens!
+    HAMLET
+      146  If thou dost marry, I'll give thee this plague for
+      147  thy dowry: be thou as chaste as ice, as pure as
+      148  snow, thou shalt not escape calumny. Get thee to a
+      149  nunnery, go: farewell. Or, if thou wilt needs
+      150  marry, marry a fool; for wise men know well enough
+      151  what monsters you make of them. To a nunnery, go,
+      152  and quickly too. Farewell.
+    OPHELIA
+      153  O heavenly powers, restore him!
+    HAMLET
+      154  I have heard of your paintings too, well enough; God
+      155  has given you one face, and you make yourselves
+      156  another: you jig, you amble, and you lisp, and
+      157  nick-name God's creatures, and make your wantonness
+      158  your ignorance. Go to, I'll no more on't; it hath
+      159  made me mad. I say, we will have no more marriages:
+      160  those that are married already, all but one, shall
+      161  live; the rest shall keep as they are. To a
+      162  nunnery, go.
+  Direction: Exit
+    OPHELIA
+      163  O, what a noble mind is here o'erthrown!
+      164  The courtier's, soldier's, scholar's, eye, tongue, sword;
+      165  The expectancy and rose of the fair state,
+      166  The glass of fashion and the mould of form,
+      167  The observed of all observers, quite, quite down!
+      168  And I, of ladies most deject and wretched,
+      169  That suck'd the honey of his music vows,
+      170  Now see that noble and most sovereign reason,
+      171  Like sweet bells jangled, out of tune and harsh;
+      172  That unmatch'd form and feature of blown youth
+      173  Blasted with ecstasy: O, woe is me,
+      174  To have seen what I have seen, see what I see!
+  Direction: Re-enter KING CLAUDIUS and POLONIUS
+    KING CLAUDIUS
+      175  Love! his affections do not that way tend;
+      176  Nor what he spake, though it lack'd form a little,
+      177  Was not like madness. There's something in his soul,
+      178  O'er which his melancholy sits on brood;
+      179  And I do doubt the hatch and the disclose
+      180  Will be some danger: which for to prevent,
+      181  I have in quick determination
+      182  Thus set it down: he shall with speed to England,
+      183  For the demand of our neglected tribute
+      184  Haply the seas and countries different
+      185  With variable objects shall expel
+      186  This something-settled matter in his heart,
+      187  Whereon his brains still beating puts him thus
+      188  From fashion of himself. What think you on't?
+    LORD POLONIUS
+      189  It shall do well: but yet do I believe
+      190  The origin and commencement of his grief
+      191  Sprung from neglected love. How now, Ophelia!
+      192  You need not tell us what Lord Hamlet said;
+      193  We heard it all. My lord, do as you please;
+      194  But, if you hold it fit, after the play
+      195  Let his queen mother all alone entreat him
+      196  To show his grief: let her be round with him;
+      197  And I'll be placed, so please you, in the ear
+      198  Of all their conference. If she find him not,
+      199  To England send him, or confine him where
+      200  Your wisdom best shall think.
+    KING CLAUDIUS
+      201  It shall be so:
+      202  Madness in great ones must not unwatch'd go.
+  Direction: Exeunt
