@@ -1,0 +1,261 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          Macbeth : Act 2 : Scene 3
+
+SCENE III. The same.
+  Direction: Knocking within. Enter a Porter
+    Porter
+        1  Here's a knocking indeed! If a
+        2  man were porter of hell-gate, he should have
+        3  old turning the key.
+  Direction: Knocking within
+        4  Knock,
+        5  knock, knock! Who's there, i' the name of
+        6  Beelzebub? Here's a farmer, that hanged
+        7  himself on the expectation of plenty: come in
+        8  time; have napkins enow about you; here
+        9  you'll sweat for't.
+  Direction: Knocking within
+       10  Knock,
+       11  knock! Who's there, in the other devil's
+       12  name? Faith, here's an equivocator, that could
+       13  swear in both the scales against either scale;
+       14  who committed treason enough for God's sake,
+       15  yet could not equivocate to heaven: O, come
+       16  in, equivocator.
+  Direction: Knocking within
+       17  Knock,
+       18  knock, knock! Who's there? Faith, here's an
+       19  English tailor come hither, for stealing out of
+       20  a French hose: come in, tailor; here you may
+       21  roast your goose.
+  Direction: Knocking within
+       22  Knock,
+       23  knock; never at quiet! What are you? But
+       24  this place is too cold for hell. I'll devil-porter
+       25  it no further: I had thought to have let in
+       26  some of all professions that go the primrose
+       27  way to the everlasting bonfire.
+  Direction: Knocking within
+       28  Anon, anon! I pray you, remember the porter.
+  Direction: Opens the gate
+  Direction: Enter MACDUFF and LENNOX
+    MACDUFF
+       29  Was it so late, friend, ere you went to bed,
+       30  That you do lie so late?
+    Porter
+       31  'Faith sir, we were carousing till the
+       32  second cock: and drink, sir, is a great
+       33  provoker of three things.
+    MACDUFF
+       34  What three things does drink especially provoke?
+    Porter
+       35  Marry, sir, nose-painting, sleep, and
+       36  urine. Lechery, sir, it provokes, and unprovokes;
+       37  it provokes the desire, but it takes
+       38  away the performance: therefore, much drink
+       39  may be said to be an equivocator with lechery:
+       40  it makes him, and it mars him; it sets
+       41  him on, and it takes him off; it persuades him,
+       42  and disheartens him; makes him stand to, and
+       43  not stand to; in conclusion, equivocates him
+       44  in a sleep, and, giving him the lie, leaves him.
+    MACDUFF
+       45  I believe drink gave thee the lie last night.
+    Porter
+       46  That it did, sir, i' the very throat on
+       47  me: but I requited him for his lie; and, I
+       48  think, being too strong for him, though he took
+       49  up my legs sometime, yet I made a shift to cast
+       50  him.
+    MACDUFF
+       51  Is thy master stirring?
+  Direction: Enter MACBETH
+       52  Our knocking has awaked him; here he comes.
+    LENNOX
+       53  Good morrow, noble sir.
+    MACBETH
+       54  Good morrow, both.
+    MACDUFF
+       55  Is the king stirring, worthy thane?
+    MACBETH
+       56  Not yet.
+    MACDUFF
+       57  He did command me to call timely on him:
+       58  I have almost slipp'd the hour.
+    MACBETH
+       59  I'll bring you to him.
+    MACDUFF
+       60  I know this is a joyful trouble to you;
+       61  But yet 'tis one.
+    MACBETH
+       62  The labour we delight in physics pain.
+       63  This is the door.
+    MACDUFF
+       64  I'll make so bold to call,
+       65  For 'tis my limited service.
+  Direction: Exit
+    LENNOX
+       66  Goes the king hence to-day?
+    MACBETH
+       67  He does: he did appoint so.
+    LENNOX
+       68  The night has been unruly: where we lay,
+       69  Our chimneys were blown down; and, as they say,
+       70  Lamentings heard i' the air; strange screams of death,
+       71  And prophesying with accents terrible
+       72  Of dire combustion and confused events
+       73  New hatch'd to the woeful time: the obscure bird
+       74  Clamour'd the livelong night: some say, the earth
+       75  Was feverous and did shake.
+    MACBETH
+       76  'Twas a rough night.
+    LENNOX
+       77  My young remembrance cannot parallel
+       78  A fellow to it.
+  Direction: Re-enter MACDUFF
+    MACDUFF
+       79  O horror, horror, horror! Tongue nor heart
+       80  Cannot conceive nor name thee!
+    MACBETH
+    LENNOX
+       81  What's the matter.
+    MACDUFF
+       82  Confusion now hath made his masterpiece!
+       83  Most sacrilegious murder hath broke ope
+       84  The Lord's anointed temple, and stole thence
+       85  The life o' the building!
+    MACBETH
+       86  What is 't you say? the life?
+    LENNOX
+       87  Mean you his majesty?
+    MACDUFF
+       88  Approach the chamber, and destroy your sight
+       89  With a new Gorgon: do not bid me speak;
+       90  See, and then speak yourselves.
+  Direction: Exeunt MACBETH and LENNOX
+       91  Awake, awake!
+       92  Ring the alarum-bell. Murder and treason!
+       93  Banquo and Donalbain! Malcolm! awake!
+       94  Shake off this downy sleep, death's counterfeit,
+       95  And look on death itself! up, up, and see
+       96  The great doom's image! Malcolm! Banquo!
+       97  As from your graves rise up, and walk like sprites,
+       98  To countenance this horror! Ring the bell.
+  Direction: Bell rings
+  Direction: Enter LADY MACBETH
+    LADY MACBETH
+       99  What's the business,
+      100  That such a hideous trumpet calls to parley
+      101  The sleepers of the house? speak, speak!
+    MACDUFF
+      102  O gentle lady,
+      103  'Tis not for you to hear what I can speak:
+      104  The repetition, in a woman's ear,
+      105  Would murder as it fell.
+  Direction: Enter BANQUO
+      106  O Banquo, Banquo,
+      107  Our royal master 's murder'd!
+    LADY MACBETH
+      108  Woe, alas!
+      109  What, in our house?
+    BANQUO
+      110  Too cruel any where.
+      111  Dear Duff, I prithee, contradict thyself,
+      112  And say it is not so.
+  Direction: Re-enter MACBETH and LENNOX, with ROSS
+    MACBETH
+      113  Had I but died an hour before this chance,
+      114  I had lived a blessed time; for, from this instant,
+      115  There 's nothing serious in mortality:
+      116  All is but toys: renown and grace is dead;
+      117  The wine of life is drawn, and the mere lees
+      118  Is left this vault to brag of.
+  Direction: Enter MALCOLM and DONALBAIN
+    DONALBAIN
+      119  What is amiss?
+    MACBETH
+      120  You are, and do not know't:
+      121  The spring, the head, the fountain of your blood
+      122  Is stopp'd; the very source of it is stopp'd.
+    MACDUFF
+      123  Your royal father 's murder'd.
+    MALCOLM
+      124  O, by whom?
+    LENNOX
+      125  Those of his chamber, as it seem'd, had done 't:
+      126  Their hands and faces were an badged with blood;
+      127  So were their daggers, which unwiped we found
+      128  Upon their pillows:
+      129  They stared, and were distracted; no man's life
+      130  Was to be trusted with them.
+    MACBETH
+      131  O, yet I do repent me of my fury,
+      132  That I did kill them.
+    MACDUFF
+      133  Wherefore did you so?
+    MACBETH
+      134  Who can be wise, amazed, temperate and furious,
+      135  Loyal and neutral, in a moment? No man:
+      136  The expedition my violent love
+      137  Outrun the pauser, reason. Here lay Duncan,
+      138  His silver skin laced with his golden blood;
+      139  And his gash'd stabs look'd like a breach in nature
+      140  For ruin's wasteful entrance: there, the murderers,
+      141  Steep'd in the colours of their trade, their daggers
+      142  Unmannerly breech'd with gore: who could refrain,
+      143  That had a heart to love, and in that heart
+      144  Courage to make 's love kno wn?
+    LADY MACBETH
+      145  Help me hence, ho!
+    MACDUFF
+      146  Look to the lady.
+    MALCOLM
+      147  [Aside to DONALBAIN] Why do we hold our tongues,
+      148  That most may claim this argument for ours?
+    DONALBAIN
+      149  [Aside to MALCOLM] What should be spoken here,
+      150  where our fate,
+      151  Hid in an auger-hole, may rush, and seize us?
+      152  Let 's away;
+      153  Our tears are not yet brew'd.
+    MALCOLM
+      154  [Aside to DONALBAIN] Nor our strong sorrow
+      155  Upon the foot of motion.
+    BANQUO
+      156  Look to the lady:
+  Direction: LADY MACBETH is carried out
+      157  And when we have our naked frailties hid,
+      158  That suffer in exposure, let us meet,
+      159  And question this most bloody piece of work,
+      160  To know it further. Fears and scruples shake us:
+      161  In the great hand of God I stand; and thence
+      162  Against the undivulged pretence I fight
+      163  Of treasonous malice.
+    MACDUFF
+      164  And so do I.
+    ALL
+      165  So all.
+    MACBETH
+      166  Let's briefly put on manly readiness,
+      167  And meet i' the hall together.
+    ALL
+      168  Well contented.
+  Direction: Exeunt all but Malcolm and Donalbain.
+    MALCOLM
+      169  What will you do? Let's not consort with them:
+      170  To show an unfelt sorrow is an office
+      171  Which the false man does easy. I'll to England.
+    DONALBAIN
+      172  To Ireland, I; our separated fortune
+      173  Shall keep us both the safer: where we are,
+      174  There's daggers in men's smiles: the near in blood,
+      175  The nearer bloody.
+    MALCOLM
+      176  This murderous shaft that's shot
+      177  Hath not yet lighted, and our safest way
+      178  Is to avoid the aim. Therefore, to horse;
+      179  And let us not be dainty of leave-taking,
+      180  But shift away: there's warrant in that theft
+      181  Which steals itself, when there's no mercy left.
+  Direction: Exeunt
