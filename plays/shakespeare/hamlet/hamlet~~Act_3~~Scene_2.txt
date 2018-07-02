@@ -65,7 +65,6 @@ SCENE II. A hall in the castle.
   Direction: Exit POLONIUS
        50  Will you two help to hasten them?
     ROSENCRANTZ
-    GUILDENSTERN
        51  We will, my lord.
   Direction: Exeunt ROSENCRANTZ and GUILDENSTERN
     HAMLET
