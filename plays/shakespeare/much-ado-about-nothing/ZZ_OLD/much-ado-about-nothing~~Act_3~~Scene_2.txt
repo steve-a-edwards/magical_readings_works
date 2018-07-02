@@ -2,7 +2,7 @@ Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
 
           Much Ado About Nothing : Act 3 : Scene 2
 
-SCENE II. A room in LEONATO'S house
+_SCENE II. A room in LEONATO'S house
   Direction: Enter DON PEDRO, CLAUDIO, BENEDICK, and LEONATO
     DON PEDRO
         1  I do but stay till your marriage be consummate, and
@@ -24,7 +24,7 @@ SCENE II. A room in LEONATO'S house
     BENEDICK
        15  Gallants, I am not as I have been.
     LEONATO
-       16  So say I methinks you are sadder.
+       16  So say I	methinks you are sadder.
     CLAUDIO
        17  I hope he be in love.
     DON PEDRO
@@ -123,7 +123,8 @@ SCENE II. A room in LEONATO'S house
     DON PEDRO
        76  What's the matter?
     DON JOHN
-       77  [To CLAUDIO] Means your lordship to be married
+  Direction: To CLAUDIO
+       77  Means your lordship to be married
        78  to-morrow?
     DON PEDRO
        79  You know he does.

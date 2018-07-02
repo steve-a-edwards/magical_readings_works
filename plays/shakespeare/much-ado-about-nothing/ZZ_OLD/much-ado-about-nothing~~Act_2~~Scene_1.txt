@@ -64,7 +64,8 @@ SCENE I. A hall in LEONATO'S house.
        42  heavens; he shows me where the bachelors sit, and
        43  there live we as merry as the day is long.
     ANTONIO
-       44  [To HERO] Well, niece, I trust you will be ruled
+  Direction: To HERO
+       44  Well, niece, I trust you will be ruled
        45  by your father.
     BEATRICE
        46  Yes, faith; it is my cousin's duty to make curtsy
@@ -501,7 +502,7 @@ SCENE I. A hall in LEONATO'S house.
       342  two helps, will so practise on Benedick that, in
       343  despite of his quick wit and his queasy stomach, he
       344  shall fall in love with Beatrice. If we can do this,
-      345  Cupid is no longer an archer: hi s glory shall be
+      345  Cupid is no longer an archer: his glory shall be
       346  ours, for we are the only love-gods. Go in with me,
       347  and I will tell you my drift.
   Direction: Exeunt

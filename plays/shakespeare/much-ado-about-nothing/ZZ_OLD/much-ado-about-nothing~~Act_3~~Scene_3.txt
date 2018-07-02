@@ -129,7 +129,8 @@ SCENE III. A street.
     BORACHIO
        87  What Conrade!
     Watchman
-       88  [Aside] Peace! stir not.
+  Direction: Aside
+       88  Peace! stir not.
     BORACHIO
        89  Conrade, I say!
     CONRADE
@@ -145,7 +146,8 @@ SCENE III. A street.
        96  it drizzles rain; and I will, like a true drunkard,
        97  utter all to thee.
     Watchman
-       98  [Aside] Some treason, masters: yet stand close.
+  Direction: Aside
+       98  Some treason, masters: yet stand close.
     BORACHIO
        99  Therefore know I have earned of Don John a thousand ducats.
     CONRADE
@@ -172,7 +174,8 @@ SCENE III. A street.
       113  seest thou not what a deformed thief this fashion
       114  is?
     Watchman
-      115  [Aside] I know that Deformed; a' has been a vile
+  Direction: Aside
+      115  I know that Deformed; a' has been a vile
       116  thief this seven year; a' goes up and down like a
       117  gentleman: I remember his name.
     BORACHIO

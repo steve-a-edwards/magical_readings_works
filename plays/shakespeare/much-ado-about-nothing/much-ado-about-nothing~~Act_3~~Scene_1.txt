@@ -32,126 +32,126 @@ SCENE I. LEONATO'S garden.
        22  Is little Cupid's crafty arrow made,
        23  That only wounds by hearsay.
   Direction: Enter BEATRICE, behind
-  Direction: Now begin;
-       24  For look where Beatrice, like a lapwing, runs
-       25  Close by the ground, to hear our conference.
+       24  Now begin;
+       25  For look where Beatrice, like a lapwing, runs
+       26  Close by the ground, to hear our conference.
     URSULA
-       26  The pleasant'st angling is to see the fish
-       27  Cut with her golden oars the silver stream,
-       28  And greedily devour the treacherous bait:
-       29  So angle we for Beatrice; who even now
-       30  Is couched in the woodbine coverture.
-       31  Fear you not my part of the dialogue.
+       27  The pleasant'st angling is to see the fish
+       28  Cut with her golden oars the silver stream,
+       29  And greedily devour the treacherous bait:
+       30  So angle we for Beatrice; who even now
+       31  Is couched in the woodbine coverture.
+       32  Fear you not my part of the dialogue.
     HERO
-       32  Then go we near her, that her ear lose nothing
-       33  Of the false sweet bait that we lay for it.
+       33  Then go we near her, that her ear lose nothing
+       34  Of the false sweet bait that we lay for it.
   Direction: Approaching the bower
-       34  No, truly, Ursula, she is too disdainful;
-       35  I know her spirits are as coy and wild
-       36  As haggerds of the rock.
+       35  No, truly, Ursula, she is too disdainful;
+       36  I know her spirits are as coy and wild
+       37  As haggerds of the rock.
     URSULA
-       37  But are you sure
-       38  That Benedick loves Beatrice so entirely?
+       38  But are you sure
+       39  That Benedick loves Beatrice so entirely?
     HERO
-       39  So says the prince and my new-trothed lord.
+       40  So says the prince and my new-trothed lord.
     URSULA
-       40  And did they bid you tell her of it, madam?
+       41  And did they bid you tell her of it, madam?
     HERO
-       41  They did entreat me to acquaint her of it;
-       42  But I persuaded them, if they loved Benedick,
-       43  To wish him wrestle with affection,
-       44  And never to let Beatrice know of it.
+       42  They did entreat me to acquaint her of it;
+       43  But I persuaded them, if they loved Benedick,
+       44  To wish him wrestle with affection,
+       45  And never to let Beatrice know of it.
     URSULA
-       45  Why did you so? Doth not the gentleman
-       46  Deserve as full as fortunate a bed
-       47  As ever Beatrice shall couch upon?
+       46  Why did you so? Doth not the gentleman
+       47  Deserve as full as fortunate a bed
+       48  As ever Beatrice shall couch upon?
     HERO
-       48  O god of love! I know he doth deserve
-       49  As much as may be yielded to a man:
-       50  But Nature never framed a woman's heart
-       51  Of prouder stuff than that of Beatrice;
-       52  Disdain and scorn ride sparkling in her eyes,
-       53  Misprising what they look on, and her wit
-       54  Values itself so highly that to her
-       55  All matter else seems weak: she cannot love,
-       56  Nor take no shape nor project of affection,
-       57  She is so self-endeared.
+       49  O god of love! I know he doth deserve
+       50  As much as may be yielded to a man:
+       51  But Nature never framed a woman's heart
+       52  Of prouder stuff than that of Beatrice;
+       53  Disdain and scorn ride sparkling in her eyes,
+       54  Misprising what they look on, and her wit
+       55  Values itself so highly that to her
+       56  All matter else seems weak: she cannot love,
+       57  Nor take no shape nor project of affection,
+       58  She is so self-endeared.
     URSULA
-       58  Sure, I think so;
-       59  And therefore certainly it were not good
-       60  She knew his love, lest she make sport at it.
+       59  Sure, I think so;
+       60  And therefore certainly it were not good
+       61  She knew his love, lest she make sport at it.
     HERO
-       61  Why, you speak truth. I never yet saw man,
-       62  How wise, how noble, young, how rarely featured,
-       63  But she would spell him backward: if fair-faced,
-       64  She would swear the gentleman should be her sister;
-       65  If black, why, Nature, drawing of an antique,
-       66  Made a foul blot; if tall, a lance ill-headed;
-       67  If low, an agate very vilely cut;
-       68  If speaking, why, a vane blown with all winds;
-       69  If silent, why, a block moved with none.
-       70  So turns she every man the wrong side out
-       71  And never gives to truth and virtue that
-       72  Which simpleness and merit purchaseth.
+       62  Why, you speak truth. I never yet saw man,
+       63  How wise, how noble, young, how rarely featured,
+       64  But she would spell him backward: if fair-faced,
+       65  She would swear the gentleman should be her sister;
+       66  If black, why, Nature, drawing of an antique,
+       67  Made a foul blot; if tall, a lance ill-headed;
+       68  If low, an agate very vilely cut;
+       69  If speaking, why, a vane blown with all winds;
+       70  If silent, why, a block moved with none.
+       71  So turns she every man the wrong side out
+       72  And never gives to truth and virtue that
+       73  Which simpleness and merit purchaseth.
     URSULA
-       73  Sure, sure, such carping is not commendable.
+       74  Sure, sure, such carping is not commendable.
     HERO
-       74  No, not to be so odd and from all fashions
-       75  As Beatrice is, cannot be commendable:
-       76  But who dare tell her so? If I should speak,
-       77  She would mock me into air; O, she would laugh me
-       78  Out of myself, press me to death with wit.
-       79  Therefore let Benedick, like cover'd fire,
-       80  Consume away in sighs, waste inwardly:
-       81  It were a better death than die with mocks,
-       82  Which is as bad as die with tickling.
+       75  No, not to be so odd and from all fashions
+       76  As Beatrice is, cannot be commendable:
+       77  But who dare tell her so? If I should speak,
+       78  She would mock me into air; O, she would laugh me
+       79  Out of myself, press me to death with wit.
+       80  Therefore let Benedick, like cover'd fire,
+       81  Consume away in sighs, waste inwardly:
+       82  It were a better death than die with mocks,
+       83  Which is as bad as die with tickling.
     URSULA
-       83  Yet tell her of it: hear what she will say.
+       84  Yet tell her of it: hear what she will say.
     HERO
-       84  No; rather I will go to Benedick
-       85  And counsel him to fight against his passion.
-       86  And, truly, I'll devise some honest slanders
-       87  To stain my cousin with: one doth not know
-       88  How much an ill word may empoison liking.
+       85  No; rather I will go to Benedick
+       86  And counsel him to fight against his passion.
+       87  And, truly, I'll devise some honest slanders
+       88  To stain my cousin with: one doth not know
+       89  How much an ill word may empoison liking.
     URSULA
-       89  O, do not do your cousin such a wrong.
-       90  She cannot be so much without true judgment--
-       91  Having so swift and excellent a wit
-       92  As she is prized to have--as to refuse
-       93  So rare a gentleman as Signior Benedick.
+       90  O, do not do your cousin such a wrong.
+       91  She cannot be so much without true judgment--
+       92  Having so swift and excellent a wit
+       93  As she is prized to have--as to refuse
+       94  So rare a gentleman as Signior Benedick.
     HERO
-       94  He is the only man of Italy.
-       95  Always excepted my dear Claudio.
+       95  He is the only man of Italy.
+       96  Always excepted my dear Claudio.
     URSULA
-       96  I pray you, be not angry with me, madam,
-       97  Speaking my fancy: Signior Benedick,
-       98  For shape, for bearing, argument and valour,
-       99  Goes foremost in report through Italy.
+       97  I pray you, be not angry with me, madam,
+       98  Speaking my fancy: Signior Benedick,
+       99  For shape, for bearing, argument and valour,
+      100  Goes foremost in report through Italy.
     HERO
-      100  Indeed, he hath an excellent good name.
+      101  Indeed, he hath an excellent good name.
     URSULA
-      101  His excellence did earn it, ere he had it.
-      102  When are you married, madam?
+      102  His excellence did earn it, ere he had it.
+      103  When are you married, madam?
     HERO
-      103  Why, every day, to-morrow. Come, go in:
-      104  I'll show thee some attires, and have thy counsel
-      105  Which is the best to furnish me to-morrow.
+      104  Why, every day, to-morrow. Come, go in:
+      105  I'll show thee some attires, and have thy counsel
+      106  Which is the best to furnish me to-morrow.
     URSULA
-      106  She's limed, I warrant you: we have caught her, madam.
+      107  She's limed, I warrant you: we have caught her, madam.
     HERO
-      107  If it proves so, then loving goes by haps:
-      108  Some Cupid kills with arrows, some with traps.
+      108  If it proves so, then loving goes by haps:
+      109  Some Cupid kills with arrows, some with traps.
   Direction: Exeunt HERO and URSULA
     BEATRICE
-  Direction: Coming forward
-      109  What fire is in mine ears? Can this be true?
-      110  Stand I condemn'd for pride and scorn so much?
-      111  Contempt, farewell! and maiden pride, adieu!
-      112  No glory lives behind the back of such.
-      113  And, Benedick, love on; I will requite thee,
-      114  Taming my wild heart to thy loving hand:
-      115  If thou dost love, my kindness shall incite thee
-      116  To bind our loves up in a holy band;
-      117  For others say thou dost deserve, and I
-      118  Believe it better than reportingly.
+      110  [Coming forward]
+      111  What fire is in mine ears? Can this be true?
+      112  Stand I condemn'd for pride and scorn so much?
+      113  Contempt, farewell! and maiden pride, adieu!
+      114  No glory lives behind the back of such.
+      115  And, Benedick, love on; I will requite thee,
+      116  Taming my wild heart to thy loving hand:
+      117  If thou dost love, my kindness shall incite thee
+      118  To bind our loves up in a holy band;
+      119  For others say thou dost deserve, and I
+      120  Believe it better than reportingly.
   Direction: Exit

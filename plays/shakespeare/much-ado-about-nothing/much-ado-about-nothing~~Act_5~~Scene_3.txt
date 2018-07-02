@@ -6,10 +6,10 @@ SCENE III. A church.
   Direction: Enter DON PEDRO, CLAUDIO, and three or four with tapers
     CLAUDIO
         1  Is this the monument of Leonato?
-        2  Lord
-        3  It is, my lord.
+    Lord
+        2  It is, my lord.
     CLAUDIO
-  Direction: Reading out of a scroll
+        3  [Reading out of a scroll]
         4  Done to death by slanderous tongues
         5  Was the Hero that here lies:
         6  Death, in guerdon of her wrongs,
@@ -19,32 +19,32 @@ SCENE III. A church.
        10  Hang thou there upon the tomb,
        11  Praising her when I am dumb.
        12  Now, music, sound, and sing your solemn hymn.
-  Direction: SONG.
-       13  Pardon, goddess of the night,
-       14  Those that slew thy virgin knight;
-       15  For the which, with songs of woe,
-       16  Round about her tomb they go.
-       17  Midnight, assist our moan;
-       18  Help us to sigh and groan,
-       19  Heavily, heavily:
-       20  Graves, yawn and yield your dead,
-       21  Till death be uttered,
-       22  Heavily, heavily.
+       13  SONG.
+       14  Pardon, goddess of the night,
+       15  Those that slew thy virgin knight;
+       16  For the which, with songs of woe,
+       17  Round about her tomb they go.
+       18  Midnight, assist our moan;
+       19  Help us to sigh and groan,
+       20  Heavily, heavily:
+       21  Graves, yawn and yield your dead,
+       22  Till death be uttered,
+       23  Heavily, heavily.
     CLAUDIO
-       23  Now, unto thy bones good night!
-       24  Yearly will I do this rite.
+       24  Now, unto thy bones good night!
+       25  Yearly will I do this rite.
     DON PEDRO
-       25  Good morrow, masters; put your torches out:
-       26  The wolves have prey'd; and look, the gentle day,
-       27  Before the wheels of Phoebus, round about
-       28  Dapples the drowsy east with spots of grey.
-       29  Thanks to you all, and leave us: fare you well.
+       26  Good morrow, masters; put your torches out:
+       27  The wolves have prey'd; and look, the gentle day,
+       28  Before the wheels of Phoebus, round about
+       29  Dapples the drowsy east with spots of grey.
+       30  Thanks to you all, and leave us: fare you well.
     CLAUDIO
-       30  Good morrow, masters: each his several way.
+       31  Good morrow, masters: each his several way.
     DON PEDRO
-       31  Come, let us hence, and put on other weeds;
-       32  And then to Leonato's we will go.
+       32  Come, let us hence, and put on other weeds;
+       33  And then to Leonato's we will go.
     CLAUDIO
-       33  And Hymen now with luckier issue speed's
-       34  Than this for whom we render'd up this woe.
+       34  And Hymen now with luckier issue speed's
+       35  Than this for whom we render'd up this woe.
   Direction: Exeunt

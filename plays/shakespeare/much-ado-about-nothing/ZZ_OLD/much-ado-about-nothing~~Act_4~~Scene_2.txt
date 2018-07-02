@@ -2,7 +2,7 @@ Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
 
           Much Ado About Nothing : Act 4 : Scene 2
 
-SCENE II. A prison.
+CENE II. A prison.
   Direction: Enter DOGBERRY, VERGES, and Sexton, in gowns; and the Watch, with CONRADE and BORACHIO
     DOGBERRY
         1  Is our whole dissembly appeared?
@@ -29,8 +29,7 @@ SCENE II. A prison.
     DOGBERRY
        13  Write down, master gentleman Conrade. Masters, do
        14  you serve God?
-    CONRADE
-    BORACHIO
+    CONRADE BORACHIO
        15  Yea, sir, we hope.
     DOGBERRY
        16  Write down, that they hope they serve God: and

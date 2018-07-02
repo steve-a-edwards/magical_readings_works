@@ -213,7 +213,8 @@ SCENE I. Before LEONATO'S house.
     CLAUDIO
       150  God bless me from a challenge!
     BENEDICK
-      151  [Aside to CLAUDIO] You are a villain; I jest not:
+  Direction: Aside to CLAUDIO
+      151  You are a villain; I jest not:
       152  I will make it good how you dare, with what you
       153  dare, and when you dare. Do me right, or I will
       154  protest your cowardice. You have killed a sweet
@@ -456,7 +457,8 @@ SCENE I. Before LEONATO'S house.
     CLAUDIO
       331  To-night I'll mourn with Hero.
     LEONATO
-      332  [To the Watch] Bring you these fellows on. We'll
+  Direction: To the Watch
+      332  Bring you these fellows on. We'll
       333  talk with Margaret,
       334  How her acquaintance grew with this lewd fellow.
   Direction: Exeunt, severally

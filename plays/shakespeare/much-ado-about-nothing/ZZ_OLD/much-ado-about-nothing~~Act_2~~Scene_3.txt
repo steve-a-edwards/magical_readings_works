@@ -295,7 +295,8 @@ SCENE III. LEONATO'S orchard.
       207  dumb-show. Let us send her to call him in to dinner.
   Direction: Exeunt DON PEDRO, CLAUDIO, and LEONATO
     BENEDICK
-      208  [Coming forward] This can be no trick: the
+  Direction: Coming forward
+      208  This can be no trick: the
       209  conference was sadly borne. They have the truth of
       210  this from Hero. They seem to pity the lady: it
       211  seems her affections have their full bent. Love me!

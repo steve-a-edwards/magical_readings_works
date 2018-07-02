@@ -118,7 +118,8 @@ SCENE IV. A room in LEONATO'S house.
     BENEDICK
        74  Soft and fair, friar. Which is Beatrice?
     BEATRICE
-       75  [Unmasking] I answer to that name. What is your will?
+  Direction: Unmasking
+       75  I answer to that name. What is your will?
     BENEDICK
        76  Do not you love me?
     BEATRICE
