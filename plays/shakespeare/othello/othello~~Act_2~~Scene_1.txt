@@ -1,0 +1,442 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          Othello : Act 2 : Scene 1
+
+SCENE I. A Sea-port in Cyprus. An open place near the quay.
+  Direction: Enter MONTANO and two Gentlemen
+    MONTANO
+        1  What from the cape can you discern at sea?
+    First Gentleman
+        2  Nothing at all: it is a highwrought flood;
+        3  I cannot, 'twixt the heaven and the main,
+        4  Descry a sail.
+    MONTANO
+        5  Methinks the wind hath spoke aloud at land;
+        6  A fuller blast ne'er shook our battlements:
+        7  If it hath ruffian'd so upon the sea,
+        8  What ribs of oak, when mountains melt on them,
+        9  Can hold the mortise? What shall we hear of this?
+    Second Gentleman
+       10  A segregation of the Turkish fleet:
+       11  For do but stand upon the foaming shore,
+       12  The chidden billow seems to pelt the clouds;
+       13  The wind-shaked surge, with high and monstrous mane,
+       14  seems to cast water on the burning bear,
+       15  And quench the guards of the ever-fixed pole:
+       16  I never did like molestation view
+       17  On the enchafed flood.
+    MONTANO
+       18  If that the Turkish fleet
+       19  Be not enshelter'd and embay'd, they are drown'd:
+       20  It is impossible they bear it out.
+  Direction: Enter a third Gentleman
+    Third Gentleman
+       21  News, lads! our wars are done.
+       22  The desperate tempest hath so bang'd the Turks,
+       23  That their designment halts: a noble ship of Venice
+       24  Hath seen a grievous wreck and sufferance
+       25  On most part of their fleet.
+    MONTANO
+       26  How! is this true?
+    Third Gentleman
+       27  The ship is here put in,
+       28  A Veronesa; Michael Cassio,
+       29  Lieutenant to the warlike Moor Othello,
+       30  Is come on shore: the Moor himself at sea,
+       31  And is in full commission here for Cyprus.
+    MONTANO
+       32  I am glad on't; 'tis a worthy governor.
+    Third Gentleman
+       33  But this same Cassio, though he speak of comfort
+       34  Touching the Turkish loss, yet he looks sadly,
+       35  And prays the Moor be safe; for they were parted
+       36  With foul and violent tempest.
+    MONTANO
+       37  Pray heavens he be;
+       38  For I have served him, and the man commands
+       39  Like a full soldier. Let's to the seaside, ho!
+       40  As well to see the vessel that's come in
+       41  As to throw out our eyes for brave Othello,
+       42  Even till we make the main and the aerial blue
+       43  An indistinct regard.
+    Third Gentleman
+       44  Come, let's do so:
+       45  For every minute is expectancy
+       46  Of more arrivance.
+  Direction: Enter CASSIO
+    CASSIO
+       47  Thanks, you the valiant of this warlike isle,
+       48  That so approve the Moor! O, let the heavens
+       49  Give him defence against the elements,
+       50  For I have lost us him on a dangerous sea.
+    MONTANO
+       51  Is he well shipp'd?
+    CASSIO
+       52  His bark is stoutly timber'd, his pilot
+       53  Of very expert and approved allowance;
+       54  Therefore my hopes, not surfeited to death,
+       55  Stand in bold cure.
+  Direction: A cry within 'A sail, a sail, a sail!'
+  Direction: Enter a fourth Gentleman
+    CASSIO
+       56  What noise?
+    Fourth Gentleman
+       57  The town is empty; on the brow o' the sea
+       58  Stand ranks of people, and they cry 'A sail!'
+    CASSIO
+       59  My hopes do shape him for the governor.
+  Direction: Guns heard
+    Second Gentlemen
+       60  They do discharge their shot of courtesy:
+       61  Our friends at least.
+    CASSIO
+       62  I pray you, sir, go forth,
+       63  And give us truth who 'tis that is arrived.
+    Second Gentleman
+       64  I shall.
+  Direction: Exit
+    MONTANO
+       65  But, good lieutenant, is your general wived?
+    CASSIO
+       66  Most fortunately: he hath achieved a maid
+       67  That paragons description and wild fame;
+       68  One that excels the quirks of blazoning pens,
+       69  And in the essential vesture of creation
+       70  Does tire the ingener.
+  Direction: Re-enter second Gentleman
+       71  How now! who has put in?
+    Second Gentleman
+       72  'Tis one Iago, ancient to the general.
+    CASSIO
+       73  Has had most favourable and happy speed:
+       74  Tempests themselves, high seas, and howling winds,
+       75  The gutter'd rocks and congregated sands--
+       76  Traitors ensteep'd to clog the guiltless keel,--
+       77  As having sense of beauty, do omit
+       78  Their mortal natures, letting go safely by
+       79  The divine Desdemona.
+    MONTANO
+       80  What is she?
+    CASSIO
+       81  She that I spake of, our great captain's captain,
+       82  Left in the conduct of the bold Iago,
+       83  Whose footing here anticipates our thoughts
+       84  A se'nnight's speed. Great Jove, Othello guard,
+       85  And swell his sail with thine own powerful breath,
+       86  That he may bless this bay with his tall ship,
+       87  Make love's quick pants in Desdemona's arms,
+       88  Give renew'd fire to our extincted spirits
+       89  And bring all Cyprus comfort!
+  Direction: Enter DESDEMONA, EMILIA, IAGO, RODERIGO, and Attendants
+       90  O, behold,
+       91  The riches of the ship is come on shore!
+       92  Ye men of Cyprus, let her have your knees.
+       93  Hail to thee, lady! and the grace of heaven,
+       94  Before, behind thee, and on every hand,
+       95  Enwheel thee round!
+    DESDEMONA
+       96  I thank you, valiant Cassio.
+       97  What tidings can you tell me of my lord?
+    CASSIO
+       98  He is not yet arrived: nor know I aught
+       99  But that he's well and will be shortly here.
+    DESDEMONA
+      100  O, but I fear--How lost you company?
+    CASSIO
+      101  The great contention of the sea and skies
+      102  Parted our fellowship--But, hark! a sail.
+  Direction: Within 'A sail, a sail!' Guns heard
+    Second Gentleman
+      103  They give their greeting to the citadel;
+      104  This likewise is a friend.
+    CASSIO
+      105  See for the news.
+  Direction: Exit Gentleman
+      106  Good ancient, you are welcome.
+  Direction: To EMILIA
+      107  Welcome, mistress.
+      108  Let it not gall your patience, good Iago,
+      109  That I extend my manners; 'tis my breeding
+      110  That gives me this bold show of courtesy.
+  Direction: Kissing her
+    IAGO
+      111  Sir, would she give you so much of her lips
+      112  As of her tongue she oft bestows on me,
+      113  You'll have enough.
+    DESDEMONA
+      114  Alas, she has no speech.
+    IAGO
+      115  In faith, too much;
+      116  I find it still, when I have list to sleep:
+      117  Marry, before your ladyship, I grant,
+      118  She puts her tongue a little in her heart,
+      119  And chides with thinking.
+    EMILIA
+      120  You have little cause to say so.
+    IAGO
+      121  Come on, come on; you are pictures out of doors,
+      122  Bells in your parlors, wild-cats in your kitchens,
+      123  Saints m your injuries, devils being offended,
+      124  Players in your housewifery, and housewives' in your beds.
+    DESDEMONA
+      125  O, fie upon thee, slanderer!
+    IAGO
+      126  Nay, it is true, or else I am a Turk:
+      127  You rise to play and go to bed to work.
+    EMILIA
+      128  You shall not write my praise.
+    IAGO
+      129  No, let me not.
+    DESDEMONA
+      130  What wouldst thou write of me, if thou shouldst
+      131  praise me?
+    IAGO
+      132  O gentle lady, do not put me to't;
+      133  For I am nothing, if not critical.
+    DESDEMONA
+      134  Come on assay. There's one gone to the harbour?
+    IAGO
+      135  Ay, madam.
+    DESDEMONA
+      136  I am not merry; but I do beguile
+      137  The thing I am, by seeming otherwise.
+      138  Come, how wouldst thou praise me?
+    IAGO
+      139  I am about it; but indeed my invention
+      140  Comes from my pate as birdlime does from frize;
+      141  It plucks out brains and all: but my Muse labours,
+      142  And thus she is deliver'd.
+      143  If she be fair and wise, fairness and wit,
+      144  The one's for use, the other useth it.
+    DESDEMONA
+      145  Well praised! How if she be black and witty?
+    IAGO
+      146  If she be black, and thereto have a wit,
+      147  She'll find a white that shall her blackness fit.
+    DESDEMONA
+      148  Worse and worse.
+    EMILIA
+      149  How if fair and foolish?
+    IAGO
+      150  She never yet was foolish that was fair;
+      151  For even her folly help'd her to an heir.
+    DESDEMONA
+      152  These are old fond paradoxes to make fools laugh i'
+      153  the alehouse. What miserable praise hast thou for
+      154  her that's foul and foolish?
+    IAGO
+      155  There's none so foul and foolish thereunto,
+      156  But does foul pranks which fair and wise ones do.
+    DESDEMONA
+      157  O heavy ignorance! thou praisest the worst best.
+      158  But what praise couldst thou bestow on a deserving
+      159  woman indeed, one that, in the authority of her
+      160  merit, did justly put on the vouch of very malice itself?
+    IAGO
+      161  She that was ever fair and never proud,
+      162  Had tongue at will and yet was never loud,
+      163  Never lack'd gold and yet went never gay,
+      164  Fled from her wish and yet said 'Now I may,'
+      165  She that being anger'd, her revenge being nigh,
+      166  Bade her wrong stay and her displeasure fly,
+      167  She that in wisdom never was so frail
+      168  To change the cod's head for the salmon's tail;
+      169  She that could think and ne'er disclose her mind,
+      170  See suitors following and not look behind,
+      171  She was a wight, if ever such wight were,--
+    DESDEMONA
+      172  To do what?
+    IAGO
+      173  To suckle fools and chronicle small beer.
+    DESDEMONA
+      174  O most lame and impotent conclusion! Do not learn
+      175  of him, Emilia, though he be thy husband. How say
+      176  you, Cassio? is he not a most profane and liberal
+      177  counsellor?
+    CASSIO
+      178  He speaks home, madam: You may relish him more in
+      179  the soldier than in the scholar.
+    IAGO
+      180  [Aside] He takes her by the palm: ay, well said,
+      181  whisper: with as little a web as this will I
+      182  ensnare as great a fly as Cassio. Ay, smile upon
+      183  her, do; I will gyve thee in thine own courtship.
+      184  You say true; 'tis so, indeed: if such tricks as
+      185  these strip you out of your lieutenantry, it had
+      186  been better you had not kissed your three fingers so
+      187  oft, which now again you are most apt to play the
+      188  sir in. Very good; well kissed! an excellent
+      189  courtesy! 'tis so, indeed. Yet again your fingers
+      190  to your lips? would they were clyster-pipes for your sake!
+  Direction: Trumpet within
+      191  The Moor! I know his trumpet.
+    CASSIO
+      192  'Tis truly so.
+    DESDEMONA
+      193  Let's meet him and receive him.
+    CASSIO
+      194  Lo, where he comes!
+  Direction: Enter OTHELLO and Attendants
+    OTHELLO
+      195  O my fair warrior!
+    DESDEMONA
+      196  My dear Othello!
+    OTHELLO
+      197  It gives me wonder great as my content
+      198  To see you here before me. O my soul's joy!
+      199  If after every tempest come such calms,
+      200  May the winds blow till they have waken'd death!
+      201  And let the labouring bark climb hills of seas
+      202  Olympus-high and duck again as low
+      203  As hell's from heaven! If it were now to die,
+      204  'Twere now to be most happy; for, I fear,
+      205  My soul hath her content so absolute
+      206  That not another comfort like to this
+      207  Succeeds in unknown fate.
+    DESDEMONA
+      208  The heavens forbid
+      209  But that our loves and comforts should increase,
+      210  Even as our days do grow!
+    OTHELLO
+      211  Amen to that, sweet powers!
+      212  I cannot speak enough of this content;
+      213  It stops me here; it is too much of joy:
+      214  And this, and this, the greatest discords be
+  Direction: Kissing her
+      215  That e'er our hearts shall make!
+    IAGO
+      216  [Aside] O, you are well tuned now!
+      217  But I'll set down the pegs that make this music,
+      218  As honest as I am.
+    OTHELLO
+      219  Come, let us to the castle.
+      220  News, friends; our wars are done, the Turks
+      221  are drown'd.
+      222  How does my old acquaintance of this isle?
+      223  Honey, you shall be well desired in Cyprus;
+      224  I have found great love amongst them. O my sweet,
+      225  I prattle out of fashion, and I dote
+      226  In mine own comforts. I prithee, good Iago,
+      227  Go to the bay and disembark my coffers:
+      228  Bring thou the master to the citadel;
+      229  He is a good one, and his worthiness
+      230  Does challenge much respect. Come, Desdemona,
+      231  Once more, well met at Cyprus.
+  Direction: Exeunt OTHELLO, DESDEMONA, and Attendants
+    IAGO
+      232  Do thou meet me presently at the harbour. Come
+      233  hither. If thou be'st valiant,-- as, they say, base
+      234  men being in love have then a nobility in their
+      235  natures more than is native to them--list me. The
+      236  lieutenant tonight watches on the court of
+      237  guard:--first, I must tell thee this--Desdemona is
+      238  directly in love with him.
+    RODERIGO
+      239  With him! why, 'tis not possible.
+    IAGO
+      240  Lay thy finger thus, and let thy soul be instructed.
+      241  Mark me with what violence she first loved the Moor,
+      242  but for bragging and telling her fantastical lies:
+      243  and will she love him still for prating? let not
+      244  thy discreet heart think it. Her eye must be fed;
+      245  and what delight shall she have to look on the
+      246  devil? When the blood is made dull with the act of
+      247  sport, there should be, again to inflame it and to
+      248  give satiety a fresh appetite, loveliness in favour,
+      249  sympathy in years, manners and beauties; all which
+      250  the Moor is defective in: now, for want of these
+      251  required conveniences, her delicate tenderness will
+      252  find itself abused, begin to heave the gorge,
+      253  disrelish and abhor the Moor; very nature will
+      254  instruct her in it and compel her to some second
+      255  choice. Now, sir, this granted,--as it is a most
+      256  pregnant and unforced position--who stands so
+      257  eminent in the degree of this fortune as Cassio
+      258  does? a knave very voluble; no further
+      259  conscionable than in putting on the mere form of
+      260  civil and humane seeming, for the better compassing
+      261  of his salt and most hidden loose affection? why,
+      262  none; why, none: a slipper and subtle knave, a
+      263  finder of occasions, that has an eye can stamp and
+      264  counterfeit advantages, though true advantage never
+      265  present itself; a devilish knave. Besides, the
+      266  knave is handsome, young, and hath all those
+      267  requisites in him that folly and green minds look
+      268  after: a pestilent complete knave; and the woman
+      269  hath found him already.
+    RODERIGO
+      270  I cannot believe that in her; she's full of
+      271  most blessed condition.
+    IAGO
+      272  Blessed fig's-end! the wine she drinks is made of
+      273  grapes: if she had been blessed, she would never
+      274  have loved the Moor. Blessed pudding! Didst thou
+      275  not see her paddle with the palm of his hand? didst
+      276  not mark that?
+    RODERIGO
+      277  Yes, that I did; but that was but courtesy.
+    IAGO
+      278  Lechery, by this hand; an index and obscure prologue
+      279  to the history of lust and foul thoughts. They met
+      280  so near with their lips that their breaths embraced
+      281  together. Villanous thoughts, Roderigo! when these
+      282  mutualities so marshal the way, hard at hand comes
+      283  the master and main exercise, the incorporate
+      284  conclusion, Pish! But, sir, be you ruled by me: I
+      285  have brought you from Venice. Watch you to-night;
+      286  for the command, I'll lay't upon you. Cassio knows
+      287  you not. I'll not be far from you: do you find
+      288  some occasion to anger Cassio, either by speaking
+      289  too loud, or tainting his discipline; or from what
+      290  other course you please, which the time shall more
+      291  favourably minister.
+    RODERIGO
+      292  Well.
+    IAGO
+      293  Sir, he is rash and very sudden in choler, and haply
+      294  may strike at you: provoke him, that he may; for
+      295  even out of that will I cause these of Cyprus to
+      296  mutiny; whose qualification shall come into no true
+      297  taste again but by the displanting of Cassio. So
+      298  shall you have a shorter journey to your desires by
+      299  the means I shall then have to prefer them; and the
+      300  impediment most profitably removed, without the
+      301  which there were no expectation of our prosperity.
+    RODERIGO
+      302  I will do this, if I can bring it to any
+      303  opportunity.
+    IAGO
+      304  I warrant thee. Meet me by and by at the citadel:
+      305  I must fetch his necessaries ashore. Farewell.
+    RODERIGO
+      306  Adieu.
+  Direction: Exit
+    IAGO
+      307  That Cassio loves her, I do well believe it;
+      308  That she loves him, 'tis apt and of great credit:
+      309  The Moor, howbeit that I endure him not,
+      310  Is of a constant, loving, noble nature,
+      311  And I dare think he'll prove to Desdemona
+      312  A most dear husband. Now, I do love her too;
+      313  Not out of absolute lust, though peradventure
+      314  I stand accountant for as great a sin,
+      315  But partly led to diet my revenge,
+      316  For that I do suspect the lusty Moor
+      317  Hath leap'd into my seat; the thought whereof
+      318  Doth, like a poisonous mineral, gnaw my inwards;
+      319  And nothing can or shall content my soul
+      320  Till I am even'd with him, wife for wife,
+      321  Or failing so, yet that I put the Moor
+      322  At least into a jealousy so strong
+      323  That judgment cannot cure. Which thing to do,
+      324  If this poor trash of Venice, whom I trash
+      325  For his quick hunting, stand the putting on,
+      326  I'll have our Michael Cassio on the hip,
+      327  Abuse him to the Moor in the rank garb--
+      328  For I fear Cassio with my night-cap too--
+      329  Make the Moor thank me, love me and reward me.
+      330  For making him egregiously an ass
+      331  And practising upon his peace and quiet
+      332  Even to madness. 'Tis here, but yet confused:
+      333  Knavery's plain face is never seen tin used.
+  Direction: Exit

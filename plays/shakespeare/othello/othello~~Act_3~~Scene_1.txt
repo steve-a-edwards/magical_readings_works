@@ -1,0 +1,101 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          Othello : Act 3 : Scene 1
+
+SCENE I. Before the castle.
+  Direction: Enter CASSIO and some Musicians
+    CASSIO
+        1  Masters, play here; I will content your pains;
+        2  Something that's brief; and bid 'Good morrow, general.'
+  Direction: Music
+  Direction: Enter Clown
+    Clown
+        3  Why masters, have your instruments been in Naples,
+        4  that they speak i' the nose thus?
+    First Musician
+        5  How, sir, how!
+    Clown
+        6  Are these, I pray you, wind-instruments?
+    First Musician
+        7  Ay, marry, are they, sir.
+    Clown
+        8  O, thereby hangs a tail.
+    First Musician
+        9  Whereby hangs a tale, sir?
+    Clown
+       10  Marry. sir, by many a wind-instrument that I know.
+       11  But, masters, here's money for you: and the general
+       12  so likes your music, that he desires you, for love's
+       13  sake, to make no more noise with it.
+    First Musician
+       14  Well, sir, we will not.
+    Clown
+       15  If you have any music that may not be heard, to't
+       16  again: but, as they say to hear music the general
+       17  does not greatly care.
+    First Musician
+       18  We have none such, sir.
+    Clown
+       19  Then put up your pipes in your bag, for I'll away:
+       20  go; vanish into air; away!
+  Direction: Exeunt Musicians
+    CASSIO
+       21  Dost thou hear, my honest friend?
+    Clown
+       22  No, I hear not your honest friend; I hear you.
+    CASSIO
+       23  Prithee, keep up thy quillets. There's a poor piece
+       24  of gold for thee: if the gentlewoman that attends
+       25  the general's wife be stirring, tell her there's
+       26  one Cassio entreats her a little favour of speech:
+       27  wilt thou do this?
+    Clown
+       28  She is stirring, sir: if she will stir hither, I
+       29  shall seem to notify unto her.
+    CASSIO
+       30  Do, good my friend.
+  Direction: Exit Clown
+  Direction: Enter IAGO
+       31  In happy time, Iago.
+    IAGO
+       32  You have not been a-bed, then?
+    CASSIO
+       33  Why, no; the day had broke
+       34  Before we parted. I have made bold, Iago,
+       35  To send in to your wife: my suit to her
+       36  Is, that she will to virtuous Desdemona
+       37  Procure me some access.
+    IAGO
+       38  I'll send her to you presently;
+       39  And I'll devise a mean to draw the Moor
+       40  Out of the way, that your converse and business
+       41  May be more free.
+    CASSIO
+       42  I humbly thank you for't.
+  Direction: Exit IAGO
+       43  I never knew
+       44  A Florentine more kind and honest.
+  Direction: Enter EMILIA
+    EMILIA
+       45  Good morrow, good Lieutenant: I am sorry
+       46  For your displeasure; but all will sure be well.
+       47  The general and his wife are talking of it;
+       48  And she speaks for you stoutly: the Moor replies,
+       49  That he you hurt is of great fame in Cyprus,
+       50  And great affinity, and that in wholesome wisdom
+       51  He might not but refuse you; but he protests he loves you
+       52  And needs no other suitor but his likings
+       53  To take the safest occasion by the front
+       54  To bring you in again.
+    CASSIO
+       55  Yet, I beseech you,
+       56  If you think fit, or that it may be done,
+       57  Give me advantage of some brief discourse
+       58  With Desdemona alone.
+    EMILIA
+       59  Pray you, come in;
+       60  I will bestow you where you shall have time
+       61  To speak your bosom freely.
+    CASSIO
+       62  I am much bound to you.
+  Direction: Exeunt

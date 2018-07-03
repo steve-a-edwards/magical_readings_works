@@ -1,0 +1,716 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          Othello : Act 3 : Scene 3
+
+SCENE III. The garden of the castle.
+  Direction: Enter DESDEMONA, CASSIO, and EMILIA
+    DESDEMONA
+        1  Be thou assured, good Cassio, I will do
+        2  All my abilities in thy behalf.
+    EMILIA
+        3  Good madam, do: I warrant it grieves my husband,
+        4  As if the case were his.
+    DESDEMONA
+        5  O, that's an honest fellow. Do not doubt, Cassio,
+        6  But I will have my lord and you again
+        7  As friendly as you were.
+    CASSIO
+        8  Bounteous madam,
+        9  Whatever shall become of Michael Cassio,
+       10  He's never any thing but your true servant.
+    DESDEMONA
+       11  I know't; I thank you. You do love my lord:
+       12  You have known him long; and be you well assured
+       13  He shall in strangeness stand no further off
+       14  Than in a polite distance.
+    CASSIO
+       15  Ay, but, lady,
+       16  That policy may either last so long,
+       17  Or feed upon such nice and waterish diet,
+       18  Or breed itself so out of circumstance,
+       19  That, I being absent and my place supplied,
+       20  My general will forget my love and service.
+    DESDEMONA
+       21  Do not doubt that; before Emilia here
+       22  I give thee warrant of thy place: assure thee,
+       23  If I do vow a friendship, I'll perform it
+       24  To the last article: my lord shall never rest;
+       25  I'll watch him tame and talk him out of patience;
+       26  His bed shall seem a school, his board a shrift;
+       27  I'll intermingle every thing he does
+       28  With Cassio's suit: therefore be merry, Cassio;
+       29  For thy solicitor shall rather die
+       30  Than give thy cause away.
+    EMILIA
+       31  Madam, here comes my lord.
+    CASSIO
+       32  Madam, I'll take my leave.
+    DESDEMONA
+       33  Why, stay, and hear me speak.
+    CASSIO
+       34  Madam, not now: I am very ill at ease,
+       35  Unfit for mine own purposes.
+    DESDEMONA
+       36  Well, do your discretion.
+  Direction: Exit CASSIO
+  Direction: Enter OTHELLO and IAGO
+    IAGO
+       37  Ha! I like not that.
+    OTHELLO
+       38  What dost thou say?
+    IAGO
+       39  Nothing, my lord: or if--I know not what.
+    OTHELLO
+       40  Was not that Cassio parted from my wife?
+    IAGO
+       41  Cassio, my lord! No, sure, I cannot think it,
+       42  That he would steal away so guilty-like,
+       43  Seeing you coming.
+    OTHELLO
+       44  I do believe 'twas he.
+    DESDEMONA
+       45  How now, my lord!
+       46  I have been talking with a suitor here,
+       47  A man that languishes in your displeasure.
+    OTHELLO
+       48  Who is't you mean?
+    DESDEMONA
+       49  Why, your lieutenant, Cassio. Good my lord,
+       50  If I have any grace or power to move you,
+       51  His present reconciliation take;
+       52  For if he be not one that truly loves you,
+       53  That errs in ignorance and not in cunning,
+       54  I have no judgment in an honest face:
+       55  I prithee, call him back.
+    OTHELLO
+       56  Went he hence now?
+    DESDEMONA
+       57  Ay, sooth; so humbled
+       58  That he hath left part of his grief with me,
+       59  To suffer with him. Good love, call him back.
+    OTHELLO
+       60  Not now, sweet Desdemona; some other time.
+    DESDEMONA
+       61  But shall't be shortly?
+    OTHELLO
+       62  The sooner, sweet, for you.
+    DESDEMONA
+       63  Shall't be to-night at supper?
+    OTHELLO
+       64  No, not to-night.
+    DESDEMONA
+       65  To-morrow dinner, then?
+    OTHELLO
+       66  I shall not dine at home;
+       67  I meet the captains at the citadel.
+    DESDEMONA
+       68  Why, then, to-morrow night; or Tuesday morn;
+       69  On Tuesday noon, or night; on Wednesday morn:
+       70  I prithee, name the time, but let it not
+       71  Exceed three days: in faith, he's penitent;
+       72  And yet his trespass, in our common reason--
+       73  Save that, they say, the wars must make examples
+       74  Out of their best--is not almost a fault
+       75  To incur a private cheque. When shall he come?
+       76  Tell me, Othello: I wonder in my soul,
+       77  What you would ask me, that I should deny,
+       78  Or stand so mammering on. What! Michael Cassio,
+       79  That came a-wooing with you, and so many a time,
+       80  When I have spoke of you dispraisingly,
+       81  Hath ta'en your part; to have so much to do
+       82  To bring him in! Trust me, I could do much,--
+    OTHELLO
+       83  Prithee, no more: let him come when he will;
+       84  I will deny thee nothing.
+    DESDEMONA
+       85  Why, this is not a boon;
+       86  'Tis as I should entreat you wear your gloves,
+       87  Or feed on nourishing dishes, or keep you warm,
+       88  Or sue to you to do a peculiar profit
+       89  To your own person: nay, when I have a suit
+       90  Wherein I mean to touch your love indeed,
+       91  It shall be full of poise and difficult weight
+       92  And fearful to be granted.
+    OTHELLO
+       93  I will deny thee nothing:
+       94  Whereon, I do beseech thee, grant me this,
+       95  To leave me but a little to myself.
+    DESDEMONA
+       96  Shall I deny you? no: farewell, my lord.
+    OTHELLO
+       97  Farewell, my Desdemona: I'll come to thee straight.
+    DESDEMONA
+       98  Emilia, come. Be as your fancies teach you;
+       99  Whate'er you be, I am obedient.
+  Direction: Exeunt DESDEMONA and EMILIA
+    OTHELLO
+      100  Excellent wretch! Perdition catch my soul,
+      101  But I do love thee! and when I love thee not,
+      102  Chaos is come again.
+    IAGO
+      103  My noble lord--
+    OTHELLO
+      104  What dost thou say, Iago?
+    IAGO
+      105  Did Michael Cassio, when you woo'd my lady,
+      106  Know of your love?
+    OTHELLO
+      107  He did, from first to last: why dost thou ask?
+    IAGO
+      108  But for a satisfaction of my thought;
+      109  No further harm.
+    OTHELLO
+      110  Why of thy thought, Iago?
+    IAGO
+      111  I did not think he had been acquainted with her.
+    OTHELLO
+      112  O, yes; and went between us very oft.
+    IAGO
+      113  Indeed!
+    OTHELLO
+      114  Indeed! ay, indeed: discern'st thou aught in that?
+      115  Is he not honest?
+    IAGO
+      116  Honest, my lord!
+    OTHELLO
+      117  Honest! ay, honest.
+    IAGO
+      118  My lord, for aught I know.
+    OTHELLO
+      119  What dost thou think?
+    IAGO
+      120  Think, my lord!
+    OTHELLO
+      121  Think, my lord!
+      122  By heaven, he echoes me,
+      123  As if there were some monster in his thought
+      124  Too hideous to be shown. Thou dost mean something:
+      125  I heard thee say even now, thou likedst not that,
+      126  When Cassio left my wife: what didst not like?
+      127  And when I told thee he was of my counsel
+      128  In my whole course of wooing, thou criedst 'Indeed!'
+      129  And didst contract and purse thy brow together,
+      130  As if thou then hadst shut up in thy brain
+      131  Some horrible conceit: if thou dost love me,
+      132  Show me thy thought.
+    IAGO
+      133  My lord, you know I love you.
+    OTHELLO
+      134  I think thou dost;
+      135  And, for I know thou'rt full of love and honesty,
+      136  And weigh'st thy words before thou givest them breath,
+      137  Therefore these stops of thine fright me the more:
+      138  For such things in a false disloyal knave
+      139  Are tricks of custom, but in a man that's just
+      140  They are close delations, working from the heart
+      141  That passion cannot rule.
+    IAGO
+      142  For Michael Cassio,
+      143  I dare be sworn I think that he is honest.
+    OTHELLO
+      144  I think so too.
+    IAGO
+      145  Men should be what they seem;
+      146  Or those that be not, would they might seem none!
+    OTHELLO
+      147  Certain, men should be what they seem.
+    IAGO
+      148  Why, then, I think Cassio's an honest man.
+    OTHELLO
+      149  Nay, yet there's more in this:
+      150  I prithee, speak to me as to thy thinkings,
+      151  As thou dost ruminate, and give thy worst of thoughts
+      152  The worst of words.
+    IAGO
+      153  Good my lord, pardon me:
+      154  Though I am bound to every act of duty,
+      155  I am not bound to that all slaves are free to.
+      156  Utter my thoughts? Why, say they are vile and false;
+      157  As where's that palace whereinto foul things
+      158  Sometimes intrude not? who has a breast so pure,
+      159  But some uncleanly apprehensions
+      160  Keep leets and law-days and in session sit
+      161  With meditations lawful?
+    OTHELLO
+      162  Thou dost conspire against thy friend, Iago,
+      163  If thou but think'st him wrong'd and makest his ear
+      164  A stranger to thy thoughts.
+    IAGO
+      165  I do beseech you--
+      166  Though I perchance am vicious in my guess,
+      167  As, I confess, it is my nature's plague
+      168  To spy into abuses, and oft my jealousy
+      169  Shapes faults that are not--that your wisdom yet,
+      170  From one that so imperfectly conceits,
+      171  Would take no notice, nor build yourself a trouble
+      172  Out of his scattering and unsure observance.
+      173  It were not for your quiet nor your good,
+      174  Nor for my manhood, honesty, or wisdom,
+      175  To let you know my thoughts.
+    OTHELLO
+      176  What dost thou mean?
+    IAGO
+      177  Good name in man and woman, dear my lord,
+      178  Is the immediate jewel of their souls:
+      179  Who steals my purse steals trash; 'tis something, nothing;
+      180  'Twas mine, 'tis his, and has been slave to thousands:
+      181  But he that filches from me my good name
+      182  Robs me of that which not enriches him
+      183  And makes me poor indeed.
+    OTHELLO
+      184  By heaven, I'll know thy thoughts.
+    IAGO
+      185  You cannot, if my heart were in your hand;
+      186  Nor shall not, whilst 'tis in my custody.
+    OTHELLO
+      187  Ha!
+    IAGO
+      188  O, beware, my lord, of jealousy;
+      189  It is the green-eyed monster which doth mock
+      190  The meat it feeds on; that cuckold lives in bliss
+      191  Who, certain of his fate, loves not his wronger;
+      192  But, O, what damned minutes tells he o'er
+      193  Who dotes, yet doubts, suspects, yet strongly loves!
+    OTHELLO
+      194  O misery!
+    IAGO
+      195  Poor and content is rich and rich enough,
+      196  But riches fineless is as poor as winter
+      197  To him that ever fears he shall be poor.
+      198  Good heaven, the souls of all my tribe defend
+      199  From jealousy!
+    OTHELLO
+      200  Why, why is this?
+      201  Think'st thou I'ld make a lie of jealousy,
+      202  To follow still the changes of the moon
+      203  With fresh suspicions? No; to be once in doubt
+      204  Is once to be resolved: exchange me for a goat,
+      205  When I shall turn the business of my soul
+      206  To such exsufflicate and blown surmises,
+      207  Matching thy inference. 'Tis not to make me jealous
+      208  To say my wife is fair, feeds well, loves company,
+      209  Is free of speech, sings, plays and dances well;
+      210  Where virtue is, these are more virtuous:
+      211  Nor from mine own weak merits will I draw
+      212  The smallest fear or doubt of her revolt;
+      213  For she had eyes, and chose me. No, Iago;
+      214  I'll see before I doubt; when I doubt, prove;
+      215  And on the proof, there is no more but this,--
+      216  Away at once with love or jealousy!
+    IAGO
+      217  I am glad of it; for now I shall have reason
+      218  To show the love and duty that I bear you
+      219  With franker spirit: therefore, as I am bound,
+      220  Receive it from me. I speak not yet of proof.
+      221  Look to your wife; observe her well with Cassio;
+      222  Wear your eye thus, not jealous nor secure:
+      223  I would not have your free and noble nature,
+      224  Out of self-bounty, be abused; look to't:
+      225  I know our country disposition well;
+      226  In Venice they do let heaven see the pranks
+      227  They dare not show their husbands; their best conscience
+      228  Is not to leave't undone, but keep't unknown.
+    OTHELLO
+      229  Dost thou say so?
+    IAGO
+      230  She did deceive her father, marrying you;
+      231  And when she seem'd to shake and fear your looks,
+      232  She loved them most.
+    OTHELLO
+      233  And so she did.
+    IAGO
+      234  Why, go to then;
+      235  She that, so young, could give out such a seeming,
+      236  To seal her father's eyes up close as oak-
+      237  He thought 'twas witchcraft--but I am much to blame;
+      238  I humbly do beseech you of your pardon
+      239  For too much loving you.
+    OTHELLO
+      240  I am bound to thee for ever.
+    IAGO
+      241  I see this hath a little dash'd your spirits.
+    OTHELLO
+      242  Not a jot, not a jot.
+    IAGO
+      243  I' faith, I fear it has.
+      244  I hope you will consider what is spoke
+      245  Comes from my love. But I do see you're moved:
+      246  I am to pray you not to strain my speech
+      247  To grosser issues nor to larger reach
+      248  Than to suspicion.
+    OTHELLO
+      249  I will not.
+    IAGO
+      250  Should you do so, my lord,
+      251  My speech should fall into such vile success
+      252  As my thoughts aim not at. Cassio's my worthy friend--
+      253  My lord, I see you're moved.
+    OTHELLO
+      254  No, not much moved:
+      255  I do not think but Desdemona's honest.
+    IAGO
+      256  Long live she so! and long live you to think so!
+    OTHELLO
+      257  And yet, how nature erring from itself,--
+    IAGO
+      258  Ay, there's the point: as--to be bold with you--
+      259  Not to affect many proposed matches
+      260  Of her own clime, complexion, and degree,
+      261  Whereto we see in all things nature tends--
+      262  Foh! one may smell in such a will most rank,
+      263  Foul disproportion thoughts unnatural.
+      264  But pardon me; I do not in position
+      265  Distinctly speak of her; though I may fear
+      266  Her will, recoiling to her better judgment,
+      267  May fall to match you with her country forms
+      268  And happily repent.
+    OTHELLO
+      269  Farewell, farewell:
+      270  If more thou dost perceive, let me know more;
+      271  Set on thy wife to observe: leave me, Iago:
+    IAGO
+      272  [Going] My lord, I take my leave.
+    OTHELLO
+      273  Why did I marry? This honest creature doubtless
+      274  Sees and knows more, much more, than he unfolds.
+    IAGO
+      275  [Returning] My lord, I would I might entreat
+      276  your honour
+      277  To scan this thing no further; leave it to time:
+      278  Though it be fit that Cassio have his place,
+      279  For sure, he fills it up with great ability,
+      280  Yet, if you please to hold him off awhile,
+      281  You shall by that perceive him and his means:
+      282  Note, if your lady strain his entertainment
+      283  With any strong or vehement importunity;
+      284  Much will be seen in that. In the mean time,
+      285  Let me be thought too busy in my fears--
+      286  As worthy cause I have to fear I am--
+      287  And hold her free, I do beseech your honour.
+    OTHELLO
+      288  Fear not my government.
+    IAGO
+      289  I once more take my leave.
+  Direction: Exit
+    OTHELLO
+      290  This fellow's of exceeding honesty,
+      291  And knows all qualities, with a learned spirit,
+      292  Of human dealings. If I do prove her haggard,
+      293  Though that her jesses were my dear heartstrings,
+      294  I'ld whistle her off and let her down the wind,
+      295  To pray at fortune. Haply, for I am black
+      296  And have not those soft parts of conversation
+      297  That chamberers have, or for I am declined
+      298  Into the vale of years,--yet that's not much--
+      299  She's gone. I am abused; and my relief
+      300  Must be to loathe her. O curse of marriage,
+      301  That we can call these delicate creatures ours,
+      302  And not their appetites! I had rather be a toad,
+      303  And live upon the vapour of a dungeon,
+      304  Than keep a corner in the thing I love
+      305  For others' uses. Yet, 'tis the plague of great ones;
+      306  Prerogatived are they less than the base;
+      307  'Tis destiny unshunnable, like death:
+      308  Even then this forked plague is fated to us
+      309  When we do quicken. Desdemona comes:
+  Direction: Re-enter DESDEMONA and EMILIA
+      310  If she be false, O, then heaven mocks itself!
+      311  I'll not believe't.
+    DESDEMONA
+      312  How now, my dear Othello!
+      313  Your dinner, and the generous islanders
+      314  By you invited, do attend your presence.
+    OTHELLO
+      315  I am to blame.
+    DESDEMONA
+      316  Why do you speak so faintly?
+      317  Are you not well?
+    OTHELLO
+      318  I have a pain upon my forehead here.
+    DESDEMONA
+      319  'Faith, that's with watching; 'twill away again:
+      320  Let me but bind it hard, within this hour
+      321  It will be well.
+    OTHELLO
+      322  Your napkin is too little:
+  Direction: He puts the handkerchief from him; and it drops
+      323  Let it alone. Come, I'll go in with you.
+    DESDEMONA
+      324  I am very sorry that you are not well.
+  Direction: Exeunt OTHELLO and DESDEMONA
+    EMILIA
+      325  I am glad I have found this napkin:
+      326  This was her first remembrance from the Moor:
+      327  My wayward husband hath a hundred times
+      328  Woo'd me to steal it; but she so loves the token,
+      329  For he conjured her she should ever keep it,
+      330  That she reserves it evermore about her
+      331  To kiss and talk to. I'll have the work ta'en out,
+      332  And give't Iago: what he will do with it
+      333  Heaven knows, not I;
+      334  I nothing but to please his fantasy.
+  Direction: Re-enter Iago
+    IAGO
+      335  How now! what do you here alone?
+    EMILIA
+      336  Do not you chide; I have a thing for you.
+    IAGO
+      337  A thing for me? it is a common thing--
+    EMILIA
+      338  Ha!
+    IAGO
+      339  To have a foolish wife.
+    EMILIA
+      340  O, is that all? What will you give me now
+      341  For the same handkerchief?
+    IAGO
+      342  What handkerchief?
+    EMILIA
+      343  What handkerchief?
+      344  Why, that the Moor first gave to Desdemona;
+      345  That which so often you did bid me steal.
+    IAGO
+      346  Hast stol'n it from her?
+    EMILIA
+      347  No, 'faith; she let it drop by negligence.
+      348  And, to the advantage, I, being here, took't up.
+      349  Look, here it is.
+    IAGO
+      350  A good wench; give it me.
+    EMILIA
+      351  What will you do with 't, that you have been
+      352  so earnest
+      353  To have me filch it?
+    IAGO
+      354  [Snatching it] Why, what's that to you?
+    EMILIA
+      355  If it be not for some purpose of import,
+      356  Give't me again: poor lady, she'll run mad
+      357  When she shall lack it.
+    IAGO
+      358  Be not acknown on 't; I have use for it.
+      359  Go, leave me.
+  Direction: Exit EMILIA
+      360  I will in Cassio's lodging lose this napkin,
+      361  And let him find it. Trifles light as air
+      362  Are to the jealous confirmations strong
+      363  As proofs of holy writ: this may do something.
+      364  The Moor already changes with my poison:
+      365  Dangerous conceits are, in their natures, poisons.
+      366  Which at the first are scarce found to distaste,
+      367  But with a little act upon the blood.
+      368  Burn like the mines of Sulphur. I did say so:
+      369  Look, where he comes!
+  Direction: Re-enter OTHELLO
+      370  Not poppy, nor mandragora,
+      371  Nor all the drowsy syrups of the world,
+      372  Shall ever medicine thee to that sweet sleep
+      373  Which thou owedst yesterday.
+    OTHELLO
+      374  Ha! ha! false to me?
+    IAGO
+      375  Why, how now, general! no more of that.
+    OTHELLO
+      376  Avaunt! be gone! thou hast set me on the rack:
+      377  I swear 'tis better to be much abused
+      378  Than but to know't a little.
+    IAGO
+      379  How now, my lord!
+    OTHELLO
+      380  What sense had I of her stol'n hours of lust?
+      381  I saw't not, thought it not, it harm'd not me:
+      382  I slept the next night well, was free and merry;
+      383  I found not Cassio's kisses on her lips:
+      384  He that is robb'd, not wanting what is stol'n,
+      385  Let him not know't, and he's not robb'd at all.
+    IAGO
+      386  I am sorry to hear this.
+    OTHELLO
+      387  I had been happy, if the general camp,
+      388  Pioners and all, had tasted her sweet body,
+      389  So I had nothing known. O, now, for ever
+      390  Farewell the tranquil mind! farewell content!
+      391  Farewell the plumed troop, and the big wars,
+      392  That make ambition virtue! O, farewell!
+      393  Farewell the neighing steed, and the shrill trump,
+      394  The spirit-stirring drum, the ear-piercing fife,
+      395  The royal banner, and all quality,
+      396  Pride, pomp and circumstance of glorious war!
+      397  And, O you mortal engines, whose rude throats
+      398  The immortal Jove's dead clamours counterfeit,
+      399  Farewell! Othello's occupation's gone!
+    IAGO
+      400  Is't possible, my lord?
+    OTHELLO
+      401  Villain, be sure thou prove my love a whore,
+      402  Be sure of it; give me the ocular proof:
+      403  Or by the worth of man's eternal soul,
+      404  Thou hadst been better have been born a dog
+      405  Than answer my waked wrath!
+    IAGO
+      406  Is't come to this?
+    OTHELLO
+      407  Make me to see't; or, at the least, so prove it,
+      408  That the probation bear no hinge nor loop
+      409  To hang a doubt on; or woe upon thy life!
+    IAGO
+      410  My noble lord,--
+    OTHELLO
+      411  If thou dost slander her and torture me,
+      412  Never pray more; abandon all remorse;
+      413  On horror's head horrors accumulate;
+      414  Do deeds to make heaven weep, all earth amazed;
+      415  For nothing canst thou to damnation add
+      416  Greater than that.
+    IAGO
+      417  O grace! O heaven forgive me!
+      418  Are you a man? have you a soul or sense?
+      419  God be wi' you; take mine office. O wretched fool.
+      420  That livest to make thine honesty a vice!
+      421  O monstrous world! Take note, take note, O world,
+      422  To be direct and honest is not safe.
+      423  I thank you for this profit; and from hence
+      424  I'll love no friend, sith love breeds such offence.
+    OTHELLO
+      425  Nay, stay: thou shouldst be honest.
+    IAGO
+      426  I should be wise, for honesty's a fool
+      427  And loses that it works for.
+    OTHELLO
+      428  By the world,
+      429  I think my wife be honest and think she is not;
+      430  I think that thou art just and think thou art not.
+      431  I'll have some proof. Her name, that was as fresh
+      432  As Dian's visage, is now begrimed and black
+      433  As mine own face. If there be cords, or knives,
+      434  Poison, or fire, or suffocating streams,
+      435  I'll not endure it. Would I were satisfied!
+    IAGO
+      436  I see, sir, you are eaten up with passion:
+      437  I do repent me that I put it to you.
+      438  You would be satisfied?
+    OTHELLO
+      439  Would! nay, I will.
+    IAGO
+      440  And may: but, how? how satisfied, my lord?
+      441  Would you, the supervisor, grossly gape on--
+      442  Behold her topp'd?
+    OTHELLO
+      443  Death and damnation! O!
+    IAGO
+      444  It were a tedious difficulty, I think,
+      445  To bring them to that prospect: damn them then,
+      446  If ever mortal eyes do see them bolster
+      447  More than their own! What then? how then?
+      448  What shall I say? Where's satisfaction?
+      449  It is impossible you should see this,
+      450  Were they as prime as goats, as hot as monkeys,
+      451  As salt as wolves in pride, and fools as gross
+      452  As ignorance made drunk. But yet, I say,
+      453  If imputation and strong circumstances,
+      454  Which lead directly to the door of truth,
+      455  Will give you satisfaction, you may have't.
+    OTHELLO
+      456  Give me a living reason she's disloyal.
+    IAGO
+      457  I do not like the office:
+      458  But, sith I am enter'd in this cause so far,
+      459  Prick'd to't by foolish honesty and love,
+      460  I will go on. I lay with Cassio lately;
+      461  And, being troubled with a raging tooth,
+      462  I could not sleep.
+      463  There are a kind of men so loose of soul,
+      464  That in their sleeps will mutter their affairs:
+      465  One of this kind is Cassio:
+      466  In sleep I heard him say 'Sweet Desdemona,
+      467  Let us be wary, let us hide our loves;'
+      468  And then, sir, would he gripe and wring my hand,
+      469  Cry 'O sweet creature!' and then kiss me hard,
+      470  As if he pluck'd up kisses by the roots
+      471  That grew upon my lips: then laid his leg
+      472  Over my thigh, and sigh'd, and kiss'd; and then
+      473  Cried 'Cursed fate that gave thee to the Moor!'
+    OTHELLO
+      474  O monstrous! monstrous!
+    IAGO
+      475  Nay, this was but his dream.
+    OTHELLO
+      476  But this denoted a foregone conclusion:
+      477  'Tis a shrewd doubt, though it be but a dream.
+    IAGO
+      478  And this may help to thicken other proofs
+      479  That do demonstrate thinly.
+    OTHELLO
+      480  I'll tear her all to pieces.
+    IAGO
+      481  Nay, but be wise: yet we see nothing done;
+      482  She may be honest yet. Tell me but this,
+      483  Have you not sometimes seen a handkerchief
+      484  Spotted with strawberries in your wife's hand?
+    OTHELLO
+      485  I gave her such a one; 'twas my first gift.
+    IAGO
+      486  I know not that; but such a handkerchief--
+      487  I am sure it was your wife's--did I to-day
+      488  See Cassio wipe his beard with.
+    OTHELLO
+      489  If it be that--
+    IAGO
+      490  If it be that, or any that was hers,
+      491  It speaks against her with the other proofs.
+    OTHELLO
+      492  O, that the slave had forty thousand lives!
+      493  One is too poor, too weak for my revenge.
+      494  Now do I see 'tis true. Look here, Iago;
+      495  All my fond love thus do I blow to heaven.
+      496  'Tis gone.
+      497  Arise, black vengeance, from thy hollow cell!
+      498  Yield up, O love, thy crown and hearted throne
+      499  To tyrannous hate! Swell, bosom, with thy fraught,
+      500  For 'tis of aspics' tongues!
+    IAGO
+      501  Yet be content.
+    OTHELLO
+      502  O, blood, blood, blood!
+    IAGO
+      503  Patience, I say; your mind perhaps may change.
+    OTHELLO
+      504  Never, Iago: Like to the Pontic sea,
+      505  Whose icy current and compulsive course
+      506  Ne'er feels retiring ebb, but keeps due on
+      507  To the Propontic and the Hellespont,
+      508  Even so my bloody thoughts, with violent pace,
+      509  Shall ne'er look back, ne'er ebb to humble love,
+      510  Till that a capable and wide revenge
+      511  Swallow them up. Now, by yond marble heaven,
+  Direction: Kneels
+      512  In the due reverence of a sacred vow
+      513  I here engage my words.
+    IAGO
+      514  Do not rise yet.
+  Direction: Kneels
+      515  Witness, you ever-burning lights above,
+      516  You elements that clip us round about,
+      517  Witness that here Iago doth give up
+      518  The execution of his wit, hands, heart,
+      519  To wrong'd Othello's service! Let him command,
+      520  And to obey shall be in me remorse,
+      521  What bloody business ever.
+  Direction: They rise
+    OTHELLO
+      522  I greet thy love,
+      523  Not with vain thanks, but with acceptance bounteous,
+      524  And will upon the instant put thee to't:
+      525  Within these three days let me hear thee say
+      526  That Cassio's not alive.
+    IAGO
+      527  My friend is dead; 'tis done at your request:
+      528  But let her live.
+    OTHELLO
+      529  Damn her, lewd minx! O, damn her!
+      530  Come, go with me apart; I will withdraw,
+      531  To furnish me with some swift means of death
+      532  For the fair devil. Now art thou my lieutenant.
+    IAGO
+      533  I am your own for ever.
+  Direction: Exeunt

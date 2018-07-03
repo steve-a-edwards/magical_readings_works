@@ -1,0 +1,248 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          Othello : Act 5 : Scene 1
+
+SCENE I. Cyprus. A street.
+  Direction: Enter IAGO and RODERIGO
+    IAGO
+        1  Here, stand behind this bulk; straight will he come:
+        2  Wear thy good rapier bare, and put it home:
+        3  Quick, quick; fear nothing; I'll be at thy elbow:
+        4  It makes us, or it mars us; think on that,
+        5  And fix most firm thy resolution.
+    RODERIGO
+        6  Be near at hand; I may miscarry in't.
+    IAGO
+        7  Here, at thy hand: be bold, and take thy stand.
+  Direction: Retires
+    RODERIGO
+        8  I have no great devotion to the deed;
+        9  And yet he hath given me satisfying reasons:
+       10  'Tis but a man gone. Forth, my sword: he dies.
+    IAGO
+       11  I have rubb'd this young quat almost to the sense,
+       12  And he grows angry. Now, whether he kill Cassio,
+       13  Or Cassio him, or each do kill the other,
+       14  Every way makes my gain: live Roderigo,
+       15  He calls me to a restitution large
+       16  Of gold and jewels that I bobb'd from him,
+       17  As gifts to Desdemona;
+       18  It must not be: if Cassio do remain,
+       19  He hath a daily beauty in his life
+       20  That makes me ugly; and, besides, the Moor
+       21  May unfold me to him; there stand I in much peril:
+       22  No, he must die. But so: I hear him coming.
+  Direction: Enter CASSIO
+    RODERIGO
+       23  I know his gait, 'tis he.--Villain, thou diest!
+  Direction: Makes a pass at CASSIO
+    CASSIO
+       24  That thrust had been mine enemy indeed,
+       25  But that my coat is better than thou know'st
+       26  I will make proof of thine.
+  Direction: Draws, and wounds RODERIGO
+    RODERIGO
+       27  O, I am slain!
+  Direction: IAGO from behind wounds CASSIO in the leg, and exit
+    CASSIO
+       28  I am maim'd for ever. Help, ho! murder! murder!
+  Direction: Falls
+  Direction: Enter OTHELLO
+    OTHELLO
+       29  The voice of Cassio: Iago keeps his word.
+    RODERIGO
+       30  O, villain that I am!
+    OTHELLO
+       31  It is even so.
+    CASSIO
+       32  O, help, ho! light! a surgeon!
+    OTHELLO
+       33  'Tis he:--O brave Iago, honest and just,
+       34  That hast such noble sense of thy friend's wrong!
+       35  Thou teachest me. Minion, your dear lies dead,
+       36  And your unblest fate hies: strumpet, I come.
+       37  Forth of my heart those charms, thine eyes, are blotted;
+       38  Thy bed, lust-stain'd, shall with lust's blood be spotted.
+  Direction: Exit
+  Direction: Enter LODOVICO and GRATIANO
+    CASSIO
+       39  What, ho! no watch? no passage? murder! murder!
+    GRATIANO
+       40  'Tis some mischance; the cry is very direful.
+    CASSIO
+       41  O, help!
+    LODOVICO
+       42  Hark!
+    RODERIGO
+       43  O wretched villain!
+    LODOVICO
+       44  Two or three groan: it is a heavy night:
+       45  These may be counterfeits: let's think't unsafe
+       46  To come in to the cry without more help.
+    RODERIGO
+       47  Nobody come? then shall I bleed to death.
+    LODOVICO
+       48  Hark!
+  Direction: Re-enter IAGO, with a light
+    GRATIANO
+       49  Here's one comes in his shirt, with light and weapons.
+    IAGO
+       50  Who's there? whose noise is this that ones on murder?
+    LODOVICO
+       51  We do not know.
+    IAGO
+       52  Did not you hear a cry?
+    CASSIO
+       53  Here, here! for heaven's sake, help me!
+    IAGO
+       54  What's the matter?
+    GRATIANO
+       55  This is Othello's ancient, as I take it.
+    LODOVICO
+       56  The same indeed; a very valiant fellow.
+    IAGO
+       57  What are you here that cry so grievously?
+    CASSIO
+       58  Iago? O, I am spoil'd, undone by villains!
+       59  Give me some help.
+    IAGO
+       60  O me, lieutenant! what villains have done this?
+    CASSIO
+       61  I think that one of them is hereabout,
+       62  And cannot make away.
+    IAGO
+       63  O treacherous villains!
+       64  What are you there? come in, and give some help.
+  Direction: To LODOVICO and GRATIANO
+    RODERIGO
+       65  O, help me here!
+    CASSIO
+       66  That's one of them.
+    IAGO
+       67  O murderous slave! O villain!
+  Direction: Stabs RODERIGO
+    RODERIGO
+       68  O damn'd Iago! O inhuman dog!
+    IAGO
+       69  Kill men i' the dark!--Where be these bloody thieves?--
+       70  How silent is this town!--Ho! murder! murder!--
+       71  What may you be? are you of good or evil?
+    LODOVICO
+       72  As you shall prove us, praise us.
+    IAGO
+       73  Signior Lodovico?
+    LODOVICO
+       74  He, sir.
+    IAGO
+       75  I cry you mercy. Here's Cassio hurt by villains.
+    GRATIANO
+       76  Cassio!
+    IAGO
+       77  How is't, brother!
+    CASSIO
+       78  My leg is cut in two.
+    IAGO
+       79  Marry, heaven forbid!
+       80  Light, gentlemen; I'll bind it with my shirt.
+  Direction: Enter BIANCA
+    BIANCA
+       81  What is the matter, ho? who is't that cried?
+    IAGO
+       82  Who is't that cried!
+    BIANCA
+       83  O my dear Cassio! my sweet Cassio! O Cassio,
+       84  Cassio, Cassio!
+    IAGO
+       85  O notable strumpet! Cassio, may you suspect
+       86  Who they should be that have thus many led you?
+    CASSIO
+       87  No.
+    GRATIANO
+       88  I am to find you thus: I have been to seek you.
+    IAGO
+       89  Lend me a garter. So. O, for a chair,
+       90  To bear him easily hence!
+    BIANCA
+       91  Alas, he faints! O Cassio, Cassio, Cassio!
+    IAGO
+       92  Gentlemen all, I do suspect this trash
+       93  To be a party in this injury.
+       94  Patience awhile, good Cassio. Come, come;
+       95  Lend me a light. Know we this face or no?
+       96  Alas my friend and my dear countryman
+       97  Roderigo! no:--yes, sure: O heaven! Roderigo.
+    GRATIANO
+       98  What, of Venice?
+    IAGO
+       99  Even he, sir; did you know him?
+    GRATIANO
+      100  Know him! ay.
+    IAGO
+      101  Signior Gratiano? I cry you gentle pardon;
+      102  These bloody accidents must excuse my manners,
+      103  That so neglected you.
+    GRATIANO
+      104  I am glad to see you.
+    IAGO
+      105  How do you, Cassio? O, a chair, a chair!
+    GRATIANO
+      106  Roderigo!
+    IAGO
+      107  He, he 'tis he.
+  Direction: A chair brought in
+      108  O, that's well said; the chair!
+    GRATIANO
+      109  Some good man bear him carefully from hence;
+      110  I'll fetch the general's surgeon.
+  Direction: To BIANCA
+      111  For you, mistress,
+      112  Save you your labour. He that lies slain
+      113  here, Cassio,
+      114  Was my dear friend: what malice was between you?
+    CASSIO
+      115  None in the world; nor do I know the man.
+    IAGO
+      116  [To BIANCA] What, look you pale? O, bear him out
+      117  o' the air.
+  Direction: CASSIO and RODERIGO are borne off
+      118  Stay you, good gentlemen. Look you pale, mistress?
+      119  Do you perceive the gastness of her eye?
+      120  Nay, if you stare, we shall hear more anon.
+      121  Behold her well; I pray you, look upon her:
+      122  Do you see, gentlemen? nay, guiltiness will speak,
+      123  Though tongues were out of use.
+  Direction: Enter EMILIA
+    EMILIA
+      124  'Las, what's the matter? what's the matter, husband?
+    IAGO
+      125  Cassio hath here been set on in the dark
+      126  By Roderigo and fellows that are scaped:
+      127  He's almost slain, and Roderigo dead.
+    EMILIA
+      128  Alas, good gentleman! alas, good Cassio!
+    IAGO
+      129  This is the fruit of whoring. Prithee, Emilia,
+      130  Go know of Cassio where he supp'd to-night.
+  Direction: To BIANCA
+      131  What, do you shake at that?
+    BIANCA
+      132  He supp'd at my house; but I therefore shake not.
+    IAGO
+      133  O, did he so? I charge you, go with me.
+    EMILIA
+      134  Fie, fie upon thee, strumpet!
+    BIANCA
+      135  I am no strumpet; but of life as honest
+      136  As you that thus abuse me.
+    EMILIA
+      137  As I! foh! fie upon thee!
+    IAGO
+      138  Kind gentlemen, let's go see poor Cassio dress'd.
+      139  Come, mistress, you must tell's another tale.
+      140  Emilia run you to the citadel,
+      141  And tell my lord and lady what hath happ'd.
+      142  Will you go on? I pray.
+  Direction: Aside
+      143  This is the night
+      144  That either makes me or fordoes me quite.
+  Direction: Exeunt

@@ -1,0 +1,528 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          Othello : Act 1 : Scene 3
+
+SCENE III. A council-chamber.
+  Direction: The DUKE and Senators sitting at a table; Officers attending
+    DUKE OF VENICE
+        1  There is no composition in these news
+        2  That gives them credit.
+    First Senator
+        3  Indeed, they are disproportion'd;
+        4  My letters say a hundred and seven galleys.
+    DUKE OF VENICE
+        5  And mine, a hundred and forty.
+    Second Senator
+        6  And mine, two hundred:
+        7  But though they jump not on a just account,--
+        8  As in these cases, where the aim reports,
+        9  'Tis oft with difference--yet do they all confirm
+       10  A Turkish fleet, and bearing up to Cyprus.
+    DUKE OF VENICE
+       11  Nay, it is possible enough to judgment:
+       12  I do not so secure me in the error,
+       13  But the main article I do approve
+       14  In fearful sense.
+    Sailor
+       15  [Within] What, ho! what, ho! what, ho!
+    First Officer
+       16  A messenger from the galleys.
+  Direction: Enter a Sailor
+    DUKE OF VENICE
+       17  Now, what's the business?
+    Sailor
+       18  The Turkish preparation makes for Rhodes;
+       19  So was I bid report here to the state
+       20  By Signior Angelo.
+    DUKE OF VENICE
+       21  How say you by this change?
+    First Senator
+       22  This cannot be,
+       23  By no assay of reason: 'tis a pageant,
+       24  To keep us in false gaze. When we consider
+       25  The importancy of Cyprus to the Turk,
+       26  And let ourselves again but understand,
+       27  That as it more concerns the Turk than Rhodes,
+       28  So may he with more facile question bear it,
+       29  For that it stands not in such warlike brace,
+       30  But altogether lacks the abilities
+       31  That Rhodes is dress'd in: if we make thought of this,
+       32  We must not think the Turk is so unskilful
+       33  To leave that latest which concerns him first,
+       34  Neglecting an attempt of ease and gain,
+       35  To wake and wage a danger profitless.
+    DUKE OF VENICE
+       36  Nay, in all confidence, he's not for Rhodes.
+    First Officer
+       37  Here is more news.
+  Direction: Enter a Messenger
+    Messenger
+       38  The Ottomites, reverend and gracious,
+       39  Steering with due course towards the isle of Rhodes,
+       40  Have there injointed them with an after fleet.
+    First Senator
+       41  Ay, so I thought. How many, as you guess?
+    Messenger
+       42  Of thirty sail: and now they do restem
+       43  Their backward course, bearing with frank appearance
+       44  Their purposes toward Cyprus. Signior Montano,
+       45  Your trusty and most valiant servitor,
+       46  With his free duty recommends you thus,
+       47  And prays you to believe him.
+    DUKE OF VENICE
+       48  'Tis certain, then, for Cyprus.
+       49  Marcus Luccicos, is not he in town?
+    First Senator
+       50  He's now in Florence.
+    DUKE OF VENICE
+       51  Write from us to him; post-post-haste dispatch.
+    First Senator
+       52  Here comes Brabantio and the valiant Moor.
+  Direction: Enter BRABANTIO, OTHELLO, IAGO, RODERIGO, and Officers
+    DUKE OF VENICE
+       53  Valiant Othello, we must straight employ you
+       54  Against the general enemy Ottoman.
+  Direction: To BRABANTIO
+       55  I did not see you; welcome, gentle signior;
+       56  We lack'd your counsel and your help tonight.
+    BRABANTIO
+       57  So did I yours. Good your grace, pardon me;
+       58  Neither my place nor aught I heard of business
+       59  Hath raised me from my bed, nor doth the general care
+       60  Take hold on me, for my particular grief
+       61  Is of so flood-gate and o'erbearing nature
+       62  That it engluts and swallows other sorrows
+       63  And it is still itself.
+    DUKE OF VENICE
+       64  Why, what's the matter?
+    BRABANTIO
+       65  My daughter! O, my daughter!
+    All
+       66  Dead?
+    BRABANTIO
+       67  Ay, to me;
+       68  She is abused, stol'n from me, and corrupted
+       69  By spells and medicines bought of mountebanks;
+       70  For nature so preposterously to err,
+       71  Being not deficient, blind, or lame of sense,
+       72  Sans witchcraft could not.
+    DUKE OF VENICE
+       73  Whoe'er he be that in this foul proceeding
+       74  Hath thus beguiled your daughter of herself
+       75  And you of her, the bloody book of law
+       76  You shall yourself read in the bitter letter
+       77  After your own sense, yea, though our proper son
+       78  Stood in your action.
+    BRABANTIO
+       79  Humbly I thank your grace.
+       80  Here is the man, this Moor, whom now, it seems,
+       81  Your special mandate for the state-affairs
+       82  Hath hither brought.
+    All
+       83  We are very sorry for't.
+    DUKE OF VENICE
+       84  [To OTHELLO] What, in your own part, can you say to this?
+    BRABANTIO
+       85  Nothing, but this is so.
+    OTHELLO
+       86  Most potent, grave, and reverend signiors,
+       87  My very noble and approved good masters,
+       88  That I have ta'en away this old man's daughter,
+       89  It is most true; true, I have married her:
+       90  The very head and front of my offending
+       91  Hath this extent, no more. Rude am I in my speech,
+       92  And little bless'd with the soft phrase of peace:
+       93  For since these arms of mine had seven years' pith,
+       94  Till now some nine moons wasted, they have used
+       95  Their dearest action in the tented field,
+       96  And little of this great world can I speak,
+       97  More than pertains to feats of broil and battle,
+       98  And therefore little shall I grace my cause
+       99  In speaking for myself. Yet, by your gracious patience,
+      100  I will a round unvarnish'd tale deliver
+      101  Of my whole course of love; what drugs, what charms,
+      102  What conjuration and what mighty magic,
+      103  For such proceeding I am charged withal,
+      104  I won his daughter.
+    BRABANTIO
+      105  A maiden never bold;
+      106  Of spirit so still and quiet, that her motion
+      107  Blush'd at herself; and she, in spite of nature,
+      108  Of years, of country, credit, every thing,
+      109  To fall in love with what she fear'd to look on!
+      110  It is a judgment maim'd and most imperfect
+      111  That will confess perfection so could err
+      112  Against all rules of nature, and must be driven
+      113  To find out practises of cunning hell,
+      114  Why this should be. I therefore vouch again
+      115  That with some mixtures powerful o'er the blood,
+      116  Or with some dram conjured to this effect,
+      117  He wrought upon her.
+    DUKE OF VENICE
+      118  To vouch this, is no proof,
+      119  Without more wider and more overt test
+      120  Than these thin habits and poor likelihoods
+      121  Of modern seeming do prefer against him.
+    First Senator
+      122  But, Othello, speak:
+      123  Did you by indirect and forced courses
+      124  Subdue and poison this young maid's affections?
+      125  Or came it by request and such fair question
+      126  As soul to soul affordeth?
+    OTHELLO
+      127  I do beseech you,
+      128  Send for the lady to the Sagittary,
+      129  And let her speak of me before her father:
+      130  If you do find me foul in her report,
+      131  The trust, the office I do hold of you,
+      132  Not only take away, but let your sentence
+      133  Even fall upon my life.
+    DUKE OF VENICE
+      134  Fetch Desdemona hither.
+    OTHELLO
+      135  Ancient, conduct them: you best know the place.
+  Direction: Exeunt IAGO and Attendants
+      136  And, till she come, as truly as to heaven
+      137  I do confess the vices of my blood,
+      138  So justly to your grave ears I'll present
+      139  How I did thrive in this fair lady's love,
+      140  And she in mine.
+    DUKE OF VENICE
+      141  Say it, Othello.
+    OTHELLO
+      142  Her father loved me; oft invited me;
+      143  Still question'd me the story of my life,
+      144  From year to year, the battles, sieges, fortunes,
+      145  That I have passed.
+      146  I ran it through, even from my boyish days,
+      147  To the very moment that he bade me tell it;
+      148  Wherein I spake of most disastrous chances,
+      149  Of moving accidents by flood and field
+      150  Of hair-breadth scapes i' the imminent deadly breach,
+      151  Of being taken by the insolent foe
+      152  And sold to slavery, of my redemption thence
+      153  And portance in my travels' history:
+      154  Wherein of antres vast and deserts idle,
+      155  Rough quarries, rocks and hills whose heads touch heaven
+      156  It was my hint to speak,--such was the process;
+      157  And of the Cannibals that each other eat,
+      158  The Anthropophagi and men whose heads
+      159  Do grow beneath their shoulders. This to hear
+      160  Would Desdemona seriously incline:
+      161  But still the house-affairs would draw her thence:
+      162  Which ever as she could with haste dispatch,
+      163  She'ld come again, and with a greedy ear
+      164  Devour up my discourse: which I observing,
+      165  Took once a pliant hour, and found good means
+      166  To draw from her a prayer of earnest heart
+      167  That I would all my pilgrimage dilate,
+      168  Whereof by parcels she had something heard,
+      169  But not intentively: I did consent,
+      170  And often did beguile her of her tears,
+      171  When I did speak of some distressful stroke
+      172  That my youth suffer'd. My story being done,
+      173  She gave me for my pains a world of sighs:
+      174  She swore, in faith, twas strange, 'twas passing strange,
+      175  'Twas pitiful, 'twas wondrous pitiful:
+      176  She wish'd she had not heard it, yet she wish'd
+      177  That heaven had made her such a man: she thank'd me,
+      178  And bade me, if I had a friend that loved her,
+      179  I should but teach him how to tell my story.
+      180  And that would woo her. Upon this hint I spake:
+      181  She loved me for the dangers I had pass'd,
+      182  And I loved her that she did pity them.
+      183  This only is the witchcraft I have used:
+      184  Here comes the lady; let her witness it.
+  Direction: Enter DESDEMONA, IAGO, and Attendants
+    DUKE OF VENICE
+      185  I think this tale would win my daughter too.
+      186  Good Brabantio,
+      187  Take up this mangled matter at the best:
+      188  Men do their broken weapons rather use
+      189  Than their bare hands.
+    BRABANTIO
+      190  I pray you, hear her speak:
+      191  If she confess that she was half the wooer,
+      192  Destruction on my head, if my bad blame
+      193  Light on the man! Come hither, gentle mistress:
+      194  Do you perceive in all this noble company
+      195  Where most you owe obedience?
+    DESDEMONA
+      196  My noble father,
+      197  I do perceive here a divided duty:
+      198  To you I am bound for life and education;
+      199  My life and education both do learn me
+      200  How to respect you; you are the lord of duty;
+      201  I am hitherto your daughter: but here's my husband,
+      202  And so much duty as my mother show'd
+      203  To you, preferring you before her father,
+      204  So much I challenge that I may profess
+      205  Due to the Moor my lord.
+    BRABANTIO
+      206  God be wi' you! I have done.
+      207  Please it your grace, on to the state-affairs:
+      208  I had rather to adopt a child than get it.
+      209  Come hither, Moor:
+      210  I here do give thee that with all my heart
+      211  Which, but thou hast already, with all my heart
+      212  I would keep from thee. For your sake, jewel,
+      213  I am glad at soul I have no other child:
+      214  For thy escape would teach me tyranny,
+      215  To hang clogs on them. I have done, my lord.
+    DUKE OF VENICE
+      216  Let me speak like yourself, and lay a sentence,
+      217  Which, as a grise or step, may help these lovers
+      218  Into your favour.
+      219  When remedies are past, the griefs are ended
+      220  By seeing the worst, which late on hopes depended.
+      221  To mourn a mischief that is past and gone
+      222  Is the next way to draw new mischief on.
+      223  What cannot be preserved when fortune takes
+      224  Patience her injury a mockery makes.
+      225  The robb'd that smiles steals something from the thief;
+      226  He robs himself that spends a bootless grief.
+    BRABANTIO
+      227  So let the Turk of Cyprus us beguile;
+      228  We lose it not, so long as we can smile.
+      229  He bears the sentence well that nothing bears
+      230  But the free comfort which from thence he hears,
+      231  But he bears both the sentence and the sorrow
+      232  That, to pay grief, must of poor patience borrow.
+      233  These sentences, to sugar, or to gall,
+      234  Being strong on both sides, are equivocal:
+      235  But words are words; I never yet did hear
+      236  That the bruised heart was pierced through the ear.
+      237  I humbly beseech you, proceed to the affairs of state.
+    DUKE OF VENICE
+      238  The Turk with a most mighty preparation makes for
+      239  Cyprus. Othello, the fortitude of the place is best
+      240  known to you; and though we have there a substitute
+      241  of most allowed sufficiency, yet opinion, a
+      242  sovereign mistress of effects, throws a more safer
+      243  voice on you: you must therefore be content to
+      244  slubber the gloss of your new fortunes with this
+      245  more stubborn and boisterous expedition.
+    OTHELLO
+      246  The tyrant custom, most grave senators,
+      247  Hath made the flinty and steel couch of war
+      248  My thrice-driven bed of down: I do agnise
+      249  A natural and prompt alacrity
+      250  I find in hardness, and do undertake
+      251  These present wars against the Ottomites.
+      252  Most humbly therefore bending to your state,
+      253  I crave fit disposition for my wife.
+      254  Due reference of place and exhibition,
+      255  With such accommodation and besort
+      256  As levels with her breeding.
+    DUKE OF VENICE
+      257  If you please,
+      258  Be't at her father's.
+    BRABANTIO
+      259  I'll not have it so.
+    OTHELLO
+      260  Nor I.
+    DESDEMONA
+      261  Nor I; I would not there reside,
+      262  To put my father in impatient thoughts
+      263  By being in his eye. Most gracious duke,
+      264  To my unfolding lend your prosperous ear;
+      265  And let me find a charter in your voice,
+      266  To assist my simpleness.
+    DUKE OF VENICE
+      267  What would You, Desdemona?
+    DESDEMONA
+      268  That I did love the Moor to live with him,
+      269  My downright violence and storm of fortunes
+      270  May trumpet to the world: my heart's subdued
+      271  Even to the very quality of my lord:
+      272  I saw Othello's visage in his mind,
+      273  And to his honour and his valiant parts
+      274  Did I my soul and fortunes consecrate.
+      275  So that, dear lords, if I be left behind,
+      276  A moth of peace, and he go to the war,
+      277  The rites for which I love him are bereft me,
+      278  And I a heavy interim shall support
+      279  By his dear absence. Let me go with him.
+    OTHELLO
+      280  Let her have your voices.
+      281  Vouch with me, heaven, I therefore beg it not,
+      282  To please the palate of my appetite,
+      283  Nor to comply with heat--the young affects
+      284  In me defunct--and proper satisfaction.
+      285  But to be free and bounteous to her mind:
+      286  And heaven defend your good souls, that you think
+      287  I will your serious and great business scant
+      288  For she is with me: no, when light-wing'd toys
+      289  Of feather'd Cupid seal with wanton dullness
+      290  My speculative and officed instruments,
+      291  That my disports corrupt and taint my business,
+      292  Let housewives make a skillet of my helm,
+      293  And all indign and base adversities
+      294  Make head against my estimation!
+    DUKE OF VENICE
+      295  Be it as you shall privately determine,
+      296  Either for her stay or going: the affair cries haste,
+      297  And speed must answer it.
+    First Senator
+      298  You must away to-night.
+    OTHELLO
+      299  With all my heart.
+    DUKE OF VENICE
+      300  At nine i' the morning here we'll meet again.
+      301  Othello, leave some officer behind,
+      302  And he shall our commission bring to you;
+      303  With such things else of quality and respect
+      304  As doth import you.
+    OTHELLO
+      305  So please your grace, my ancient;
+      306  A man he is of honest and trust:
+      307  To his conveyance I assign my wife,
+      308  With what else needful your good grace shall think
+      309  To be sent after me.
+    DUKE OF VENICE
+      310  Let it be so.
+      311  Good night to every one.
+  Direction: To BRABANTIO
+      312  And, noble signior,
+      313  If virtue no delighted beauty lack,
+      314  Your son-in-law is far more fair than black.
+    First Senator
+      315  Adieu, brave Moor, use Desdemona well.
+    BRABANTIO
+      316  Look to her, Moor, if thou hast eyes to see:
+      317  She has deceived her father, and may thee.
+  Direction: Exeunt DUKE OF VENICE, Brebantio, Cassio, Senators, and officers
+    OTHELLO
+      318  My life upon her faith! Honest Iago,
+      319  My Desdemona must I leave to thee:
+      320  I prithee, let thy wife attend on her:
+      321  And bring them after in the best advantage.
+      322  Come, Desdemona: I have but an hour
+      323  Of love, of worldly matters and direction,
+      324  To spend with thee: we must obey the time.
+  Direction: Exeunt OTHELLO and DESDEMONA
+    RODERIGO
+      325  Iago,--
+    IAGO
+      326  What say'st thou, noble heart?
+    RODERIGO
+      327  What will I do, thinkest thou?
+    IAGO
+      328  Why, go to bed, and sleep.
+    RODERIGO
+      329  I will incontinently drown myself.
+    IAGO
+      330  If thou dost, I shall never love thee after. Why,
+      331  thou silly gentleman!
+    RODERIGO
+      332  It is silliness to live when to live is torment; and
+      333  then have we a prescription to die when death is our physician.
+    IAGO
+      334  O villainous! I have looked upon the world for four
+      335  times seven years; and since I could distinguish
+      336  betwixt a benefit and an injury, I never found man
+      337  that knew how to love himself. Ere I would say, I
+      338  would drown myself for the love of a guinea-hen, I
+      339  would change my humanity with a baboon.
+    RODERIGO
+      340  What should I do? I confess it is my shame to be so
+      341  fond; but it is not in my virtue to amend it.
+    IAGO
+      342  Virtue! a fig! 'tis in ourselves that we are thus
+      343  or thus. Our bodies are our gardens, to the which
+      344  our wills are gardeners: so that if we will plant
+      345  nettles, or sow lettuce, set hyssop and weed up
+      346  thyme, supply it with one gender of herbs, or
+      347  distract it with many, either to have it sterile
+      348  with idleness, or manured with industry, why, the
+      349  power and corrigible authority of this lies in our
+      350  wills. If the balance of our lives had not one
+      351  scale of reason to poise another of sensuality, the
+      352  blood and baseness of our natures would conduct us
+      353  to most preposterous conclusions: but we have
+      354  reason to cool our raging motions, our carnal
+      355  stings, our unbitted lusts, whereof I take this that
+      356  you call love to be a sect or scion.
+    RODERIGO
+      357  It cannot be.
+    IAGO
+      358  It is merely a lust of the blood and a permission of
+      359  the will. Come, be a man. Drown thyself! drown
+      360  cats and blind puppies. I have professed me thy
+      361  friend and I confess me knit to thy deserving with
+      362  cables of perdurable toughness; I could never
+      363  better stead thee than now. Put money in thy
+      364  purse; follow thou the wars; defeat thy favour with
+      365  an usurped beard; I say, put money in thy purse. It
+      366  cannot be that Desdemona should long continue her
+      367  love to the Moor,-- put money in thy purse,--nor he
+      368  his to her: it was a violent commencement, and thou
+      369  shalt see an answerable sequestration:--put but
+      370  money in thy purse. These Moors are changeable in
+      371  their wills: fill thy purse with money:--the food
+      372  that to him now is as luscious as locusts, shall be
+      373  to him shortly as bitter as coloquintida. She must
+      374  change for youth: when she is sated with his body,
+      375  she will find the error of her choice: she must
+      376  have change, she must: therefore put money in thy
+      377  purse. If thou wilt needs damn thyself, do it a
+      378  more delicate way than drowning. Make all the money
+      379  thou canst: if sanctimony and a frail vow betwixt
+      380  an erring barbarian and a supersubtle Venetian not
+      381  too hard for my wits and all the tribe of hell, thou
+      382  shalt enjoy her; therefore make money. A pox of
+      383  drowning thyself! it is clean out of the way: seek
+      384  thou rather to be hanged in compassing thy joy than
+      385  to be drowned and go without her.
+    RODERIGO
+      386  Wilt thou be fast to my hopes, if I depend on
+      387  the issue?
+    IAGO
+      388  Thou art sure of me:--go, make money:--I have told
+      389  thee often, and I re-tell thee again and again, I
+      390  hate the Moor: my cause is hearted; thine hath no
+      391  less reason. Let us be conjunctive in our revenge
+      392  against him: if thou canst cuckold him, thou dost
+      393  thyself a pleasure, me a sport. There are many
+      394  events in the womb of time which will be delivered.
+      395  Traverse! go, provide thy money. We will have more
+      396  of this to-morrow. Adieu.
+    RODERIGO
+      397  Where shall we meet i' the morning?
+    IAGO
+      398  At my lodging.
+    RODERIGO
+      399  I'll be with thee betimes.
+    IAGO
+      400  Go to; farewell. Do you hear, Roderigo?
+    RODERIGO
+      401  What say you?
+    IAGO
+      402  No more of drowning, do you hear?
+    RODERIGO
+      403  I am changed: I'll go sell all my land.
+  Direction: Exit
+    IAGO
+      404  Thus do I ever make my fool my purse:
+      405  For I mine own gain'd knowledge should profane,
+      406  If I would time expend with such a snipe.
+      407  But for my sport and profit. I hate the Moor:
+      408  And it is thought abroad, that 'twixt my sheets
+      409  He has done my office: I know not if't be true;
+      410  But I, for mere suspicion in that kind,
+      411  Will do as if for surety. He holds me well;
+      412  The better shall my purpose work on him.
+      413  Cassio's a proper man: let me see now:
+      414  To get his place and to plume up my will
+      415  In double knavery--How, how? Let's see:--
+      416  After some time, to abuse Othello's ear
+      417  That he is too familiar with his wife.
+      418  He hath a person and a smooth dispose
+      419  To be suspected, framed to make women false.
+      420  The Moor is of a free and open nature,
+      421  That thinks men honest that but seem to be so,
+      422  And will as tenderly be led by the nose
+      423  As asses are.
+      424  I have't. It is engender'd. Hell and night
+      425  Must bring this monstrous birth to the world's light.
+  Direction: Exit

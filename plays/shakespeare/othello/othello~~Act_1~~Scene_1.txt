@@ -1,0 +1,251 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          Othello : Act 1 : Scene 1
+
+SCENE I. Venice. A street.
+  Direction: Enter RODERIGO and IAGO
+    RODERIGO
+        1  Tush! never tell me; I take it much unkindly
+        2  That thou, Iago, who hast had my purse
+        3  As if the strings were thine, shouldst know of this.
+    IAGO
+        4  'Sblood, but you will not hear me:
+        5  If ever I did dream of such a matter, Abhor me.
+    RODERIGO
+        6  Thou told'st me thou didst hold him in thy hate.
+    IAGO
+        7  Despise me, if I do not. Three great ones of the city,
+        8  In personal suit to make me his lieutenant,
+        9  Off-capp'd to him: and, by the faith of man,
+       10  I know my price, I am worth no worse a place:
+       11  But he; as loving his own pride and purposes,
+       12  Evades them, with a bombast circumstance
+       13  Horribly stuff'd with epithets of war;
+       14  And, in conclusion,
+       15  Nonsuits my mediators; for, 'Certes,' says he,
+       16  'I have already chose my officer.'
+       17  And what was he?
+       18  Forsooth, a great arithmetician,
+       19  One Michael Cassio, a Florentine,
+       20  A fellow almost damn'd in a fair wife;
+       21  That never set a squadron in the field,
+       22  Nor the division of a battle knows
+       23  More than a spinster; unless the bookish theoric,
+       24  Wherein the toged consuls can propose
+       25  As masterly as he: mere prattle, without practise,
+       26  Is all his soldiership. But he, sir, had the election:
+       27  And I, of whom his eyes had seen the proof
+       28  At Rhodes, at Cyprus and on other grounds
+       29  Christian and heathen, must be be-lee'd and calm'd
+       30  By debitor and creditor: this counter-caster,
+       31  He, in good time, must his lieutenant be,
+       32  And I--God bless the mark!--his Moorship's ancient.
+    RODERIGO
+       33  By heaven, I rather would have been his hangman.
+    IAGO
+       34  Why, there's no remedy; 'tis the curse of service,
+       35  Preferment goes by letter and affection,
+       36  And not by old gradation, where each second
+       37  Stood heir to the first. Now, sir, be judge yourself,
+       38  Whether I in any just term am affined
+       39  To love the Moor.
+    RODERIGO
+       40  I would not follow him then.
+    IAGO
+       41  O, sir, content you;
+       42  I follow him to serve my turn upon him:
+       43  We cannot all be masters, nor all masters
+       44  Cannot be truly follow'd. You shall mark
+       45  Many a duteous and knee-crooking knave,
+       46  That, doting on his own obsequious bondage,
+       47  Wears out his time, much like his master's ass,
+       48  For nought but provender, and when he's old, cashier'd:
+       49  Whip me such honest knaves. Others there are
+       50  Who, trimm'd in forms and visages of duty,
+       51  Keep yet their hearts attending on themselves,
+       52  And, throwing but shows of service on their lords,
+       53  Do well thrive by them and when they have lined
+       54  their coats
+       55  Do themselves homage: these fellows have some soul;
+       56  And such a one do I profess myself. For, sir,
+       57  It is as sure as you are Roderigo,
+       58  Were I the Moor, I would not be Iago:
+       59  In following him, I follow but myself;
+       60  Heaven is my judge, not I for love and duty,
+       61  But seeming so, for my peculiar end:
+       62  For when my outward action doth demonstrate
+       63  The native act and figure of my heart
+       64  In compliment extern, 'tis not long after
+       65  But I will wear my heart upon my sleeve
+       66  For daws to peck at: I am not what I am.
+    RODERIGO
+       67  What a full fortune does the thicklips owe
+       68  If he can carry't thus!
+    IAGO
+       69  Call up her father,
+       70  Rouse him: make after him, poison his delight,
+       71  Proclaim him in the streets; incense her kinsmen,
+       72  And, though he in a fertile climate dwell,
+       73  Plague him with flies: though that his joy be joy,
+       74  Yet throw such changes of vexation on't,
+       75  As it may lose some colour.
+    RODERIGO
+       76  Here is her father's house; I'll call aloud.
+    IAGO
+       77  Do, with like timorous accent and dire yell
+       78  As when, by night and negligence, the fire
+       79  Is spied in populous cities.
+    RODERIGO
+       80  What, ho, Brabantio! Signior Brabantio, ho!
+    IAGO
+       81  Awake! what, ho, Brabantio! thieves! thieves! thieves!
+       82  Look to your house, your daughter and your bags!
+       83  Thieves! thieves!
+  Direction: BRABANTIO appears above, at a window
+    BRABANTIO
+       84  What is the reason of this terrible summons?
+       85  What is the matter there?
+    RODERIGO
+       86  Signior, is all your family within?
+    IAGO
+       87  Are your doors lock'd?
+    BRABANTIO
+       88  Why, wherefore ask you this?
+    IAGO
+       89  'Zounds, sir, you're robb'd; for shame, put on
+       90  your gown;
+       91  Your heart is burst, you have lost half your soul;
+       92  Even now, now, very now, an old black ram
+       93  Is topping your white ewe. Arise, arise;
+       94  Awake the snorting citizens with the bell,
+       95  Or else the devil will make a grandsire of you:
+       96  Arise, I say.
+    BRABANTIO
+       97  What, have you lost your wits?
+    RODERIGO
+       98  Most reverend signior, do you know my voice?
+    BRABANTIO
+       99  Not I what are you?
+    RODERIGO
+      100  My name is Roderigo.
+    BRABANTIO
+      101  The worser welcome:
+      102  I have charged thee not to haunt about my doors:
+      103  In honest plainness thou hast heard me say
+      104  My daughter is not for thee; and now, in madness,
+      105  Being full of supper and distempering draughts,
+      106  Upon malicious bravery, dost thou come
+      107  To start my quiet.
+    RODERIGO
+      108  Sir, sir, sir,--
+    BRABANTIO
+      109  But thou must needs be sure
+      110  My spirit and my place have in them power
+      111  To make this bitter to thee.
+    RODERIGO
+      112  Patience, good sir.
+    BRABANTIO
+      113  What tell'st thou me of robbing? this is Venice;
+      114  My house is not a grange.
+    RODERIGO
+      115  Most grave Brabantio,
+      116  In simple and pure soul I come to you.
+    IAGO
+      117  'Zounds, sir, you are one of those that will not
+      118  serve God, if the devil bid you. Because we come to
+      119  do you service and you think we are ruffians, you'll
+      120  have your daughter covered with a Barbary horse;
+      121  you'll have your nephews neigh to you; you'll have
+      122  coursers for cousins and gennets for germans.
+    BRABANTIO
+      123  What profane wretch art thou?
+    IAGO
+      124  I am one, sir, that comes to tell you your daughter
+      125  and the Moor are now making the beast with two backs.
+    BRABANTIO
+      126  Thou art a villain.
+    IAGO
+      127  You are--a senator.
+    BRABANTIO
+      128  This thou shalt answer; I know thee, Roderigo.
+    RODERIGO
+      129  Sir, I will answer any thing. But, I beseech you,
+      130  If't be your pleasure and most wise consent,
+      131  As partly I find it is, that your fair daughter,
+      132  At this odd-even and dull watch o' the night,
+      133  Transported, with no worse nor better guard
+      134  But with a knave of common hire, a gondolier,
+      135  To the gross clasps of a lascivious Moor--
+      136  If this be known to you and your allowance,
+      137  We then have done you bold and saucy wrongs;
+      138  But if you know not this, my manners tell me
+      139  We have your wrong rebuke. Do not believe
+      140  That, from the sense of all civility,
+      141  I thus would play and trifle with your reverence:
+      142  Your daughter, if you have not given her leave,
+      143  I say again, hath made a gross revolt;
+      144  Tying her duty, beauty, wit and fortunes
+      145  In an extravagant and wheeling stranger
+      146  Of here and every where. Straight satisfy yourself:
+      147  If she be in her chamber or your house,
+      148  Let loose on me the justice of the state
+      149  For thus deluding you.
+    BRABANTIO
+      150  Strike on the tinder, ho!
+      151  Give me a taper! call up all my people!
+      152  This accident is not unlike my dream:
+      153  Belief of it oppresses me already.
+      154  Light, I say! light!
+  Direction: Exit above
+    IAGO
+      155  Farewell; for I must leave you:
+      156  It seems not meet, nor wholesome to my place,
+      157  To be produced--as, if I stay, I shall--
+      158  Against the Moor: for, I do know, the state,
+      159  However this may gall him with some cheque,
+      160  Cannot with safety cast him, for he's embark'd
+      161  With such loud reason to the Cyprus wars,
+      162  Which even now stand in act, that, for their souls,
+      163  Another of his fathom they have none,
+      164  To lead their business: in which regard,
+      165  Though I do hate him as I do hell-pains.
+      166  Yet, for necessity of present life,
+      167  I must show out a flag and sign of love,
+      168  Which is indeed but sign. That you shall surely find him,
+      169  Lead to the Sagittary the raised search;
+      170  And there will I be with him. So, farewell.
+  Direction: Exit
+  Direction: Enter, below, BRABANTIO, and Servants with torches
+    BRABANTIO
+      171  It is too true an evil: gone she is;
+      172  And what's to come of my despised time
+      173  Is nought but bitterness. Now, Roderigo,
+      174  Where didst thou see her? O unhappy girl!
+      175  With the Moor, say'st thou? Who would be a father!
+      176  How didst thou know 'twas she? O she deceives me
+      177  Past thought! What said she to you? Get more tapers:
+      178  Raise all my kindred. Are they married, think you?
+    RODERIGO
+      179  Truly, I think they are.
+    BRABANTIO
+      180  O heaven! How got she out? O treason of the blood!
+      181  Fathers, from hence trust not your daughters' minds
+      182  By what you see them act. Is there not charms
+      183  By which the property of youth and maidhood
+      184  May be abused? Have you not read, Roderigo,
+      185  Of some such thing?
+    RODERIGO
+      186  Yes, sir, I have indeed.
+    BRABANTIO
+      187  Call up my brother. O, would you had had her!
+      188  Some one way, some another. Do you know
+      189  Where we may apprehend her and the Moor?
+    RODERIGO
+      190  I think I can discover him, if you please,
+      191  To get good guard and go along with me.
+    BRABANTIO
+      192  Pray you, lead on. At every house I'll call;
+      193  I may command at most. Get weapons, ho!
+      194  And raise some special officers of night.
+      195  On, good Roderigo: I'll deserve your pains.
+  Direction: Exeunt
