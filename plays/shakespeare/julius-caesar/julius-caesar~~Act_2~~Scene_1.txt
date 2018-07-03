@@ -1,0 +1,460 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          Julius Caesar : Act 2 : Scene 1
+
+SCENE I. Rome. BRUTUS's orchard.
+  Direction: Enter BRUTUS
+    BRUTUS
+        1  What, Lucius, ho!
+        2  I cannot, by the progress of the stars,
+        3  Give guess how near to day. Lucius, I say!
+        4  I would it were my fault to sleep so soundly.
+        5  When, Lucius, when? awake, I say! what, Lucius!
+  Direction: Enter LUCIUS
+    LUCIUS
+        6  Call'd you, my lord?
+    BRUTUS
+        7  Get me a taper in my study, Lucius:
+        8  When it is lighted, come and call me here.
+    LUCIUS
+        9  I will, my lord.
+  Direction: Exit
+    BRUTUS
+       10  It must be by his death: and for my part,
+       11  I know no personal cause to spurn at him,
+       12  But for the general. He would be crown'd:
+       13  How that might change his nature, there's the question.
+       14  It is the bright day that brings forth the adder;
+       15  And that craves wary walking. Crown him?--that;--
+       16  And then, I grant, we put a sting in him,
+       17  That at his will he may do danger with.
+       18  The abuse of greatness is, when it disjoins
+       19  Remorse from power: and, to speak truth of Caesar,
+       20  I have not known when his affections sway'd
+       21  More than his reason. But 'tis a common proof,
+       22  That lowliness is young ambition's ladder,
+       23  Whereto the climber-upward turns his face;
+       24  But when he once attains the upmost round.
+       25  He then unto the ladder turns his back,
+       26  Looks in the clouds, scorning the base degrees
+       27  By which he did ascend. So Caesar may.
+       28  Then, lest he may, prevent. And, since the quarrel
+       29  Will bear no colour for the thing he is,
+       30  Fashion it thus; that what he is, augmented,
+       31  Would run to these and these extremities:
+       32  And therefore think him as a serpent's egg
+       33  Which, hatch'd, would, as his kind, grow mischievous,
+       34  And kill him in the shell.
+  Direction: Re-enter LUCIUS
+    LUCIUS
+       35  The taper burneth in your closet, sir.
+       36  Searching the window for a flint, I found
+       37  This paper, thus seal'd up; and, I am sure,
+       38  It did not lie there when I went to bed.
+  Direction: Gives him the letter
+    BRUTUS
+       39  Get you to bed again; it is not day.
+       40  Is not to-morrow, boy, the ides of March?
+    LUCIUS
+       41  I know not, sir.
+    BRUTUS
+       42  Look in the calendar, and bring me word.
+    LUCIUS
+       43  I will, sir.
+  Direction: Exit
+    BRUTUS
+       44  The exhalations whizzing in the air
+       45  Give so much light that I may read by them.
+  Direction: Opens the letter and reads
+       46  'Brutus, thou sleep'st: awake, and see thyself.
+       47  Shall Rome, etc. Speak, strike, redress!
+       48  Brutus, thou sleep'st: awake!'
+       49  Such instigations have been often dropp'd
+       50  Where I have took them up.
+       51  'Shall Rome, etc.' Thus must I piece it out:
+       52  Shall Rome stand under one man's awe? What, Rome?
+       53  My ancestors did from the streets of Rome
+       54  The Tarquin drive, when he was call'd a king.
+       55  'Speak, strike, redress!' Am I entreated
+       56  To speak and strike? O Rome, I make thee promise:
+       57  If the redress will follow, thou receivest
+       58  Thy full petition at the hand of Brutus!
+  Direction: Re-enter LUCIUS
+    LUCIUS
+       59  Sir, March is wasted fourteen days.
+  Direction: Knocking within
+    BRUTUS
+       60  'Tis good. Go to the gate; somebody knocks.
+  Direction: Exit LUCIUS
+       61  Since Cassius first did whet me against Caesar,
+       62  I have not slept.
+       63  Between the acting of a dreadful thing
+       64  And the first motion, all the interim is
+       65  Like a phantasma, or a hideous dream:
+       66  The Genius and the mortal instruments
+       67  Are then in council; and the state of man,
+       68  Like to a little kingdom, suffers then
+       69  The nature of an insurrection.
+  Direction: Re-enter LUCIUS
+    LUCIUS
+       70  Sir, 'tis your brother Cassius at the door,
+       71  Who doth desire to see you.
+    BRUTUS
+       72  Is he alone?
+    LUCIUS
+       73  No, sir, there are moe with him.
+    BRUTUS
+       74  Do you know them?
+    LUCIUS
+       75  No, sir; their hats are pluck'd about their ears,
+       76  And half their faces buried in their cloaks,
+       77  That by no means I may discover them
+       78  By any mark of favour.
+    BRUTUS
+       79  Let 'em enter.
+  Direction: Exit LUCIUS
+       80  They are the faction. O conspiracy,
+       81  Shamest thou to show thy dangerous brow by night,
+       82  When evils are most free? O, then by day
+       83  Where wilt thou find a cavern dark enough
+       84  To mask thy monstrous visage? Seek none, conspiracy;
+       85  Hide it in smiles and affability:
+       86  For if thou path, thy native semblance on,
+       87  Not Erebus itself were dim enough
+       88  To hide thee from prevention.
+  Direction: Enter the conspirators, CASSIUS, CASCA, DECIUS BRUTUS, CINNA, METELLUS CIMBER, and TREBONIUS
+    CASSIUS
+       89  I think we are too bold upon your rest:
+       90  Good morrow, Brutus; do we trouble you?
+    BRUTUS
+       91  I have been up this hour, awake all night.
+       92  Know I these men that come along with you?
+    CASSIUS
+       93  Yes, every man of them, and no man here
+       94  But honours you; and every one doth wish
+       95  You had but that opinion of yourself
+       96  Which every noble Roman bears of you.
+       97  This is Trebonius.
+    BRUTUS
+       98  He is welcome hither.
+    CASSIUS
+       99  This, Decius Brutus.
+    BRUTUS
+      100  He is welcome too.
+    CASSIUS
+      101  This, Casca; this, Cinna; and this, Metellus Cimber.
+    BRUTUS
+      102  They are all welcome.
+      103  What watchful cares do interpose themselves
+      104  Betwixt your eyes and night?
+    CASSIUS
+      105  Shall I entreat a word?
+  Direction: BRUTUS and CASSIUS whisper
+    DECIUS BRUTUS
+      106  Here lies the east: doth not the day break here?
+    CASCA
+      107  No.
+    CINNA
+      108  O, pardon, sir, it doth; and yon gray lines
+      109  That fret the clouds are messengers of day.
+    CASCA
+      110  You shall confess that you are both deceived.
+      111  Here, as I point my sword, the sun arises,
+      112  Which is a great way growing on the south,
+      113  Weighing the youthful season of the year.
+      114  Some two months hence up higher toward the north
+      115  He first presents his fire; and the high east
+      116  Stands, as the Capitol, directly here.
+    BRUTUS
+      117  Give me your hands all over, one by one.
+    CASSIUS
+      118  And let us swear our resolution.
+    BRUTUS
+      119  No, not an oath: if not the face of men,
+      120  The sufferance of our souls, the time's abuse,--
+      121  If these be motives weak, break off betimes,
+      122  And every man hence to his idle bed;
+      123  So let high-sighted tyranny range on,
+      124  Till each man drop by lottery. But if these,
+      125  As I am sure they do, bear fire enough
+      126  To kindle cowards and to steel with valour
+      127  The melting spirits of women, then, countrymen,
+      128  What need we any spur but our own cause,
+      129  To prick us to redress? what other bond
+      130  Than secret Romans, that have spoke the word,
+      131  And will not palter? and what other oath
+      132  Than honesty to honesty engaged,
+      133  That this shall be, or we will fall for it?
+      134  Swear priests and cowards and men cautelous,
+      135  Old feeble carrions and such suffering souls
+      136  That welcome wrongs; unto bad causes swear
+      137  Such creatures as men doubt; but do not stain
+      138  The even virtue of our enterprise,
+      139  Nor the insuppressive mettle of our spirits,
+      140  To think that or our cause or our performance
+      141  Did need an oath; when every drop of blood
+      142  That every Roman bears, and nobly bears,
+      143  Is guilty of a several bastardy,
+      144  If he do break the smallest particle
+      145  Of any promise that hath pass'd from him.
+    CASSIUS
+      146  But what of Cicero? shall we sound him?
+      147  I think he will stand very strong with us.
+    CASCA
+      148  Let us not leave him out.
+    CINNA
+      149  No, by no means.
+    METELLUS CIMBER
+      150  O, let us have him, for his silver hairs
+      151  Will purchase us a good opinion
+      152  And buy men's voices to commend our deeds:
+      153  It shall be said, his judgment ruled our hands;
+      154  Our youths and wildness shall no whit appear,
+      155  But all be buried in his gravity.
+    BRUTUS
+      156  O, name him not: let us not break with him;
+      157  For he will never follow any thing
+      158  That other men begin.
+    CASSIUS
+      159  Then leave him out.
+    CASCA
+      160  Indeed he is not fit.
+    DECIUS BRUTUS
+      161  Shall no man else be touch'd but only Caesar?
+    CASSIUS
+      162  Decius, well urged: I think it is not meet,
+      163  Mark Antony, so well beloved of Caesar,
+      164  Should outlive Caesar: we shall find of him
+      165  A shrewd contriver; and, you know, his means,
+      166  If he improve them, may well stretch so far
+      167  As to annoy us all: which to prevent,
+      168  Let Antony and Caesar fall together.
+    BRUTUS
+      169  Our course will seem too bloody, Caius Cassius,
+      170  To cut the head off and then hack the limbs,
+      171  Like wrath in death and envy afterwards;
+      172  For Antony is but a limb of Caesar:
+      173  Let us be sacrificers, but not butchers, Caius.
+      174  We all stand up against the spirit of Caesar;
+      175  And in the spirit of men there is no blood:
+      176  O, that we then could come by Caesar's spirit,
+      177  And not dismember Caesar! But, alas,
+      178  Caesar must bleed for it! And, gentle friends,
+      179  Let's kill him boldly, but not wrathfully;
+      180  Let's carve him as a dish fit for the gods,
+      181  Not hew him as a carcass fit for hounds:
+      182  And let our hearts, as subtle masters do,
+      183  Stir up their servants to an act of rage,
+      184  And after seem to chide 'em. This shall make
+      185  Our purpose necessary and not envious:
+      186  Which so appearing to the common eyes,
+      187  We shall be call'd purgers, not murderers.
+      188  And for Mark Antony, think not of him;
+      189  For he can do no more than Caesar's arm
+      190  When Caesar's head is off.
+    CASSIUS
+      191  Yet I fear him;
+      192  For in the ingrafted love he bears to Caesar--
+    BRUTUS
+      193  Alas, good Cassius, do not think of him:
+      194  If he love Caesar, all that he can do
+      195  Is to himself, take thought and die for Caesar:
+      196  And that were much he should; for he is given
+      197  To sports, to wildness and much company.
+    TREBONIUS
+      198  There is no fear in him; let him not die;
+      199  For he will live, and laugh at this hereafter.
+  Direction: Clock strikes
+    BRUTUS
+      200  Peace! count the clock.
+    CASSIUS
+      201  The clock hath stricken three.
+    TREBONIUS
+      202  'Tis time to part.
+    CASSIUS
+      203  But it is doubtful yet,
+      204  Whether Caesar will come forth to-day, or no;
+      205  For he is superstitious grown of late,
+      206  Quite from the main opinion he held once
+      207  Of fantasy, of dreams and ceremonies:
+      208  It may be, these apparent prodigies,
+      209  The unaccustom'd terror of this night,
+      210  And the persuasion of his augurers,
+      211  May hold him from the Capitol to-day.
+    DECIUS BRUTUS
+      212  Never fear that: if he be so resolved,
+      213  I can o'ersway him; for he loves to hear
+      214  That unicorns may be betray'd with trees,
+      215  And bears with glasses, elephants with holes,
+      216  Lions with toils and men with flatterers;
+      217  But when I tell him he hates flatterers,
+      218  He says he does, being then most flattered.
+      219  Let me work;
+      220  For I can give his humour the true bent,
+      221  And I will bring him to the Capitol.
+    CASSIUS
+      222  Nay, we will all of us be there to fetch him.
+    BRUTUS
+      223  By the eighth hour: is that the uttermost?
+    CINNA
+      224  Be that the uttermost, and fail not then.
+    METELLUS CIMBER
+      225  Caius Ligarius doth bear Caesar hard,
+      226  Who rated him for speaking well of Pompey:
+      227  I wonder none of you have thought of him.
+    BRUTUS
+      228  Now, good Metellus, go along by him:
+      229  He loves me well, and I have given him reasons;
+      230  Send him but hither, and I'll fashion him.
+    CASSIUS
+      231  The morning comes upon 's: we'll leave you, Brutus.
+      232  And, friends, disperse yourselves; but all remember
+      233  What you have said, and show yourselves true Romans.
+    BRUTUS
+      234  Good gentlemen, look fresh and merrily;
+      235  Let not our looks put on our purposes,
+      236  But bear it as our Roman actors do,
+      237  With untired spirits and formal constancy:
+      238  And so good morrow to you every one.
+  Direction: Exeunt all but BRUTUS
+      239  Boy! Lucius! Fast asleep? It is no matter;
+      240  Enjoy the honey-heavy dew of slumber:
+      241  Thou hast no figures nor no fantasies,
+      242  Which busy care draws in the brains of men;
+      243  Therefore thou sleep'st so sound.
+  Direction: Enter PORTIA
+    PORTIA
+      244  Brutus, my lord!
+    BRUTUS
+      245  Portia, what mean you? wherefore rise you now?
+      246  It is not for your health thus to commit
+      247  Your weak condition to the raw cold morning.
+    PORTIA
+      248  Nor for yours neither. You've ungently, Brutus,
+      249  Stole from my bed: and yesternight, at supper,
+      250  You suddenly arose, and walk'd about,
+      251  Musing and sighing, with your arms across,
+      252  And when I ask'd you what the matter was,
+      253  You stared upon me with ungentle looks;
+      254  I urged you further; then you scratch'd your head,
+      255  And too impatiently stamp'd with your foot;
+      256  Yet I insisted, yet you answer'd not,
+      257  But, with an angry wafture of your hand,
+      258  Gave sign for me to leave you: so I did;
+      259  Fearing to strengthen that impatience
+      260  Which seem'd too much enkindled, and withal
+      261  Hoping it was but an effect of humour,
+      262  Which sometime hath his hour with every man.
+      263  It will not let you eat, nor talk, nor sleep,
+      264  And could it work so much upon your shape
+      265  As it hath much prevail'd on your condition,
+      266  I should not know you, Brutus. Dear my lord,
+      267  Make me acquainted with your cause of grief.
+    BRUTUS
+      268  I am not well in health, and that is all.
+    PORTIA
+      269  Brutus is wise, and, were he not in health,
+      270  He would embrace the means to come by it.
+    BRUTUS
+      271  Why, so I do. Good Portia, go to bed.
+    PORTIA
+      272  Is Brutus sick? and is it physical
+      273  To walk unbraced and suck up the humours
+      274  Of the dank morning? What, is Brutus sick,
+      275  And will he steal out of his wholesome bed,
+      276  To dare the vile contagion of the night
+      277  And tempt the rheumy and unpurged air
+      278  To add unto his sickness? No, my Brutus;
+      279  You have some sick offence within your mind,
+      280  Which, by the right and virtue of my place,
+      281  I ought to know of: and, upon my knees,
+      282  I charm you, by my once-commended beauty,
+      283  By all your vows of love and that great vow
+      284  Which did incorporate and make us one,
+      285  That you unfold to me, yourself, your half,
+      286  Why you are heavy, and what men to-night
+      287  Have had to resort to you: for here have been
+      288  Some six or seven, who did hide their faces
+      289  Even from darkness.
+    BRUTUS
+      290  Kneel not, gentle Portia.
+    PORTIA
+      291  I should not need, if you were gentle Brutus.
+      292  Within the bond of marriage, tell me, Brutus,
+      293  Is it excepted I should know no secrets
+      294  That appertain to you? Am I yourself
+      295  But, as it were, in sort or limitation,
+      296  To keep with you at meals, comfort your bed,
+      297  And talk to you sometimes? Dwell I but in the suburbs
+      298  Of your good pleasure? If it be no more,
+      299  Portia is Brutus' harlot, not his wife.
+    BRUTUS
+      300  You are my true and honourable wife,
+      301  As dear to me as are the ruddy drops
+      302  That visit my sad heart
+    PORTIA
+      303  If this were true, then should I know this secret.
+      304  I grant I am a woman; but withal
+      305  A woman that Lord Brutus took to wife:
+      306  I grant I am a woman; but withal
+      307  A woman well-reputed, Cato's daughter.
+      308  Think you I am no stronger than my sex,
+      309  Being so father'd and so husbanded?
+      310  Tell me your counsels, I will not disclose 'em:
+      311  I have made strong proof of my constancy,
+      312  Giving myself a voluntary wound
+      313  Here, in the thigh: can I bear that with patience.
+      314  And not my husband's secrets?
+    BRUTUS
+      315  O ye gods,
+      316  Render me worthy of this noble wife!
+  Direction: Knocking within
+      317  Hark, hark! one knocks: Portia, go in awhile;
+      318  And by and by thy bosom shall partake
+      319  The secrets of my heart.
+      320  All my engagements I will construe to thee,
+      321  All the charactery of my sad brows:
+      322  Leave me with haste.
+  Direction: Exit PORTIA
+      323  Lucius, who's that knocks?
+  Direction: Re-enter LUCIUS with LIGARIUS
+    LUCIUS
+      324  He is a sick man that would speak with you.
+    BRUTUS
+      325  Caius Ligarius, that Metellus spake of.
+      326  Boy, stand aside. Caius Ligarius! how?
+    LIGARIUS
+      327  Vouchsafe good morrow from a feeble tongue.
+    BRUTUS
+      328  O, what a time have you chose out, brave Caius,
+      329  To wear a kerchief! Would you were not sick!
+    LIGARIUS
+      330  I am not sick, if Brutus have in hand
+      331  Any exploit worthy the name of honour.
+    BRUTUS
+      332  Such an exploit have I in hand, Ligarius,
+      333  Had you a healthful ear to hear of it.
+    LIGARIUS
+      334  By all the gods that Romans bow before,
+      335  I here discard my sickness! Soul of Rome!
+      336  Brave son, derived from honourable loins!
+      337  Thou, like an exorcist, hast conjured up
+      338  My mortified spirit. Now bid me run,
+      339  And I will strive with things impossible;
+      340  Yea, get the better of them. What's to do?
+    BRUTUS
+      341  A piece of work that will make sick men whole.
+    LIGARIUS
+      342  But are not some whole that we must make sick?
+    BRUTUS
+      343  That must we also. What it is, my Caius,
+      344  I shall unfold to thee, as we are going
+      345  To whom it must be done.
+    LIGARIUS
+      346  Set on your foot,
+      347  And with a heart new-fired I follow you,
+      348  To do I know not what: but it sufficeth
+      349  That Brutus leads me on.
+    BRUTUS
+      350  Follow me, then.
+  Direction: Exeunt

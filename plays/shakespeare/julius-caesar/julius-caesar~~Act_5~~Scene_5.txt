@@ -1,0 +1,140 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          Julius Caesar : Act 5 : Scene 5
+
+SCENE V. Another part of the field.
+  Direction: Enter BRUTUS, DARDANIUS, CLITUS, STRATO, and VOLUMNIUS
+    BRUTUS
+        1  Come, poor remains of friends, rest on this rock.
+    CLITUS
+        2  Statilius show'd the torch-light, but, my lord,
+        3  He came not back: he is or ta'en or slain.
+    BRUTUS
+        4  Sit thee down, Clitus: slaying is the word;
+        5  It is a deed in fashion. Hark thee, Clitus.
+  Direction: Whispers
+    CLITUS
+        6  What, I, my lord? No, not for all the world.
+    BRUTUS
+        7  Peace then! no words.
+    CLITUS
+        8  I'll rather kill myself.
+    BRUTUS
+        9  Hark thee, Dardanius.
+  Direction: Whispers
+    DARDANIUS
+       10  Shall I do such a deed?
+    CLITUS
+       11  O Dardanius!
+    DARDANIUS
+       12  O Clitus!
+    CLITUS
+       13  What ill request did Brutus make to thee?
+    DARDANIUS
+       14  To kill him, Clitus. Look, he meditates.
+    CLITUS
+       15  Now is that noble vessel full of grief,
+       16  That it runs over even at his eyes.
+    BRUTUS
+       17  Come hither, good Volumnius; list a word.
+    VOLUMNIUS
+       18  What says my lord?
+    BRUTUS
+       19  Why, this, Volumnius:
+       20  The ghost of Caesar hath appear'd to me
+       21  Two several times by night; at Sardis once,
+       22  And, this last night, here in Philippi fields:
+       23  I know my hour is come.
+    VOLUMNIUS
+       24  Not so, my lord.
+    BRUTUS
+       25  Nay, I am sure it is, Volumnius.
+       26  Thou seest the world, Volumnius, how it goes;
+       27  Our enemies have beat us to the pit:
+  Direction: Low alarums
+       28  It is more worthy to leap in ourselves,
+       29  Than tarry till they push us. Good Volumnius,
+       30  Thou know'st that we two went to school together:
+       31  Even for that our love of old, I prithee,
+       32  Hold thou my sword-hilts, whilst I run on it.
+    VOLUMNIUS
+       33  That's not an office for a friend, my lord.
+  Direction: Alarum still
+    CLITUS
+       34  Fly, fly, my lord; there is no tarrying here.
+    BRUTUS
+       35  Farewell to you; and you; and you, Volumnius.
+       36  Strato, thou hast been all this while asleep;
+       37  Farewell to thee too, Strato. Countrymen,
+       38  My heart doth joy that yet in all my life
+       39  I found no man but he was true to me.
+       40  I shall have glory by this losing day
+       41  More than Octavius and Mark Antony
+       42  By this vile conquest shall attain unto.
+       43  So fare you well at once; for Brutus' tongue
+       44  Hath almost ended his life's history:
+       45  Night hangs upon mine eyes; my bones would rest,
+       46  That have but labour'd to attain this hour.
+  Direction: Alarum. Cry within, 'Fly, fly, fly!'
+    CLITUS
+       47  Fly, my lord, fly.
+    BRUTUS
+       48  Hence! I will follow.
+  Direction: Exeunt CLITUS, DARDANIUS, and VOLUMNIUS
+       49  I prithee, Strato, stay thou by thy lord:
+       50  Thou art a fellow of a good respect;
+       51  Thy life hath had some smatch of honour in it:
+       52  Hold then my sword, and turn away thy face,
+       53  While I do run upon it. Wilt thou, Strato?
+    STRATO
+       54  Give me your hand first. Fare you well, my lord.
+    BRUTUS
+       55  Farewell, good Strato.
+  Direction: Runs on his sword
+       56  Caesar, now be still:
+       57  I kill'd not thee with half so good a will.
+  Direction: Dies
+  Direction: Alarum. Retreat. Enter OCTAVIUS, ANTONY, MESSALA, LUCILIUS, and the army
+    OCTAVIUS
+       58  What man is that?
+    MESSALA
+       59  My master's man. Strato, where is thy master?
+    STRATO
+       60  Free from the bondage you are in, Messala:
+       61  The conquerors can but make a fire of him;
+       62  For Brutus only overcame himself,
+       63  And no man else hath honour by his death.
+    LUCILIUS
+       64  So Brutus should be found. I thank thee, Brutus,
+       65  That thou hast proved Lucilius' saying true.
+    OCTAVIUS
+       66  All that served Brutus, I will entertain them.
+       67  Fellow, wilt thou bestow thy time with me?
+    STRATO
+       68  Ay, if Messala will prefer me to you.
+    OCTAVIUS
+       69  Do so, good Messala.
+    MESSALA
+       70  How died my master, Strato?
+    STRATO
+       71  I held the sword, and he did run on it.
+    MESSALA
+       72  Octavius, then take him to follow thee,
+       73  That did the latest service to my master.
+    ANTONY
+       74  This was the noblest Roman of them all:
+       75  All the conspirators save only he
+       76  Did that they did in envy of great Caesar;
+       77  He only, in a general honest thought
+       78  And common good to all, made one of them.
+       79  His life was gentle, and the elements
+       80  So mix'd in him that Nature might stand up
+       81  And say to all the world 'This was a man!'
+    OCTAVIUS
+       82  According to his virtue let us use him,
+       83  With all respect and rites of burial.
+       84  Within my tent his bones to-night shall lie,
+       85  Most like a soldier, order'd honourably.
+       86  So call the field to rest; and let's away,
+       87  To part the glories of this happy day.
+  Direction: Exeunt
