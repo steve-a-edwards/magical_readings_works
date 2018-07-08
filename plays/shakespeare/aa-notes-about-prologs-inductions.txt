@@ -1,19 +1,19 @@
-For simplicity of the programming of 'Magical Readings', sections of plays labelled
+To simplify the programming of 'Magical Readings', sections of plays labelled
 'Prolog' or 'Induction' are given appropriate act or scene numbers.
 
 For example:
 
 Romeo and Juliet
 ----------------
-Act 1, Prologue: PROLOGUE
-becomes: Act 1, Scene 0
+Act 1, Prologue: 
+- say: "Go to Act 1, Scene 0"
+Act 2, Prologue: 
+- say: "Go to Act 2, Scene 0"
 
 The Taming of the Shrew
 -----------------------
-Induction, Scene 1: Before an alehouse on a heath.
-- becomes: Act 0, Scene 1
+Induction, Scene 1: Before an alehouse on a heath:
+- say: "Go to Act 0, Scene 1"
 
-Induction, Scene 2: A bedchamber in the Lord's house.
-- becomes: Act 0, Scene 2
-
-=
+Induction, Scene 2: A bedchamber in the Lord's house:
+- say: "Go to Act 0, Scene 2"
