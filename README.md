@@ -7,6 +7,6 @@ For the latest information go to the [Magical Readings Website](http://www.magic
 
 This repository of texts is expected to move by the end of 2018.  
 
-The skill is expected to be made generally available during June 2018.  
+The skill has been made available initially to volunteers (July 2018).  
 
 See the above web site for more details.
