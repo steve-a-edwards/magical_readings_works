@@ -1,0 +1,216 @@
+Provided by Escala Ltd (www.escala.co.uk), on www.magical-readings.com
+
+          As You Like It : Act 1 : Scene 1
+
+SCENE I. Orchard of Oliver's house.
+  Direction: Enter ORLANDO and ADAM
+    ORLANDO
+        1  As I remember, Adam, it was upon this fashion
+        2  bequeathed me by will but poor a thousand crowns,
+        3  and, as thou sayest, charged my brother, on his
+        4  blessing, to breed me well: and there begins my
+        5  sadness. My brother Jaques he keeps at school, and
+        6  report speaks goldenly of his profit: for my part,
+        7  he keeps me rustically at home, or, to speak more
+        8  properly, stays me here at home unkept; for call you
+        9  that keeping for a gentleman of my birth, that
+       10  differs not from the stalling of an ox? His horses
+       11  are bred better; for, besides that they are fair
+       12  with their feeding, they are taught their manage,
+       13  and to that end riders dearly hired: but I, his
+       14  brother, gain nothing under him but growth; for the
+       15  which his animals on his dunghills are as much
+       16  bound to him as I. Besides this nothing that he so
+       17  plentifully gives me, the something that nature gave
+       18  me his countenance seems to take from me: he lets
+       19  me feed with his hinds, bars me the place of a
+       20  brother, and, as much as in him lies, mines my
+       21  gentility with my education. This is it, Adam, that
+       22  grieves me; and the spirit of my father, which I
+       23  think is within me, begins to mutiny against this
+       24  servitude: I will no longer endure it, though yet I
+       25  know no wise remedy how to avoid it.
+    ADAM
+       26  Yonder comes my master, your brother.
+    ORLANDO
+       27  Go apart, Adam, and thou shalt hear how he will
+       28  shake me up.
+  Direction: Enter OLIVER
+    OLIVER
+       29  Now, sir! what make you here?
+    ORLANDO
+       30  Nothing: I am not taught to make any thing.
+    OLIVER
+       31  What mar you then, sir?
+    ORLANDO
+       32  Marry, sir, I am helping you to mar that which God
+       33  made, a poor unworthy brother of yours, with idleness.
+    OLIVER
+       34  Marry, sir, be better employed, and be naught awhile.
+    ORLANDO
+       35  Shall I keep your hogs and eat husks with them?
+       36  What prodigal portion have I spent, that I should
+       37  come to such penury?
+    OLIVER
+       38  Know you where your are, sir?
+    ORLANDO
+       39  O, sir, very well; here in your orchard.
+    OLIVER
+       40  Know you before whom, sir?
+    ORLANDO
+       41  Ay, better than him I am before knows me. I know
+       42  you are my eldest brother; and, in the gentle
+       43  condition of blood, you should so know me. The
+       44  courtesy of nations allows you my better, in that
+       45  you are the first-born; but the same tradition
+       46  takes not away my blood, were there twenty brothers
+       47  betwixt us: I have as much of my father in me as
+       48  you; albeit, I confess, your coming before me is
+       49  nearer to his reverence.
+    OLIVER
+       50  What, boy!
+    ORLANDO
+       51  Come, come, elder brother, you are too young in this.
+    OLIVER
+       52  Wilt thou lay hands on me, villain?
+    ORLANDO
+       53  I am no villain; I am the youngest son of Sir
+       54  Rowland de Boys; he was my father, and he is thrice
+       55  a villain that says such a father begot villains.
+       56  Wert thou not my brother, I would not take this hand
+       57  from thy throat till this other had pulled out thy
+       58  tongue for saying so: thou hast railed on thyself.
+    ADAM
+       59  Sweet masters, be patient: for your father's
+       60  remembrance, be at accord.
+    OLIVER
+       61  Let me go, I say.
+    ORLANDO
+       62  I will not, till I please: you shall hear me. My
+       63  father charged you in his will to give me good
+       64  education: you have trained me like a peasant,
+       65  obscuring and hiding from me all gentleman-like
+       66  qualities. The spirit of my father grows strong in
+       67  me, and I will no longer endure it: therefore allow
+       68  me such exercises as may become a gentleman, or
+       69  give me the poor allottery my father left me by
+       70  testament; with that I will go buy my fortunes.
+    OLIVER
+       71  And what wilt thou do? beg, when that is spent?
+       72  Well, sir, get you in: I will not long be troubled
+       73  with you; you shall have some part of your will: I
+       74  pray you, leave me.
+    ORLANDO
+       75  I will no further offend you than becomes me for my good.
+    OLIVER
+       76  Get you with him, you old dog.
+    ADAM
+       77  Is 'old dog' my reward? Most true, I have lost my
+       78  teeth in your service. God be with my old master!
+       79  he would not have spoke such a word.
+  Direction: Exeunt ORLANDO and ADAM
+    OLIVER
+       80  Is it even so? begin you to grow upon me? I will
+       81  physic your rankness, and yet give no thousand
+       82  crowns neither. Holla, Dennis!
+  Direction: Enter DENNIS
+    DENNIS
+       83  Calls your worship?
+    OLIVER
+       84  Was not Charles, the duke's wrestler, here to speak with me?
+    DENNIS
+       85  So please you, he is here at the door and importunes
+       86  access to you.
+    OLIVER
+       87  Call him in.
+  Direction: Exit DENNIS
+       88  'Twill be a good way; and to-morrow the wrestling is.
+  Direction: Enter CHARLES
+    CHARLES
+       89  Good morrow to your worship.
+    OLIVER
+       90  Good Monsieur Charles, what's the new news at the
+       91  new court?
+    CHARLES
+       92  There's no news at the court, sir, but the old news:
+       93  that is, the old duke is banished by his younger
+       94  brother the new duke; and three or four loving lords
+       95  have put themselves into voluntary exile with him,
+       96  whose lands and revenues enrich the new duke;
+       97  therefore he gives them good leave to wander.
+    OLIVER
+       98  Can you tell if Rosalind, the duke's daughter, be
+       99  banished with her father?
+    CHARLES
+      100  O, no; for the duke's daughter, her cousin, so loves
+      101  her, being ever from their cradles bred together,
+      102  that she would have followed her exile, or have died
+      103  to stay behind her. She is at the court, and no
+      104  less beloved of her uncle than his own daughter; and
+      105  never two ladies loved as they do.
+    OLIVER
+      106  Where will the old duke live?
+    CHARLES
+      107  They say he is already in the forest of Arden, and
+      108  a many merry men with him; and there they live like
+      109  the old Robin Hood of England: they say many young
+      110  gentlemen flock to him every day, and fleet the time
+      111  carelessly, as they did in the golden world.
+    OLIVER
+      112  What, you wrestle to-morrow before the new duke?
+    CHARLES
+      113  Marry, do I, sir; and I came to acquaint you with a
+      114  matter. I am given, sir, secretly to understand
+      115  that your younger brother Orlando hath a disposition
+      116  to come in disguised against me to try a fall.
+      117  To-morrow, sir, I wrestle for my credit; and he that
+      118  escapes me without some broken limb shall acquit him
+      119  well. Your brother is but young and tender; and,
+      120  for your love, I would be loath to foil him, as I
+      121  must, for my own honour, if he come in: therefore,
+      122  out of my love to you, I came hither to acquaint you
+      123  withal, that either you might stay him from his
+      124  intendment or brook such disgrace well as he shall
+      125  run into, in that it is a thing of his own search
+      126  and altogether against my will.
+    OLIVER
+      127  Charles, I thank thee for thy love to me, which
+      128  thou shalt find I will most kindly requite. I had
+      129  myself notice of my brother's purpose herein and
+      130  have by underhand means laboured to dissuade him from
+      131  it, but he is resolute. I'll tell thee, Charles:
+      132  it is the stubbornest young fellow of France, full
+      133  of ambition, an envious emulator of every man's
+      134  good parts, a secret and villanous contriver against
+      135  me his natural brother: therefore use thy
+      136  discretion; I had as lief thou didst break his neck
+      137  as his finger. And thou wert best look to't; for if
+      138  thou dost him any slight disgrace or if he do not
+      139  mightily grace himself on thee, he will practise
+      140  against thee by poison, entrap thee by some
+      141  treacherous device and never leave thee till he
+      142  hath ta'en thy life by some indirect means or other;
+      143  for, I assure thee, and almost with tears I speak
+      144  it, there is not one so young and so villanous this
+      145  day living. I speak but brotherly of him; but
+      146  should I anatomize him to thee as he is, I must
+      147  blush and weep and thou must look pale and wonder.
+    CHARLES
+      148  I am heartily glad I came hither to you. If he come
+      149  to-morrow, I'll give him his payment: if ever he go
+      150  alone again, I'll never wrestle for prize more: and
+      151  so God keep your worship!
+    OLIVER
+      152  Farewell, good Charles.
+  Direction: Exit CHARLES
+      153  Now will I stir this gamester: I hope I shall see
+      154  an end of him; for my soul, yet I know not why,
+      155  hates nothing more than he. Yet he's gentle, never
+      156  schooled and yet learned, full of noble device, of
+      157  all sorts enchantingly beloved, and indeed so much
+      158  in the heart of the world, and especially of my own
+      159  people, who best know him, that I am altogether
+      160  misprised: but it shall not be so long; this
+      161  wrestler shall clear all: nothing remains but that
+      162  I kindle the boy thither; which now I'll go about.
+  Direction: Exit
